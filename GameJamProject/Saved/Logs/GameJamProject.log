@@ -348,3 +348,42 @@ LogInit: Object subsystem initialized
 [2018.09.13-15.39.39:990][789]LogWindows: Warning: URL: C:\Users\malin\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
 [2018.09.13-15.39.39:991][789]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
 [2018.09.13-15.39.39:991][789]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.09.13-15.40.41:639][265]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.40.45:676][425]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.40.57:383][461]LogSlate: Took 0.020683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.13-15.41.01:245][515]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.41.17:369][ 61]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.42.09:638][705]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.42.19:476][ 40]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.09.13-15.43.42:089][906]LogSlate: Window 'Source Control Login' being destroyed
+[2018.09.13-15.43.45:730][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-15.43.51:916][ 10]SourceControl: fatal: F:/Unreal Engine/UE_4.20/Engine/Content: 'F:/Unreal Engine/UE_4.20/Engine/Content' is outside repository
+[2018.09.13-15.43.52:011][ 10]EditorErrors: Warning: No assets to check in!
+[2018.09.13-15.44.02:738][930]LogActorFactory: Actor Factory created Cube
+[2018.09.13-15.44.03:373][987]LogActorFactory: Actor Factory created Cube
+[2018.09.13-15.44.03:548][989]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.13-15.44.04:208][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-15.44.04:330][ 72]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.13-15.44.05:677][ 72]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.13-15.44.05:756][ 80]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.13-15.44.08:641][407]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.09.13-15.44.08:707][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-15.44.11:393][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.13-15.44.13:273][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-15.44.14:350][924]LogSlate: Window 'Save Content' being destroyed
+[2018.09.13-15.44.14:365][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-15.44.14:426][924]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.13-15.44.14:435][924]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-15.44.14:437][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-15.44.15:815][924]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.13-15.44.15:887][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.13-15.44.15:933][924]LogSavePackage: Moving '../../../../../Projet/Gamejam/GameJam/GameJamProject/Saved/UntitledACCF4837475EF2E3F194F395C7465836.tmp' to '../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Untitled.umap'
+[2018.09.13-15.44.16:195][924]LogFileHelpers: Saving map 'Untitled' took 0.375
+[2018.09.13-15.44.16:306][934]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.09.13-15.44.22:185][601]SourceControl: fatal: F:/Unreal Engine/UE_4.20/Engine/Content: 'F:/Unreal Engine/UE_4.20/Engine/Content' is outside repository
+[2018.09.13-15.44.24:855][601]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.13-15.44.25:206][601]LogSourceControl: commit successful: [master ad95caf] 1
+[2018.09.13-15.44.25:250][601]SourceControl: [master ad95caf] 1
+[2018.09.13-15.44.25:250][601]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.09.13-15.44.25:250][601]SourceControl:  create mode 100644 GameJamProject/Content/Maps/Untitled.umap
+[2018.09.13-15.44.25:259][601]SourceControl: Commited [master ad95caf] 1.
