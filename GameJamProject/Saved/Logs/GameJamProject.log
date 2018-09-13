@@ -276,3 +276,64 @@ LogInit: Object subsystem initialized
 [2018.09.13-14.46.12:916][  0]SourceControl: Source control is disabled
 [2018.09.13-14.46.16:514][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
 [2018.09.13-14.46.16:569][  0]LogOcInput: OculusInput pre-init called
+[2018.09.13-14.46.32:413][  0]LogEngine: Initializing Engine...
+[2018.09.13-14.46.32:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.13-14.46.32:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-14.46.32:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-14.46.32:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-14.46.32:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-14.46.32:740][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.13-14.46.32:767][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.13-14.46.32:778][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.13-14.46.32:840][  0]LogInit: FAudioDevice initialized.
+[2018.09.13-14.46.32:841][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.13-14.46.33:555][  0]LogDerivedDataCache: Saved boot cache 0.71s 80MB C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.13-14.46.33:560][  0]LogInit: Texture streaming: Enabled
+[2018.09.13-14.46.33:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.13-14.46.33:612][  0]LogInit: Transaction tracking system initialized
+[2018.09.13-14.46.33:658][  0]BlueprintLog: New page: Editor Load
+[2018.09.13-14.46.33:892][  0]LocalizationService: Localization service is disabled
+[2018.09.13-14.46.34:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/' took 0.01s
+[2018.09.13-14.46.34:808][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.13-14.46.34:808][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.13-14.46.34:808][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.13-14.46.34:809][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-14.46.34:809][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-14.46.34:809][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-14.46.34:809][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-14.46.38:624][  0]SourceControl: Source control is disabled
+[2018.09.13-14.46.38:624][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-14.46.38:625][  0]LightingResults: New page: Lighting Build
+[2018.09.13-14.46.38:630][  0]MapCheck: New page: Map Check
+[2018.09.13-14.46.38:630][  0]LightingResults: New page: Lighting Build
+[2018.09.13-14.46.39:016][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.13-14.46.39:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-14.46.39:073][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-14.46.39:211][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138,457ms to complete.
+[2018.09.13-14.46.39:211][  0]LogFileHelpers: Loading map 'Template_Default' took 0.587
+[2018.09.13-14.46.40:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-14.46.40:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-14.46.40:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-14.46.40:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-14.46.40:334][  0]LogCollectionManager: Loaded 0 collections in 0.003407 seconds
+[2018.09.13-14.46.40:475][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Collections/' took 0.01s
+[2018.09.13-14.46.40:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Developers/Donovan/Collections/' took 0.01s
+[2018.09.13-14.46.40:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Collections/' took 0.01s
+[2018.09.13-14.46.40:476][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.13-14.46.40:498][  0]LogContentBrowser: Native class hierarchy populated in 0.0215 seconds. Added 2621 classes and 629 folders.
+[2018.09.13-14.46.40:775][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.13-14.46.45:609][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.13-14.46.45:676][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.13-14.46.45:983][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.13-14.46.45:989][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.13-14.46.46:034][  0]LogSlate: Took 0.024295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.13-14.46.46:720][  0]LogRenderer: Reallocating scene render targets to support 1004x456 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-14.46.47:322][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-14.46.47:750][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.09.13-14.46.47:786][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.13-14.46.47:786][  0]LogLoad: (Engine Initialization) Total time: 45.81 seconds
+[2018.09.13-14.46.47:786][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.13-14.46.47:888][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.13-14.47.17:921][  1]LogAssetRegistry: Asset discovery search completed in 68.4444 seconds
+[2018.09.13-14.47.17:928][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.13-14.47.17:929][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000242 seconds (updated 0 objects)
