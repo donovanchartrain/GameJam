@@ -265,3 +265,18 @@ LogInit: Object subsystem initialized
 [2018.09.17-19.11.51:572][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
 [2018.09.17-19.11.51:572][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
 [2018.09.17-19.11.52:493][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
+[2018.09.17-19.12.19:095][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.217882 seconds
+[2018.09.17-19.12.19:230][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.17-19.12.19:230][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.17-19.12.19:230][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.17-19.12.38:617][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.17-19.12.38:738][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.17-19.12.42:793][  0]SourceControl: Source control is disabled
+[2018.09.17-19.12.42:803][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.17-19.12.42:803][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.17-19.12.43:140][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.17-19.12.43:140][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.17-19.12.43:419][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.17-19.12.43:419][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.17-19.12.47:556][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.17-19.12.48:464][  0]LogOcInput: OculusInput pre-init called
