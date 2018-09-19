@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 09/19/18 16:39:11
+=======
+﻿Log file open, 09/19/18 19:36:43
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GameJamProject
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.341816
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.468368
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +102,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.287s to configure plugins.
+=======
+LogStreaming: Display: Took  0.261s to configure plugins.
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -118,13 +131,21 @@ LogInit: Build: ++UE4+Release-4.20-CL-4302132
 LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+=======
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
 LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
 LogInit: Command Line:  
+<<<<<<< HEAD
 LogInit: Base Directory: F:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -147,6 +168,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.012s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -1385,3 +1407,622 @@ LogInit: Object subsystem initialized
 [2018.09.19-14.42.09:521][730]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.09.19-14.42.09:524][730]LogExit: Exiting.
 [2018.09.19-14.42.09:531][730]Log file closed, 09/19/18 16:42:09
+=======
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.19-17.36.46:471][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.19-17.36.46:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.19-17.36.46:536][  0]LogHAL: Display: Platform has ~ 8 GB [8467304448 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.19-17.36.46:536][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.19-17.36.46:537][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.19-17.36.46:568][  0]LogInit: Computer: LAPTOP-PE489EAU
+[2018.09.19-17.36.46:568][  0]LogInit: User: Tempo
+[2018.09.19-17.36.46:568][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.19-17.36.46:568][  0]LogInit: High frequency timer resolution =1.757808 MHz
+[2018.09.19-17.36.46:569][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.19-17.36.46:569][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.19-17.36.46:569][  0]LogMemory: Process Physical Memory: 99.51 MB used, 99.51 MB peak
+[2018.09.19-17.36.46:569][  0]LogMemory: Process Virtual Memory: 93.30 MB used, 93.30 MB peak
+[2018.09.19-17.36.46:569][  0]LogMemory: Physical Memory: 5706.60 MB used,  2368.45 MB free, 8075.05 MB total
+[2018.09.19-17.36.46:569][  0]LogMemory: Virtual Memory: 4642.60 MB used,  2368.45 MB free, 134217728.00 MB total
+[2018.09.19-17.36.47:186][  0]LogInit: Using OS detected language (en-US).
+[2018.09.19-17.36.47:186][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.19-17.36.47:323][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.19-17.36.48:600][  0]LogStreaming: Display: Took  1.415s to InitEngineTextLocalization.
+[2018.09.19-17.36.48:634][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.19-17.36.49:228][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.19-17.36.49:228][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.19-17.36.53:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.19-17.36.53:394][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.19-17.36.53:449][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.09.19-17.36.53:449][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.19-17.36.53:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.19-17.36.53:453][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.19-17.36.53:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.19-17.36.53:461][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.19-17.36.53:461][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.19-17.36.53:471][  0]LogWindows: EnumDisplayDevices:
+[2018.09.19-17.36.53:471][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.09.19-17.36.53:471][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.19-17.36.53:471][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.19-17.36.53:471][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.19-17.36.53:471][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.09.19-17.36.53:471][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.09.19-17.36.53:471][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.09.19-17.36.53:471][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2018.09.19-17.36.53:504][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.19-17.36.53:562][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.09.19-17.36.53:609][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Intermediate/Shaders/WorkingDirectory/17348/).
+[2018.09.19-17.36.53:610][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tempo/AppData/Local/Temp/UnrealShaderWorkingDir/93077F1447F1915920B1BE8F600A8491/'.
+[2018.09.19-17.36.54:854][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.19-17.36.54:883][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.19-17.36.54:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.19-17.36.54:928][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.19-17.36.54:985][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.19-17.36.55:010][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.19-17.36.55:038][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.19-17.36.55:072][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.19-17.36.55:097][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.19-17.36.55:325][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.19-17.36.55:484][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.19-17.36.55:484][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.19-17.36.55:517][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.19-17.36.55:517][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.19-17.36.55:555][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.19-17.36.55:577][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.19-17.36.55:594][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.19-17.36.55:642][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.19-17.36.55:660][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.19-17.36.55:660][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.19-17.36.56:292][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.19-17.36.56:292][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.19-17.36.56:292][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.19-17.37.00:661][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.19-17.37.01:047][  0]LogDerivedDataCache: Loaded boot cache 0.38s 71MB C:/Users/Tempo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.19-17.37.01:048][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tempo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.19-17.37.01:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.19-17.37.01:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.19-17.37.01:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.19-17.37.01:048][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.19-17.37.01:106][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.19-17.37.01:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tempo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.19-17.37.01:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.19-17.37.01:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.19-17.37.01:155][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.19-17.37.01:166][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.19-17.37.01:246][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.19-17.37.02:325][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.09.19-17.37.04:663][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.19-17.37.06:279][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.19-17.37.06:531][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.19-17.37.06:532][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.19-17.37.06:532][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.19-17.37.06:532][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.19-17.37.06:890][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
+[2018.09.19-17.37.13:017][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.151304 seconds
+[2018.09.19-17.37.13:055][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.19-17.37.13:055][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.19-17.37.13:055][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.19-17.37.28:553][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.19-17.37.28:615][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.19-17.37.29:460][  0]SourceControl: Source control is disabled
+[2018.09.19-17.37.29:466][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.19-17.37.29:466][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.19-17.37.29:537][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.19-17.37.29:537][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.19-17.37.29:559][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.19-17.37.29:559][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.19-17.37.30:917][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.19-17.37.31:070][  0]LogOcInput: OculusInput pre-init called
+[2018.09.19-17.37.32:038][  0]LogEngine: Initializing Engine...
+[2018.09.19-17.37.32:153][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.19-17.37.32:183][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.09.19-17.37.32:184][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.19-17.37.32:184][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.19-17.37.32:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.19-17.37.32:971][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.19-17.37.33:134][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.19-17.37.33:173][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-17.37.33:235][  0]LogInit: FAudioDevice initialized.
+[2018.09.19-17.37.33:236][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.19-17.37.33:330][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Tempo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.19-17.37.33:347][  0]LogInit: Texture streaming: Enabled
+[2018.09.19-17.37.33:447][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.19-17.37.33:534][  0]LogInit: Transaction tracking system initialized
+[2018.09.19-17.37.33:857][  0]BlueprintLog: New page: Editor Load
+[2018.09.19-17.37.34:836][  0]LocalizationService: Localization service is disabled
+[2018.09.19-17.37.37:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/' took 0.02s
+[2018.09.19-17.37.37:917][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.19-17.37.37:917][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.19-17.37.37:936][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.19-17.37.37:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.19-17.37.37:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.19-17.37.37:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.19-17.37.37:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.19-17.37.40:929][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.19-17.37.40:930][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.19-17.37.40:947][  0]Cmd: MAP LOAD FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.19-17.37.40:995][  0]LightingResults: New page: Lighting Build
+[2018.09.19-17.37.41:051][  0]MapCheck: New page: Map Check
+[2018.09.19-17.37.41:052][  0]LightingResults: New page: Lighting Build
+[2018.09.19-17.37.42:686][  0]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_4 has an invalid curve.  Please fix!
+[2018.09.19-17.37.45:942][  0]LogAIModule: Creating AISystem for world Start
+[2018.09.19-17.37.46:486][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.19-17.37.46:565][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.19-17.37.46:636][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.077ms to complete.
+[2018.09.19-17.37.46:636][  0]LogFileHelpers: Loading map 'Start' took 5.707
+[2018.09.19-17.37.47:014][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.37.47:026][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.37.47:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.37.47:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.37.47:100][  0]LogCollectionManager: Loaded 0 collections in 0.001730 seconds
+[2018.09.19-17.37.47:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Collections/' took 0.01s
+[2018.09.19-17.37.47:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Developers/Tempo/Collections/' took 0.01s
+[2018.09.19-17.37.47:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Collections/' took 0.01s
+[2018.09.19-17.37.47:157][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.09.19-17.37.47:171][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2572 classes and 603 folders.
+[2018.09.19-17.37.47:206][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.19-17.37.50:049][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.19-17.37.50:096][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.19-17.37.50:518][  0]LogSlate: Took 0.019139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.19-17.37.50:562][  0]LogSlate: Took 0.041904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.19-17.37.50:608][  0]LogSlate: Took 0.021133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.19-17.37.51:019][  0]LogRenderer: Reallocating scene render targets to support 896x460 Format 10 NumSamples 1 (Frame:1).
+[2018.09.19-17.37.51:512][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.19-17.37.51:512][  0]LogLoad: (Engine Initialization) Total time: 133.60 seconds
+[2018.09.19-17.37.51:512][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.19-17.37.51:642][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.19-17.37.51:819][  1]LogSlate: Took 0.021207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.19-17.37.52:515][  5]LogAssetRegistry: Asset discovery search completed in 50.2120 seconds
+[2018.09.19-17.37.52:518][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.19-17.37.52:518][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000145 seconds (updated 0 objects)
+[2018.09.19-17.37.53:167][  7]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.19-17.38.05:241][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.19-17.38.05:241][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.19-17.38.07:302][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.19-17.38.07:350][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.19-17.38.07:402][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.38.07:402][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.19-17.38.07:477][102]PIE: New page: PIE session: Start (19 Sep 2018 21:38:07)
+[2018.09.19-17.38.07:477][102]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.19-17.38.07:500][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022318s)
+[2018.09.19-17.38.07:502][102]LogAIModule: Creating AISystem for world Start
+[2018.09.19-17.38.07:502][102]LogPlayLevel: PIE: World Init took: (0.002491s)
+[2018.09.19-17.38.07:502][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.025047s)
+[2018.09.19-17.38.07:554][102]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-17.38.07:636][102]LogInit: FAudioDevice initialized.
+[2018.09.19-17.38.07:653][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.38.07:865][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.19-17.38.07:874][102]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.19-19.38.07
+[2018.09.19-17.38.07:949][102]LogWorld: Bringing up level for play took: 0.080679
+[2018.09.19-17.38.07:998][102]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.09.19-17.38.08:010][102]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 1.501
+[2018.09.19-17.38.08:011][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.38.08:148][102]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.19-17.38.22:304][428]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:356][429]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:404][430]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:444][431]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:482][432]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:526][433]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:564][434]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:595][435]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:636][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.22:677][437]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:272][451]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:305][452]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:344][453]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:388][454]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:430][455]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:473][456]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:519][457]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:566][458]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:610][459]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:655][460]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:700][461]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:745][462]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:792][463]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.23:832][464]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:301][498]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:341][499]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:371][500]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:409][501]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:454][502]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:499][503]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:542][504]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:586][505]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:628][506]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:668][507]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:718][508]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:761][509]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:818][510]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.25:863][511]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.26:939][536]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.26:973][537]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:012][538]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:063][539]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:107][540]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:152][541]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:199][542]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:243][543]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:287][544]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:338][545]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:385][546]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.27:431][547]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.37:799][774]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.37:849][775]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.37:889][776]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.37:927][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.37:968][778]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:011][779]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:045][780]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:077][781]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:114][782]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:160][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.38:205][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.38.42:100][873]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.19-17.38.42:114][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-17.38.42:136][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.38.42:212][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.19-17.38.42:213][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.38.42:302][874]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.09.19-17.38.55:040][177]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant_C_0
+	Function /Game/AI/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:0128
+[2018.09.19-17.38.55:200][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.38.55:984][192]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AI/Anim/Mutant_Walking.Mutant_Walking
+[2018.09.19-17.38.56:151][192]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.09.19-17.38.56:937][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.19-17.38.56:941][192]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.09.19-17.38.57:411][192]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.19-17.38.58:540][192]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Audio/mutantstep.mutantstep
+[2018.09.19-17.38.58:966][192]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.09.19-17.39.00:196][192]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.19-17.39.02:300][192]LogSlate: Took 0.015288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.19-17.39.03:895][193]LogSlate: Took 0.030820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.19-17.39.07:414][269]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.19-17.39.07:476][269]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.19-17.40.49:619][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Anim/Mutant_Walking" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Anim/Mutant_Walking.uasset" SILENT=true
+[2018.09.19-17.40.49:776][206]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Mutant_Walking9A32A1A649E0F1AFE0F1C19E3FAA5A73.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Anim/Mutant_Walking.uasset'
+[2018.09.19-17.40.53:392][283]LogSlate: Window 'mutantstep' being destroyed
+[2018.09.19-17.40.53:404][283]LogSlate: Window 'mutantstep' being destroyed
+[2018.09.19-17.40.59:062][454]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AI/Anim/Mutant_Swiping.Mutant_Swiping
+[2018.09.19-17.40.59:086][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.19-17.40.59:184][454]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.19-17.41.00:153][454]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.19-17.41.17:411][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Anim/Mutant_Swiping" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Anim/Mutant_Swiping.uasset" SILENT=true
+[2018.09.19-17.41.17:472][686]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Mutant_Swiping44537DA449CC4BD810D56792F403C317.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Anim/Mutant_Swiping.uasset'
+[2018.09.19-17.41.18:723][707]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2018.09.19-17.41.18:745][707]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2018.09.19-17.41.20:698][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.19-17.41.20:757][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.41.20:789][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.19-17.41.20:801][749]PIE: New page: PIE session: Start (19 Sep 2018 21:41:20)
+[2018.09.19-17.41.20:819][749]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.19-17.41.20:891][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071527s)
+[2018.09.19-17.41.20:892][749]LogAIModule: Creating AISystem for world Start
+[2018.09.19-17.41.20:903][749]LogPlayLevel: PIE: World Init took: (0.012165s)
+[2018.09.19-17.41.20:903][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.090964s)
+[2018.09.19-17.41.20:998][749]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-17.41.21:079][749]LogInit: FAudioDevice initialized.
+[2018.09.19-17.41.21:090][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.41.21:269][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.19-17.41.21:279][749]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.19-19.41.21
+[2018.09.19-17.41.21:281][749]LogWorld: Bringing up level for play took: 0.010368
+[2018.09.19-17.41.21:374][749]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 0.865
+[2018.09.19-17.41.21:389][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.41.23:916][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.23:941][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.23:995][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:023][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:058][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:089][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:166][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:194][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:249][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:280][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:331][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:365][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:435][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:472][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:508][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:537][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.24:597][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.41.40:536][203]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.19-17.41.40:546][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-17.41.40:553][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.41.40:592][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.19-17.41.40:593][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.41.40:730][204]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.19-17.41.42:140][220]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AI/Anim/Mutant_Swiping.Mutant_Swiping
+[2018.09.19-17.41.42:189][220]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.19-17.41.42:314][220]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.19-17.41.43:263][220]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.19-17.41.48:009][300]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2018.09.19-17.41.48:028][300]LogSlate: Window 'Mutant_Swiping' being destroyed
+[2018.09.19-17.41.53:750][360]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp
+[2018.09.19-17.41.53:932][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.19-17.41.53:932][360]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.54:416][360]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.19-17.41.54:866][360]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:334][363]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:380][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:412][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:451][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:469][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:493][368]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:521][369]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:548][370]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:580][371]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:611][372]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:643][373]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:678][374]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:710][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.41.55:740][376]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_0
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.54.57:126][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Blueprint/AI_BP.AI_BP
+[2018.09.19-17.56.49:184][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Start' took 0.095
+[2018.09.19-17.56.49:209][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Blueprint/AI_BP] ([1] browsable assets)...
+[2018.09.19-17.56.49:254][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/Blueprint/AI_BP.AI_BP]
+[2018.09.19-17.56.49:254][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Blueprint/AI_BP]
+[2018.09.19-17.56.49:254][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI_BP" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Autosaves/Game/AI/Blueprint/AI_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.09.19-17.56.49:479][792]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/AI_BP_Auto1C8C7DA2D43D436E5D888108E39A33B88.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Autosaves/Game/AI/Blueprint/AI_BP_Auto1.uasset'
+[2018.09.19-17.56.49:487][792]LogFileHelpers: Auto-saving content packages took 0.301
+[2018.09.19-17.57.53:777][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI_BP" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Blueprint/AI_BP.uasset" SILENT=true
+[2018.09.19-17.57.53:857][548]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/AI_BPAA424750434FB90E1D1ED2ACB5C03BFC.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/AI/Blueprint/AI_BP.uasset'
+[2018.09.19-17.57.57:590][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.19-17.57.57:646][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.57.57:646][700]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.19-17.57.57:737][700]LogPlayLevel: [PlayLevel] Compiling AI_Anim_Bp before play...
+[2018.09.19-17.57.57:750][700]LogPlayLevel: [PlayLevel]   Compiling AnimBpMutant as a dependent...
+[2018.09.19-17.57.57:888][700]LogPlayLevel: [PlayLevel]   Compiling AI_BP as a dependent...
+[2018.09.19-17.57.57:953][700]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacter as a dependent...
+[2018.09.19-17.57.58:135][700]LogPlayLevel: [PlayLevel]   Compiling AI2_BP as a dependent...
+[2018.09.19-17.57.58:453][700]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AI_Anim_Bp_C_1
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.57.58:454][700]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AI_Anim_Bp_C_1
+	Function /Game/AI/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.19-17.57.58:455][700]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant_C_1
+	Function /Game/AI/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:0128
+[2018.09.19-17.57.59:178][700]LogPlayLevel: PlayLevel: Blueprint regeneration took 1532 ms (5 blueprints)
+[2018.09.19-17.57.59:178][700]PIE: New page: PIE session: Start (19 Sep 2018 21:57:59)
+[2018.09.19-17.57.59:178][700]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.19-17.57.59:211][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032875s)
+[2018.09.19-17.57.59:212][700]LogAIModule: Creating AISystem for world Start
+[2018.09.19-17.57.59:212][700]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.09.19-17.57.59:212][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.033836s)
+[2018.09.19-17.57.59:264][700]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-17.57.59:315][700]LogInit: FAudioDevice initialized.
+[2018.09.19-17.57.59:325][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.57.59:475][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.19-17.57.59:483][700]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.19-19.57.59
+[2018.09.19-17.57.59:485][700]LogWorld: Bringing up level for play took: 0.006867
+[2018.09.19-17.57.59:562][700]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 1.053
+[2018.09.19-17.57.59:562][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.58.23:782][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.23:838][259]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.23:864][260]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.23:913][261]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.23:940][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.23:998][263]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:021][264]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:080][265]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:105][266]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:144][267]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:208][268]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:258][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:283][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:335][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:357][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:421][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:468][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:491][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:555][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:581][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:644][278]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:692][279]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:738][280]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:785][281]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:829][282]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:852][283]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:890][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:950][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.24:991][286]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.25:036][287]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.25:079][288]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.25:104][289]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:514][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:539][323]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:583][324]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:628][325]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:656][326]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:708][327]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:733][328]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:791][329]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:819][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:874][331]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:901][332]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.26:926][333]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.27:553][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.27:577][349]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.27:604][350]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.27:640][351]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.58.28:463][370]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.19-17.58.28:475][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-17.58.28:492][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.58.28:533][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.19-17.58.28:533][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.58.28:641][371]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.19-17.58.57:946][ 59]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.09.19-17.58.57:953][ 59]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.09.19-17.58.57:953][ 59]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.09.19-17.58.57:953][ 59]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.09.19-17.58.57:963][ 59]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.09.19-17.59.21:156][254]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/BP_PlayerCharacterC81EB0FA4A47360EF12D60BFDB9B4BB3.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Character/Blueprints/BP_PlayerCharacter.uasset'
+[2018.09.19-17.59.22:937][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.19-17.59.22:998][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.59.22:999][323]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.19-17.59.23:292][323]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2018.09.19-17.59.23:865][323]LogPlayLevel: PlayLevel: Blueprint regeneration took 866 ms (1 blueprints)
+[2018.09.19-17.59.23:865][323]PIE: New page: PIE session: Start (19 Sep 2018 21:59:23)
+[2018.09.19-17.59.23:865][323]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.19-17.59.23:881][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015087s)
+[2018.09.19-17.59.23:881][323]LogAIModule: Creating AISystem for world Start
+[2018.09.19-17.59.23:881][323]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.09.19-17.59.23:881][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.016003s)
+[2018.09.19-17.59.23:927][323]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.19-17.59.23:991][323]LogInit: FAudioDevice initialized.
+[2018.09.19-17.59.24:001][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.19-17.59.24:160][323]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.19-17.59.24:166][323]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.19-19.59.24
+[2018.09.19-17.59.24:170][323]LogWorld: Bringing up level for play took: 0.008787
+[2018.09.19-17.59.24:191][323]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 1.681
+[2018.09.19-17.59.24:191][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.59.25:024][336]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:055][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:088][338]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:123][339]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:157][340]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:192][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:224][342]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:258][343]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:293][344]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:327][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:362][346]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:395][347]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:430][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:466][349]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:502][350]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:583][351]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:628][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:659][353]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:715][354]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:745][355]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:776][356]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:811][357]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.25:895][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.26:795][379]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.26:823][380]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.26:853][381]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.26:930][382]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.26:958][383]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:018][384]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:052][385]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:113][386]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:147][387]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:176][388]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:248][389]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:276][390]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:301][391]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:382][392]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:411][393]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:472][394]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:503][395]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:537][396]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:572][397]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:654][398]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:688][399]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:749][400]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:780][401]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:809][402]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.27:876][403]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:262][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:290][437]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:313][438]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:395][439]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:423][440]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:488][441]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:514][442]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:544][443]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:581][444]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.29:672][445]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:050][453]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:090][454]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:412][460]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:574][463]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:726][466]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:862][469]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:887][470]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.30:994][472]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.31:019][473]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.31:131][475]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.31:162][476]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.31:259][478]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.31:286][479]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.19-17.59.32:153][497]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.19-17.59.32:158][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-17.59.32:160][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.59.32:211][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.19-17.59.32:211][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.19-17.59.32:323][498]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.19-18.05.33:566][ 12]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../Sound/Projects/oldi2.wav)
+[2018.09.19-18.05.41:092][282]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave oldi2...
+[2018.09.19-18.05.41:101][282]LogTemp: Couldn't find amount to resample to.
+[2018.09.19-18.05.43:770][282]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 19656000 while cooking SoundWave /Game/Audio/oldi2.oldi2.
+[2018.09.19-18.05.53:335][592]Cmd: ACTOR SELECT ALL
+[2018.09.19-18.05.57:723][656]Cmd: SELECT NONE
+[2018.09.19-18.06.01:613][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-18.06.03:992][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.19-18.06.06:429][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Start" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Level/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.19-18.06.06:938][887]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/Start1FEA994E44B58B388A8DDA952035BF08.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Level/Start.umap'
+[2018.09.19-18.06.06:999][887]LogFileHelpers: Saving map 'Start' took 2.994
+[2018.09.19-18.06.07:027][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/oldi2" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Audio/oldi2.uasset" SILENT=true
+[2018.09.19-18.06.07:055][887]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/oldi2059D40D744FBC25B6BBE759B9D175EB5.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Audio/oldi2.uasset'
+[2018.09.19-18.06.07:061][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/oldi2_Cue" FILE="C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Audio/oldi2_Cue.uasset" SILENT=true
+[2018.09.19-18.06.07:069][887]LogSavePackage: Moving 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Saved/oldi2_Cue18B262C9499D895B8207648A2D081A54.tmp' to 'C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Content/Audio/oldi2_Cue.uasset'
+>>>>>>> b53d0104566035a411d750192dbf40721adf246f
