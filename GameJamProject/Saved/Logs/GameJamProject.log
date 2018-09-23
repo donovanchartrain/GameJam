@@ -1133,3 +1133,1552 @@ LogInit: Object subsystem initialized
 [2018.09.23-21.58.08:644][343]LogTemp: BranchPath = PC_DONO/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = PC_DONO/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
 [2018.09.23-21.58.08:662][344]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Donovan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
 [2018.09.23-21.58.31:566][370]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage19BAC27940381B4FF16A81AADE9592A8.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.00.59:759][837]LogRenderer: Reallocating scene render targets to support 984x724 Format 9 NumSamples 1 (Frame:1).
+[2018.09.23-22.01.33:823][446]LogActorFactory: Actor Factory created Doors
+[2018.09.23-22.01.33:849][446]LogActorFactory: Actor Factory created SM_BasicWall
+[2018.09.23-22.01.33:849][446]LogActorFactory: Actor Factory created SM_Cadre
+[2018.09.23-22.01.33:850][446]LogActorFactory: Actor Factory created SM_Ceiling4
+[2018.09.23-22.01.33:851][446]LogActorFactory: Actor Factory created SM_Floor4
+[2018.09.23-22.01.33:851][446]LogActorFactory: Actor Factory created SM_WallDoors_Cube
+[2018.09.23-22.01.35:039][490]LogActorFactory: Actor Factory created Doors
+[2018.09.23-22.01.35:170][490]LogActorFactory: Actor Factory created SM_BasicWall
+[2018.09.23-22.01.35:203][490]LogActorFactory: Actor Factory created SM_Cadre
+[2018.09.23-22.01.35:233][490]LogActorFactory: Actor Factory created SM_Ceiling4
+[2018.09.23-22.01.35:264][490]LogActorFactory: Actor Factory created SM_Floor4
+[2018.09.23-22.01.35:294][490]LogActorFactory: Actor Factory created SM_WallDoors_Cube
+[2018.09.23-22.01.38:860][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallDoors_Cube)
+[2018.09.23-22.01.41:642][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.01.50:917][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BasicWall)
+[2018.09.23-22.01.53:472][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.02.02:055][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cadre)
+[2018.09.23-22.02.03:117][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.02.14:710][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.02.21:010][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallDoors_Cube)
+[2018.09.23-22.02.29:762][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.02.33:248][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cadre)
+[2018.09.23-22.03.16:313][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.03.16:529][ 84]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage838C912046B6265A182E1594EB1B7784.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.03.18:465][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BasicWall)
+[2018.09.23-22.03.19:805][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.03.36:286][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.04.06:200][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling4)
+[2018.09.23-22.04.11:403][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.04.17:375][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.04.21:588][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.04.43:559][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.04.58:898][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.04.59:963][ 86]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage926B07064DA14043AF2DD7BFC19600F9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.05.00:591][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.05.05:723][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.05.06:935][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.05.21:724][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.05.34:671][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.05.34:859][ 26]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageED3352604D9159DEFE44ADABCCDECE4A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.05.35:552][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.05.40:496][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.06.15:952][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.06.16:637][435]EditorErrors: New page: Actor attachment
+[2018.09.23-22.07.01:439][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.07.01:657][811]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage569F03BD4ECBC6E4C2A4C8B1526C9552.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.07.02:737][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.07.10:452][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.07.13:175][356]LogSlate: Window 'Save Content' being destroyed
+[2018.09.23-22.07.13:481][356]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage0D57ADDF4424EB7FF5A01389EE11D9AC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.07.13:560][356]LogFileHelpers: Saving map 'Map_Demarage' took 0.362
+[2018.09.23-22.08.03:979][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.08.04:239][ 29]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage700D81A54F8400362191109372115934.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.08.26:388][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.08.36:701][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.08.36:904][806]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageCDEF5B6743517291A3635D8FEF2EFAA4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.08.41:056][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.08.58:140][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.09.15:340][648]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage8F7407CC465A8D0CC2B096ACEDD441B5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.09.19:720][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.09.23:778][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2018.09.23-22.09.47:168][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.10.00:027][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.10.08:192][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.10.17:283][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.10.26:665][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.10.38:504][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.10.42:046][341]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2018.09.23-22.10.45:813][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallDoors_Cube)
+[2018.09.23-22.10.46:825][531]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2018.09.23-22.10.48:224][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.10.52:427][776]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.52:427][776]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.53:511][811]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.53:511][811]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.54:101][835]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.54:102][835]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.54:370][843]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.54:370][843]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.54:615][852]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.54:615][852]LogEditorTransaction: Undo Move Actors
+[2018.09.23-22.10.54:844][861]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.54:844][861]LogEditorTransaction: Undo Rotate Actors
+[2018.09.23-22.10.55:047][869]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.55:047][869]LogEditorTransaction: Undo Move Actors
+[2018.09.23-22.10.55:250][877]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.55:250][877]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.55:441][881]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.55:442][881]LogEditorTransaction: Undo Move Actors
+[2018.09.23-22.10.55:676][890]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.55:677][890]LogEditorTransaction: Undo Rotate Actors
+[2018.09.23-22.10.56:051][905]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.56:051][905]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.23-22.10.56:450][920]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.56:450][920]LogEditorTransaction: Undo Move Components
+[2018.09.23-22.10.56:946][939]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.56:946][939]LogEditorTransaction: Undo Rotate Components
+[2018.09.23-22.10.57:392][956]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.57:392][956]LogEditorTransaction: Undo Move Components
+[2018.09.23-22.10.57:658][965]Cmd: TRANSACTION UNDO
+[2018.09.23-22.10.57:658][965]LogEditorTransaction: Undo Edit Outer Cone Angle
+[2018.09.23-22.10.58:859][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.11.03:356][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.11.15:045][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.11.17:711][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.11.32:845][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.11.45:063][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light2)
+[2018.09.23-22.11.54:914][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.03:680][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.03:913][760]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage7F31FC9F4181AFC97862B8B9CB100B72.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.12.05:041][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.12.06:670][894]LogRenderer: Reallocating scene render targets to support 984x724 Format 10 NumSamples 1 (Frame:30363).
+[2018.09.23-22.12.06:814][895]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.23-22.12.11:536][ 28]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (SpotLight)
+[2018.09.23-22.12.14:621][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.15:584][123]LogEditorActor: Deleted Actor: BP_Light_C
+[2018.09.23-22.12.15:663][123]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2018.09.23-22.12.17:316][166]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light)
+[2018.09.23-22.12.28:212][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.28:530][434]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage510A4C7C4E943B167A88999DDFB347AA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.12.29:073][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.32:433][551]LogRenderer: Reallocating scene render targets to support 984x724 Format 9 NumSamples 1 (Frame:30947).
+[2018.09.23-22.12.32:490][553]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-22.12.36:176][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.43:105][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.12.43:381][ 42]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageAEBF45224CA921C85B2474A8F991B492.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.13.03:684][147]LogActorFactory: Actor Factory created Armoire
+[2018.09.23-22.13.05:276][214]LogActorFactory: Actor Factory created Armoire
+[2018.09.23-22.13.05:862][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.13.26:008][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.13.38:245][ 17]LogActorFactory: Actor Factory created SM_Book15
+[2018.09.23-22.13.40:289][116]LogActorFactory: Actor Factory created SM_Book15
+[2018.09.23-22.14.02:328][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.14.31:240][681]LogActorFactory: Actor Factory created SM_Bind2
+[2018.09.23-22.14.35:112][880]LogActorFactory: Actor Factory created SM_Bind2
+[2018.09.23-22.14.36:909][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.14.39:742][ 96]LogActorFactory: Actor Factory created SM_Bind3
+[2018.09.23-22.14.41:654][187]LogActorFactory: Actor Factory created SM_Bind3
+[2018.09.23-22.14.47:157][475]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.14.47:240][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.14.48:523][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bind3)
+[2018.09.23-22.15.05:829][468]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.15.05:908][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.15.15:861][954]LogActorFactory: Actor Factory created SM_Radiateur_Cube_006
+[2018.09.23-22.15.18:554][ 75]LogActorFactory: Actor Factory created SM_Radiateur_Cube_006
+[2018.09.23-22.15.20:184][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.15.33:259][720]LogActorFactory: Actor Factory created Boitieréléctrique_BoitierElectrique
+[2018.09.23-22.15.33:260][720]LogActorFactory: Actor Factory created Boitieréléctrique_Levier
+[2018.09.23-22.15.34:382][768]LogActorFactory: Actor Factory created Boitieréléctrique_BoitierElectrique
+[2018.09.23-22.15.34:414][768]LogActorFactory: Actor Factory created Boitieréléctrique_Levier
+[2018.09.23-22.15.50:622][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.16.05:858][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Boitieréléctrique_BoitierElectrique)
+[2018.09.23-22.16.06:751][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Boitieréléctrique_Levier)
+[2018.09.23-22.16.07:733][545]Cmd: DELETE
+[2018.09.23-22.16.07:733][545]Cmd: ACTOR DELETE
+[2018.09.23-22.16.07:805][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.23-22.16.07:806][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.23-22.16.07:844][545]LogEditorActor: Deleted 2 Actors (0.043 secs)
+[2018.09.23-22.16.08:832][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.16.09:027][608]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageF60FBF4D4C29AA45442A8D9F5E5D59BE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.16.10:239][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.16.26:605][643]LogActorFactory: Actor Factory created SM_Blood_Plane
+[2018.09.23-22.16.27:269][675]LogActorFactory: Actor Factory created SM_Blood_Plane
+[2018.09.23-22.16.29:556][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.16.33:872][962]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/GamePlay/M_Blood_Inst.M_Blood_Inst
+[2018.09.23-22.16.35:326][962]LogRenderer: Reallocating scene render targets to support 984x744 Format 9 NumSamples 1 (Frame:1).
+[2018.09.23-22.16.37:660][ 56]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/GamePlay/M_Blood.M_Blood
+[2018.09.23-22.16.37:700][ 56]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.38:125][ 56]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.38:179][ 56]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.38:212][ 56]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.16.38:212][ 56]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.16.38:212][ 56]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.16.38:265][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2018.09.23-22.16.38:272][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.16.38:280][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2018.09.23-22.16.38:423][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.23-22.16.40:905][136]LogSlate: Window 'M_Blood_Inst' being destroyed
+[2018.09.23-22.16.44:751][349]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.23-22.16.44:879][356]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.23-22.16.45:129][370]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.23-22.16.45:557][395]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.16.45:574][396]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.16.45:938][415]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.23-22.16.45:938][415]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.46:177][421]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.23-22.16.46:506][440]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.23-22.16.47:077][473]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.23-22.16.47:546][500]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.23-22.16.47:749][511]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.23-22.16.48:109][531]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.16.48:815][572]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.16.48:983][581]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.16.49:289][599]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.16.49:796][627]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.16.49:881][632]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.16.50:189][649]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.16.50:450][663]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.16.50:756][680]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.16.50:886][687]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.16.51:496][722]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.16.51:516][723]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.16.51:973][750]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.16.52:248][766]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.23-22.16.52:248][766]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.23-22.16.52:589][786]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.23-22.16.52:777][797]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.23-22.16.52:846][801]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.23-22.16.53:157][819]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.23-22.16.53:380][832]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.23-22.16.53:429][835]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.23-22.16.53:736][853]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.16.54:062][872]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.23-22.16.54:430][893]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.16.54:836][917]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.16.55:193][938]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.16.55:311][945]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.16.55:398][950]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.16.55:713][968]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.16.55:850][976]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.16.55:988][984]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.16.56:386][  4]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.56:529][  5]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.16.56:529][  5]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.16.56:577][  8]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.16.56:974][ 31]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.16.57:072][ 37]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.16.57:486][ 47]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.57:603][ 48]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.16.57:603][ 48]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.16.57:603][ 48]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.16.58:095][ 77]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.16.58:144][ 80]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.16.58:199][ 83]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.16.58:268][ 83]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.16.58:678][101]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.23-22.16.58:962][118]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.16.59:097][126]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.23-22.16.59:321][139]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.16.59:693][160]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.17.00:145][186]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.17.00:406][201]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.17.00:626][214]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.17.00:850][227]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.17.01:053][239]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.17.01:121][243]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.17.01:502][265]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.17.01:594][270]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.23-22.17.01:823][283]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.23-22.17.02:119][299]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-22.17.02:271][308]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.23-22.17.03:053][352]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.23-22.17.03:251][363]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.23-22.17.03:642][385]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.23-22.17.04:257][421]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.23-22.17.04:445][432]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.23-22.17.04:563][439]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.23-22.17.04:631][441]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.04:702][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.17.05:456][478]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.05:832][500]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.05:950][507]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.06:001][510]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.06:252][519]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.06:305][519]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.06:366][519]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.06:366][519]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.17.06:613][531]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.06:931][549]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.07:563][586]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.07:563][586]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.17.07:594][588]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.17.08:182][621]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.17.08:381][633]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.17.08:449][637]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.17.08:591][643]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.08:634][643]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.17.08:675][643]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.17.09:066][662]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.09:136][666]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.09:641][696]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.09:726][701]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.09:795][705]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.17.10:124][724]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.17.10:244][730]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.17.10:482][745]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.17.10:703][758]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.17.10:862][766]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.17.11:237][789]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.17.11:255][790]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.17.11:424][800]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.17.11:732][818]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.23-22.17.11:816][823]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.23-22.17.11:984][833]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.23-22.17.12:330][853]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.23-22.17.12:416][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.17.12:416][855]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.12:497][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.17.12:517][855]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.12:928][878]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.13:151][891]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.13:634][918]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.13:775][926]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.17.13:845][930]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.17.14:454][965]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.17.14:727][981]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.17.14:798][985]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.17.15:131][  3]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.17.15:453][ 22]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.17.15:471][ 23]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.17.15:690][ 36]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.17.15:919][ 46]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.15:964][ 46]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.17.16:033][ 46]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.16:033][ 46]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.23-22.17.16:229][ 56]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.16:650][ 79]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.17:178][109]LogMaterialEditor: Applying material M_Blood
+[2018.09.23-22.17.21:520][109]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.17.21:521][109]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.17.21:522][109]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.17.21:642][109]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.17.21:642][109]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.21:853][109]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.21:949][109]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.22:267][109]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Blood, compiling. 
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.23-22.17.29:449][109]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.23-22.17.29:450][109]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.17.29:451][109]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.17.29:454][109]TextureStreamingBuild: Display: Compiling optional shaders took 7.312 seconds.
+[2018.09.23-22.17.33:281][315]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.23-22.17.36:429][498]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.23-22.17.37:092][536]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.23-22.17.37:179][541]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.23-22.17.37:300][548]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.23-22.17.37:843][580]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.23-22.17.37:846][580]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.23-22.17.38:276][604]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.23-22.17.38:409][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.17.38:460][614]LogMaterialEditor: Saving and Compiling material M_Blood
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.17.48:738][614]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.17.48:739][614]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.23-22.17.48:771][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/GamePlay/M_Blood" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset" SILENT=true
+[2018.09.23-22.17.48:848][614]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_BloodCAE9AF1245FC0968DD90F685E3BCD8D9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset'
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.23-22.17.48:863][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.23-22.18.01:752][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.18.11:862][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.18.48:552][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.18.48:806][647]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage61CBFC1C4853E1CD4F844EAEEBE5DE1E.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.18.49:358][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.18.54:910][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.18.56:718][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.19.00:625][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.19.07:338][589]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage87566F464CC5DD59AF3CB3943B2777CD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.19.08:134][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.19.22:385][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.19.28:519][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.19.32:026][600]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.19.36:330][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.19.38:833][844]LogRenderer: Reallocating scene render targets to support 984x744 Format 10 NumSamples 1 (Frame:41950).
+[2018.09.23-22.19.38:946][846]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.23-22.19.45:172][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.19.47:646][ 82]LogRenderer: Reallocating scene render targets to support 984x744 Format 9 NumSamples 1 (Frame:42101).
+[2018.09.23-22.19.47:707][ 84]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-22.19.59:666][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.20.07:940][813]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage734DCFA0458F141B3FE46F90003571A9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.20.09:576][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.20.35:928][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.21.05:664][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.21.08:189][108]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.23-22.21.08:197][108]LogRenderer: Reallocating scene render targets to support 984x744 Format 10 NumSamples 1 (Frame:44703).
+[2018.09.23-22.21.11:573][199]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.09.23-22.21.13:036][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.21.31:050][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.21.36:006][836]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.22.07:963][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.22.17:603][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.22.36:823][475]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.09.23-22.22.38:603][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.02:099][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.09:213][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.15:788][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.38:141][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.48:503][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.48:843][258]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageDCCE4F8E4DD782FAFD87DA8AAC6DF36B.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.23.53:260][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.23.59:389][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.24.01:754][579]LogRenderer: Reallocating scene render targets to support 984x744 Format 9 NumSamples 1 (Frame:48543).
+[2018.09.23-22.24.01:826][581]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-22.24.04:942][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.12:093][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.24.14:635][113]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor5)
+[2018.09.23-22.24.14:723][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.24.16:947][227]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.09.23-22.24.20:378][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.26:372][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.24.31:038][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.36:234][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.37:847][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.41:169][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.43:699][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.24.48:106][632]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.24.52:358][811]LogRenderer: Reallocating scene render targets to support 984x744 Format 10 NumSamples 1 (Frame:50223).
+[2018.09.23-22.24.52:588][814]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.23-22.24.55:673][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.24.59:701][980]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.25.08:270][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.25.13:482][345]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.25.18:432][463]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.25.23:671][609]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.25.27:415][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.25.35:556][915]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage9ADEFB434268F8EDDF578AA03A8475EA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.25.43:211][249]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-22.25.51:567][739]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageB6D20B0D4ED29776FA64A895BD5F28B1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.25.53:540][850]LogRenderer: Reallocating scene render targets to support 984x744 Format 9 NumSamples 1 (Frame:50834).
+[2018.09.23-22.25.56:955][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.26.12:084][692]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -299.00,28.00,183.00
+[2018.09.23-22.26.12:872][714]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -18.00,168.00,10.00
+[2018.09.23-22.26.14:709][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.26.27:054][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.26.51:119][451]LogEditorViewport: Clicking on Actor (LMB): Bp_Start_C (Bp_Start)
+[2018.09.23-22.27.00:748][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.27.15:035][630]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0008 seconds. Added 15 classes and 2 folders.
+[2018.09.23-22.27.15:104][630]LogInit: Transaction tracking system initialized
+[2018.09.23-22.27.15:121][630]EditorErrors: New page: Matinee Initialization
+[2018.09.23-22.27.17:141][687]LogSlate: Window 'MatineeActor*' being destroyed
+[2018.09.23-22.27.34:959][510]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2018.09.23-22.27.36:176][510]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.27.47:259][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.28.00:292][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.28.10:708][319]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.28.12:371][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.28.13:406][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.28.16:064][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.28.19:850][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.28.28:860][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.28.39:750][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.28.42:535][160]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.28.42:889][160]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage362EF2064E34BC90154CFC8EF3FFE729.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.28.43:115][160]LogFileHelpers: Saving map 'Map_Demarage' took 0.575
+[2018.09.23-22.28.46:105][281]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage
+[2018.09.23-22.28.50:593][452]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.28.50:684][452]LogExit: Transaction tracking system shut down
+[2018.09.23-22.28.51:982][476]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage4B16085F4D578F53A3ACEC8E42BC38D1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.28.52:086][476]LogFileHelpers: Saving map 'Map_Demarage' took 0.791
+[2018.09.23-22.28.58:741][740]LogSlate: Took 0.023081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.23-22.29.07:606][228]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.29.09:122][243]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageBE548F36403274FAA484E09F7BA988A3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.29.09:229][243]LogFileHelpers: Saving map 'Map_Demarage' took 0.866
+[2018.09.23-22.29.28:048][123]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.29.29:881][159]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage229C77A9416AE9E7B138F0BB17846C98.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.29.29:973][159]LogFileHelpers: Saving map 'Map_Demarage' took 0.673
+[2018.09.23-22.29.37:853][499]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.29.39:227][509]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage3F9FD3214557F4AA13A710AD64F79A34.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.29.39:317][509]LogFileHelpers: Saving map 'Map_Demarage' took 0.716
+[2018.09.23-22.29.44:653][730]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage4E14E9244A0412BEB73E04A70ACE9E2D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.29.44:763][730]LogFileHelpers: Saving map 'Map_Demarage' took 0.808
+[2018.09.23-22.29.49:917][954]LogSlate: Window 'Map_Demarage - Level Blueprint Editor' being destroyed
+[2018.09.23-22.30.02:386][642]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.30.03:606][665]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage961B2D9F4558EAC0409A8F9175C80CFD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.30.03:698][665]LogFileHelpers: Saving map 'Map_Demarage' took 0.652
+[2018.09.23-22.30.09:752][994]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.23-22.30.29:070][411]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2018.09.23-22.30.29:115][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UMG/Blueprint/MenuGameMode.MenuGameMode
+[2018.09.23-22.30.31:333][483]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/MenuGameMode12E1151F47E60178C30A5199BAE0897A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/Blueprint/MenuGameMode.uasset'
+[2018.09.23-22.30.33:878][627]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.30.35:316][656]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageFE8A33034FEB3D35539B1AA00E63A4F2.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.30.35:407][656]LogFileHelpers: Saving map 'Map_Demarage' took 0.766
+[2018.09.23-22.30.54:458][678]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.30.55:666][698]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageE7D6ADE64B7B0F83239523A4B9657D88.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.30.55:800][698]LogFileHelpers: Saving map 'Map_Demarage' took 0.711
+[2018.09.23-22.31.49:414][737]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.31.50:647][758]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage1A11FA254D1A4983D38FC2A40D7C9A8D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.31.50:739][758]LogFileHelpers: Saving map 'Map_Demarage' took 0.676
+[2018.09.23-22.31.54:112][924]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage1A1D094D4E8C9580675A8E8E2229A7AF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.31.54:201][924]LogFileHelpers: Saving map 'Map_Demarage' took 0.655
+[2018.09.23-22.31.55:718][979]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage75190915470F4FAF5F157888EC853C21.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.32.09:118][746]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.32.10:312][765]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageA01FC2114AF459F5654953951969EBB7.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.32.10:403][765]LogFileHelpers: Saving map 'Map_Demarage' took 0.672
+[2018.09.23-22.32.52:031][118]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.32.53:682][163]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage07FFEEF84E3D13B350EB6FA1325BF7E7.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.32.53:772][163]LogFileHelpers: Saving map 'Map_Demarage' took 0.678
+[2018.09.23-22.32.55:884][251]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageCA3DA58E4592B403DADF32BAEF585FC5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.35.30:535][146]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.35.32:310][191]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage0D98572D42CA994D74FF62B71F1E58BD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.35.32:402][191]LogFileHelpers: Saving map 'Map_Demarage' took 0.773
+[2018.09.23-22.36.32:776][769]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.36.34:105][787]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageFE1091E04A8C5EA0562F14992C4E479C.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.36.34:198][787]LogFileHelpers: Saving map 'Map_Demarage' took 0.761
+[2018.09.23-22.37.49:979][548]LogInit: Transaction tracking system initialized
+[2018.09.23-22.37.49:979][548]EditorErrors: New page: Matinee Initialization
+[2018.09.23-22.38.16:818][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.38.36:030][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.38.44:724][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.38.47:840][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.39.09:578][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.39.30:672][607]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.39.30:675][607]LogSlate: Window 'CIneChangeMenu*' being destroyed
+[2018.09.23-22.39.31:336][607]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage986487AF46C12E72AEF6DBB67454FDCA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.39.31:432][607]LogFileHelpers: Saving map 'Map_Demarage' took 0.754
+[2018.09.23-22.40.11:708][974]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.40.11:991][974]LogExit: Transaction tracking system shut down
+[2018.09.23-22.40.13:016][993]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage86FC9B7A4F91016932E7E3B1F4616D52.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.40.13:106][993]LogFileHelpers: Saving map 'Map_Demarage' took 0.726
+[2018.09.23-22.40.18:388][258]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage1C07FCD24799A1F38DC2C6A5B4209CFE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.40.29:475][881]LogInit: Transaction tracking system initialized
+[2018.09.23-22.40.29:475][881]EditorErrors: New page: Matinee Initialization
+[2018.09.23-22.41.02:299][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.41.03:313][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doors)
+[2018.09.23-22.41.04:887][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.41.18:411][483]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.41.19:228][483]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.41.22:234][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.41.25:692][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.41.26:699][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.41.29:435][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.41.33:704][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.41.35:811][471]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.23-22.41.37:362][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.41.49:501][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.41.52:359][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.03:455][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.06:604][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.08:962][241]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.42.09:040][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.42.15:529][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.27:453][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.36:032][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.41:029][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.42.50:261][265]LogSlate: Window 'CinePlay*' being destroyed
+[2018.09.23-22.42.51:561][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.42.59:843][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.43.08:585][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.43.18:875][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.43.38:493][684]LogSlate: Window 'CinePlay*' being destroyed
+[2018.09.23-22.43.45:918][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.43.46:983][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.43.54:293][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.43.55:635][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.43.58:696][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.44.06:872][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.10:148][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.10:306][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.12:074][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.22:621][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.44.27:272][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.29:520][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.44.36:624][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.44.41:066][137]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.44.45:718][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.45.09:659][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.45.10:814][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.45.17:563][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.45.31:469][915]LogSlate: Window 'Message' being destroyed
+[2018.09.23-22.45.31:472][915]LogSlate: Window 'CinePlay*' being destroyed
+[2018.09.23-22.45.32:196][915]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageB2DA25AD4CCCA4F2AC3D32BEFF641E15.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.45.32:304][915]LogFileHelpers: Saving map 'Map_Demarage' took 0.829
+[2018.09.23-22.45.37:711][189]LogExit: Transaction tracking system shut down
+[2018.09.23-22.45.38:116][189]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage458EA94F4394F3DFC75B27A8752EA640.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.45.38:207][189]LogFileHelpers: Saving map 'Map_Demarage' took 0.766
+[2018.09.23-22.46.18:259][429]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.46.18:290][429]LogBlueprint: Error: [Compiler PersistentLevel.Map_Demarage] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.09.23-22.46.18:290][429]LogBlueprint: Error: [Compiler PersistentLevel.Map_Demarage] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.23-22.46.18:602][429]LogBlueprint: Warning: [Compiler PersistentLevel.Map_Demarage] [4081,72] Compile of PersistentLevel.Map_Demarage failed. 2 Fatal Issue(s) 0 Warning(s) [in 342 ms] (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage)
+[2018.09.23-22.46.19:315][450]LogBlueprint: Error: [Compiler PersistentLevel.Map_Demarage] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.09.23-22.46.19:315][450]LogBlueprint: Error: [Compiler PersistentLevel.Map_Demarage] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.23-22.46.19:318][450]LogBlueprint: Warning: [Compiler PersistentLevel.Map_Demarage] [4082,44] Compile of PersistentLevel.Map_Demarage failed. 2 Fatal Issue(s) 0 Warning(s) [in 20 ms] (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage)
+[2018.09.23-22.46.19:673][450]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage03F93DCF4D5F29445F7FB4A08700E7F9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.46.19:766][450]LogFileHelpers: Saving map 'Map_Demarage' took 0.753
+[2018.09.23-22.46.28:577][918]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.46.29:880][935]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageF3F005C84F5ABC5191FC2D89A528E51D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.46.29:972][935]LogFileHelpers: Saving map 'Map_Demarage' took 0.749
+[2018.09.23-22.46.46:469][890]BlueprintLog: New page: Compile Map_Demarage
+[2018.09.23-22.46.47:880][913]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage9C0EC35540351A0176F61F8BB9D60464.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.46.47:974][913]LogFileHelpers: Saving map 'Map_Demarage' took 0.752
+[2018.09.23-22.46.58:395][493]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageE4FC1B6A4AB1B8E9F94F2CAD1B7F7327.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.46.58:486][493]LogFileHelpers: Saving map 'Map_Demarage' took 0.764
+[2018.09.23-22.47.08:365][ 36]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.47.08:421][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.08:421][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.47.08:513][ 36]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:47:08)
+[2018.09.23-22.47.08:514][ 36]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.47.08:524][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010321s)
+[2018.09.23-22.47.08:525][ 36]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.47.08:525][ 36]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2018.09.23-22.47.08:526][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.011991s)
+[2018.09.23-22.47.08:593][ 36]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.47.08:662][ 36]LogInit: FAudioDevice initialized.
+[2018.09.23-22.47.08:670][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.47.08:749][ 36]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.47.08:758][ 36]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.47.08
+[2018.09.23-22.47.08:781][ 36]LogWorld: Bringing up level for play took: 0.031423
+[2018.09.23-22.47.09:034][ 36]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 10 classes and 0 folders.
+[2018.09.23-22.47.09:034][ 36]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.47.09:034][ 36]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.47.09:034][ 36]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.47.09:060][ 36]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.47.09:067][ 36]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 1,039
+[2018.09.23-22.47.09:067][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.12:111][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.47.18:670][598]Cmd: r.setRes 1280x720
+[2018.09.23-22.47.18:671][598]r.SetRes = "1280x720"
+[2018.09.23-22.47.19:688][659]Cmd: r.setRes 1920x1080
+[2018.09.23-22.47.19:688][659]r.SetRes = "1920x1080"
+[2018.09.23-22.47.20:665][712]Cmd: r.setRes 1280x720
+[2018.09.23-22.47.20:665][712]r.SetRes = "1280x720"
+[2018.09.23-22.47.27:299][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.47.27:299][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.27:350][107]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.47.27:387][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.47.27:388][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.27:510][107]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.47.27:570][108]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.23-22.47.28:461][157]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.47.28:511][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.28:511][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.47.28:511][157]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:47:28)
+[2018.09.23-22.47.28:511][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.47.28:524][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012339s)
+[2018.09.23-22.47.28:525][157]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.47.28:525][157]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2018.09.23-22.47.28:526][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.014176s)
+[2018.09.23-22.47.28:573][157]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.47.28:597][157]LogInit: FAudioDevice initialized.
+[2018.09.23-22.47.28:604][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.47.28:651][157]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.47.28:658][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.47.28
+[2018.09.23-22.47.28:658][157]LogWorld: Bringing up level for play took: 0.006706
+[2018.09.23-22.47.28:672][157]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.47.28:672][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.47.28:672][157]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.47.28:673][157]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.47.28:678][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,65
+[2018.09.23-22.47.28:679][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.36:925][645]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.47.36:925][645]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.47.36:925][645]LogNet: Browse: /Game/Maps/Hospital
+[2018.09.23-22.47.36:926][645]LogLoad: LoadMap: /Game/Maps/Hospital
+[2018.09.23-22.47.53:588][645]LogAIModule: Creating AISystem for world Hospital
+[2018.09.23-22.47.53:589][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.23-22.47.53:675][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.24-00.47.53
+[2018.09.23-22.47.53:677][645]LogWorld: Bringing up level for play took: 0.087525
+[2018.09.23-22.47.53:787][645]LogLoad: Took 16.860298 seconds to LoadMap(/Game/Maps/Hospital)
+[2018.09.23-22.47.53:823][645]LogAudio: Warning: Detected orphaned looping sound 'wip'.
+[2018.09.23-22.47.53:957][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.53:957][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.47.54:020][646]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.47.54:074][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.47.54:075][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.47.54:169][646]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.47.54:215][647]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.23-22.48.00:853][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.48.03:358][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.48.05:044][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BasicWall)
+[2018.09.23-22.48.17:670][855]Cmd: TRANSACTION UNDO
+[2018.09.23-22.48.17:671][855]LogEditorTransaction: Undo Move Actors
+[2018.09.23-22.48.26:786][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.48.30:391][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling4)
+[2018.09.23-22.48.36:164][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2018.09.23-22.48.38:919][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.48.48:925][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.48.56:597][869]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WallDoors_Cube)
+[2018.09.23-22.48.56:675][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.49.00:363][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling4)
+[2018.09.23-22.49.04:041][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.49.06:842][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-22.49.15:127][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.49.49:784][837]LogSlate: Window 'Save Content' being destroyed
+[2018.09.23-22.49.50:600][837]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage53F1F393420F9CA6583464BC3963D807.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.49.50:691][837]LogFileHelpers: Saving map 'Map_Demarage' took 0.881
+[2018.09.23-22.49.50:720][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Material/M_FullBlack" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/Material/M_FullBlack.uasset" SILENT=true
+[2018.09.23-22.49.50:745][837]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_FullBlack0882CA8744D17285CA8722A1C979C6DF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/Material/M_FullBlack.uasset'
+[2018.09.23-22.49.52:147][920]LogAssetEditorManager: Opening Asset editor for Material /Game/UMG/Material/M_FullBlack.M_FullBlack
+[2018.09.23-22.49.52:195][920]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.49.52:875][920]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.49.52:918][920]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.49.52:941][920]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.49.52:941][920]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.49.52:941][920]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.49.54:637][964]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.49.54:693][966]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.49.55:148][981]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.49.55:184][983]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.49.55:708][  2]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.23-22.49.55:819][  5]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.23-22.49.55:913][  5]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.49.55:973][  5]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.23-22.49.56:060][  6]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.49.56:610][ 25]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.49.56:853][ 34]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.49.57:331][ 50]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.49.57:495][ 56]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.49.57:672][ 60]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.49.57:672][ 60]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.49.57:755][ 60]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.23-22.49.57:787][ 60]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.49.58:144][ 73]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.49.58:856][ 98]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.49.58:972][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.49.59:163][109]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.49.59:566][124]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.49.59:778][132]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.49.59:778][132]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.00:301][151]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.50.00:522][159]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.23-22.50.00:523][159]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.23-22.50.01:070][179]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-22.50.01:938][208]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.02:053][209]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.50.02:088][210]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.50.02:432][223]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.03:038][244]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.03:374][256]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.03:407][257]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.03:948][274]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.04:057][275]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.04:108][275]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.04:108][275]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.04:160][275]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.04:879][297]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.04:879][297]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.04:966][300]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.05:774][328]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.05:806][328]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.50.05:930][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.06:428][348]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.06:456][348]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.06:456][348]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.06:527][349]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.07:355][378]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.07:355][378]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.50.07:356][378]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.07:683][387]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.07:793][389]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.08:018][397]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.08:045][398]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.08:769][423]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.08:926][429]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.50.08:975][431]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.09:352][445]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.50.09:390][446]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.09:586][450]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.09:692][454]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.09:999][465]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.10:514][483]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.10:654][488]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.50.11:057][502]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.11:308][511]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.50.11:478][517]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.23-22.50.11:880][531]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.23-22.50.12:017][536]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-22.50.12:126][540]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.23-22.50.12:216][542]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.12:250][542]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.12:588][553]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.13:299][576]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.13:419][577]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.13:711][586]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.23-22.50.13:832][590]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.23-22.50.14:339][606]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.23-22.50.14:617][615]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.23-22.50.14:646][616]LogMaterialEditor: Saving and Compiling material M_FullBlack
+[2018.09.23-22.50.16:144][616]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.23-22.50.16:144][616]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.23-22.50.16:144][616]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.23-22.50.16:144][616]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.23-22.50.16:145][616]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-22.50.16:145][616]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.23-22.50.16:145][616]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.23-22.50.16:220][616]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.16:328][616]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.23-22.50.16:361][616]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.16:403][616]LogMaterial: Display: Missing cached shader map for material M_FullBlack, compiling. 
+[2018.09.23-22.50.16:538][616]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FullBlack, compiling. 
+[2018.09.23-22.50.20:212][616]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-22.50.20:213][616]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-22.50.20:218][616]TextureStreamingBuild: Display: Compiling optional shaders took 3.692 seconds.
+[2018.09.23-22.50.24:481][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Material/M_FullBlack" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/Material/M_FullBlack.uasset" SILENT=true
+[2018.09.23-22.50.24:608][616]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_FullBlackEC0A13CB42C5234BBC19E68D4BC1FACB.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/Material/M_FullBlack.uasset'
+[2018.09.23-22.50.24:624][616]MaterialEditorStats: Base pass shader: 98 instructions
+[2018.09.23-22.50.24:624][616]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 166 instructions
+[2018.09.23-22.50.24:624][616]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.23-22.50.24:624][616]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.23-22.50.47:170][771]LogSlate: Window 'M_FullBlack' being destroyed
+[2018.09.23-22.50.54:908][216]LogActorFactory: Actor Factory created Plane
+[2018.09.23-22.50.56:255][280]LogActorFactory: Actor Factory created Plane
+[2018.09.23-22.50.59:311][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.51.19:166][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.51.29:956][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.51.30:595][851]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage46EE8B844B7705630ECD5F8573EC20DA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.51.31:431][886]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.51.31:480][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.31:480][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.51.31:480][886]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:51:31)
+[2018.09.23-22.51.31:480][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.51.31:490][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009919s)
+[2018.09.23-22.51.31:491][886]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.51.31:491][886]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2018.09.23-22.51.31:492][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.011397s)
+[2018.09.23-22.51.31:537][886]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.51.31:559][886]LogInit: FAudioDevice initialized.
+[2018.09.23-22.51.31:565][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.51.31:609][886]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.51.31:616][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.51.31
+[2018.09.23-22.51.31:617][886]LogWorld: Bringing up level for play took: 0.007325
+[2018.09.23-22.51.31:631][886]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.51.31:631][886]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.51.31:632][886]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.51.31:633][886]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.51.31:639][886]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage -0,389
+[2018.09.23-22.51.31:640][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.39:785][370]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.51.39:785][370]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.51.39:786][370]LogNet: Browse: /Game/Maps/Hospital
+[2018.09.23-22.51.39:786][370]LogLoad: LoadMap: /Game/Maps/Hospital
+[2018.09.23-22.51.40:724][370]LogAIModule: Creating AISystem for world Hospital
+[2018.09.23-22.51.40:725][370]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.23-22.51.40:807][370]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.24-00.51.40
+[2018.09.23-22.51.40:809][370]LogWorld: Bringing up level for play took: 0.082921
+[2018.09.23-22.51.40:815][370]LogLoad: Took 1.028080 seconds to LoadMap(/Game/Maps/Hospital)
+[2018.09.23-22.51.40:827][370]LogAudio: Warning: Detected orphaned looping sound 'wip'.
+[2018.09.23-22.51.40:839][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.40:840][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.51.40:901][371]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.51.40:949][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.51.40:949][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.41:033][371]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.51.41:041][372]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.23-22.51.42:734][467]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.51.42:781][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.42:781][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.51.42:781][467]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:51:42)
+[2018.09.23-22.51.42:782][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.51.42:791][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009461s)
+[2018.09.23-22.51.42:792][467]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.51.42:792][467]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.09.23-22.51.42:792][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010624s)
+[2018.09.23-22.51.42:840][467]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.51.42:862][467]LogInit: FAudioDevice initialized.
+[2018.09.23-22.51.42:870][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.51.42:915][467]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.51.42:922][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.51.42
+[2018.09.23-22.51.42:923][467]LogWorld: Bringing up level for play took: 0.006880
+[2018.09.23-22.51.42:937][467]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.51.42:937][467]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.51.42:937][467]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.51.42:939][467]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.51.42:946][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,917
+[2018.09.23-22.51.42:947][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.45:188][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.51.51:557][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.51.51:707][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.51.51:707][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.51:757][981]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.51.51:799][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.51.51:800][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.51.51:870][981]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.51.51:895][982]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.23-22.51.58:419][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BasicWall)
+[2018.09.23-22.52.02:422][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.52.03:272][520]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage41FB13B84F1C5823FF07FCBC6D316141.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.23-22.52.03:925][542]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.52.04:006][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.04:006][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.52.04:006][542]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:52:04)
+[2018.09.23-22.52.04:007][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.52.04:016][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009497s)
+[2018.09.23-22.52.04:017][542]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.04:017][542]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2018.09.23-22.52.04:018][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.011039s)
+[2018.09.23-22.52.04:062][542]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.52.04:080][542]LogInit: FAudioDevice initialized.
+[2018.09.23-22.52.04:087][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.04:129][542]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.52.04:135][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.52.04
+[2018.09.23-22.52.04:135][542]LogWorld: Bringing up level for play took: 0.005470
+[2018.09.23-22.52.04:148][542]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.04:148][542]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.04:148][542]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.04:149][542]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.04:154][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,126
+[2018.09.23-22.52.04:155][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.04:763][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.04:763][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.04:832][574]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.52.04:872][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.52.04:872][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.04:930][574]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.52.04:953][575]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.23-22.52.06:270][654]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.52.06:318][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.06:318][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.52.06:318][654]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:52:06)
+[2018.09.23-22.52.06:318][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.52.06:327][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009122s)
+[2018.09.23-22.52.06:328][654]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.06:328][654]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.09.23-22.52.06:329][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010395s)
+[2018.09.23-22.52.06:372][654]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.52.06:392][654]LogInit: FAudioDevice initialized.
+[2018.09.23-22.52.06:398][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.06:438][654]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.52.06:444][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.52.06
+[2018.09.23-22.52.06:445][654]LogWorld: Bringing up level for play took: 0.006053
+[2018.09.23-22.52.06:458][654]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.06:458][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.06:458][654]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.06:460][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.06:465][654]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,437
+[2018.09.23-22.52.06:466][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.08:913][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.52.17:297][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.52.17:414][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.17:414][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.17:465][306]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.52.17:503][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.52.17:503][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.17:576][306]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.52.17:599][307]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.23-22.52.21:686][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.52.21:772][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.21:772][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.52.21:772][552]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:52:21)
+[2018.09.23-22.52.21:773][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.52.21:782][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009460s)
+[2018.09.23-22.52.21:783][552]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.21:783][552]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.09.23-22.52.21:783][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010641s)
+[2018.09.23-22.52.21:826][552]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.52.21:846][552]LogInit: FAudioDevice initialized.
+[2018.09.23-22.52.21:852][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.21:893][552]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.52.21:901][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.52.21
+[2018.09.23-22.52.21:902][552]LogWorld: Bringing up level for play took: 0.007134
+[2018.09.23-22.52.21:914][552]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-22.52.21:915][552]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.21:915][552]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.21:915][552]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.21:916][552]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.21:919][552]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage -0,109
+[2018.09.23-22.52.21:919][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.23:118][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.23:118][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.23:168][621]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.52.23:204][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.52.23:205][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.23:276][621]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.WorldSettings.AudioComponent_0) Not currently registered. Aborting.
+[2018.09.23-22.52.23:288][622]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.23-22.52.26:750][829]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map_Demarage.Map_Demarage
+[2018.09.23-22.52.26:793][829]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.23-22.52.26:793][829]LightingResults: New page: Lighting Build
+[2018.09.23-22.52.26:794][829]LoadErrors: New page: Loading map: Map_Demarage.umap
+[2018.09.23-22.52.26:797][829]MapCheck: New page: Map Check
+[2018.09.23-22.52.26:798][829]LightingResults: New page: Lighting Build
+[2018.09.23-22.52.27:168][829]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.27:184][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.23-22.52.27:348][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.23-22.52.27:592][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 243,74ms to complete.
+[2018.09.23-22.52.27:593][829]LogFileHelpers: Loading map 'Map_Demarage' took 0.803
+[2018.09.23-22.52.28:904][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.52.28:950][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.28:951][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.52.28:951][898]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:52:28)
+[2018.09.23-22.52.28:951][898]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.52.28:960][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008955s)
+[2018.09.23-22.52.28:961][898]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.28:961][898]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.09.23-22.52.28:961][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010148s)
+[2018.09.23-22.52.29:005][898]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.52.29:025][898]LogInit: FAudioDevice initialized.
+[2018.09.23-22.52.29:031][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.29:070][898]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.52.29:077][898]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.52.29
+[2018.09.23-22.52.29:078][898]LogWorld: Bringing up level for play took: 0.006589
+[2018.09.23-22.52.29:091][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-22.52.29:092][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.29:092][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.29:092][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.29:094][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.29:097][898]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 1,068
+[2018.09.23-22.52.29:097][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.29:586][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.29:586][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.29:636][924]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.52.29:674][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.52.29:674][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.29:735][925]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.23-22.52.30:851][992]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.23-22.52.30:913][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.30:914][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-22.52.30:914][992]PIE: New page: PIE session: Map_Demarage (24 sept. 2018 02:52:30)
+[2018.09.23-22.52.30:914][992]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.23-22.52.30:923][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009060s)
+[2018.09.23-22.52.30:924][992]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.23-22.52.30:924][992]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2018.09.23-22.52.30:924][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010333s)
+[2018.09.23-22.52.30:967][992]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-22.52.30:986][992]LogInit: FAudioDevice initialized.
+[2018.09.23-22.52.30:993][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.31:030][992]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.23-22.52.31:037][992]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.24-00.52.31
+[2018.09.23-22.52.31:037][992]LogWorld: Bringing up level for play took: 0.006047
+[2018.09.23-22.52.31:050][992]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.23-22.52.31:051][992]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.31:051][992]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-22.52.31:051][992]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.31:052][992]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-22.52.31:055][992]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 1,027
+[2018.09.23-22.52.31:056][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.33:281][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.52.39:202][478]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.52.39:202][478]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.09.23-22.52.39:202][478]LogNet: Browse: /Game/Maps/Hospital
+[2018.09.23-22.52.39:203][478]LogLoad: LoadMap: /Game/Maps/Hospital
+[2018.09.23-22.52.40:025][478]LogAIModule: Creating AISystem for world Hospital
+[2018.09.23-22.52.40:026][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.23-22.52.40:119][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.24-00.52.40
+[2018.09.23-22.52.40:121][478]LogWorld: Bringing up level for play took: 0.093807
+[2018.09.23-22.52.40:127][478]LogLoad: Took 0.923934 seconds to LoadMap(/Game/Maps/Hospital)
+[2018.09.23-22.52.40:137][478]LogAudio: Warning: Detected orphaned looping sound 'wip'.
+[2018.09.23-22.52.41:147][530]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:180][531]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:197][532]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:214][533]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:232][534]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:251][535]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:271][536]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:292][537]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:312][538]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:330][539]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:351][540]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:369][541]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:389][542]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:408][543]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:429][544]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:448][545]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:466][546]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:485][547]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:504][548]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:524][549]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:542][550]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:563][551]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:583][552]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:600][553]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:617][554]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:636][555]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:653][556]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:669][557]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:687][558]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:704][559]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:722][560]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:740][561]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:757][562]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:775][563]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:795][564]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:812][565]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:828][566]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:845][567]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:862][568]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:877][569]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:894][570]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:911][571]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:928][572]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:945][573]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:962][574]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:978][575]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.41:996][576]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:011][577]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:029][578]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:047][579]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:064][580]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:083][581]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:099][582]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:119][583]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:135][584]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:152][585]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:170][586]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:189][587]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:207][588]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:224][589]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:241][590]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:258][591]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:275][592]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:294][593]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:310][594]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:326][595]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:344][596]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:360][597]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:376][598]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:393][599]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:409][600]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:426][601]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:442][602]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:459][603]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:476][604]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:493][605]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:509][606]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:526][607]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:543][608]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:559][609]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:576][610]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:592][611]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:609][612]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:626][613]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:642][614]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:659][615]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:675][616]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:692][617]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:708][618]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:725][619]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:742][620]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:759][621]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:775][622]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:792][623]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:808][624]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:825][625]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:842][626]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:859][627]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:875][628]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:892][629]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:909][630]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:926][631]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:943][632]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:959][633]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:976][634]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.42:993][635]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:009][636]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:025][637]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:042][638]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:059][639]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:075][640]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:092][641]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:109][642]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:125][643]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:142][644]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:159][645]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:175][646]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:192][647]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:209][648]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:226][649]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:242][650]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:259][651]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:275][652]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:292][653]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:309][654]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:325][655]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:342][656]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:359][657]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:376][658]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:392][659]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:409][660]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:426][661]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:443][662]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:460][663]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:475][664]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:492][665]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:509][666]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:525][667]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:542][668]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:559][669]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:575][670]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:592][671]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:608][672]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:625][673]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:642][674]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:658][675]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:675][676]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:691][677]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:708][678]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:725][679]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:741][680]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:758][681]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:775][682]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:791][683]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:808][684]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:825][685]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:842][686]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:859][687]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:875][688]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:892][689]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:909][690]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:925][691]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:942][692]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:959][693]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:975][694]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.43:992][695]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:009][696]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:026][697]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:042][698]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:059][699]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:076][700]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:093][701]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:110][702]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:128][703]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:148][704]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:169][705]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:189][706]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:209][707]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:231][708]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:251][709]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:275][710]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:296][711]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:318][712]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:339][713]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:359][714]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:378][715]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:400][716]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:420][717]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:439][718]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:459][719]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:478][720]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:497][721]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:517][722]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:536][723]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:555][724]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:573][725]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:591][726]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:609][727]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:628][728]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:646][729]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:665][730]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:682][731]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:699][732]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:717][733]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:735][734]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:783][735]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:792][736]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:809][737]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:825][738]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:842][739]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:859][740]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:875][741]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:892][742]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:909][743]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:926][744]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:942][745]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:959][746]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:976][747]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.44:992][748]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:009][749]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:026][750]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:042][751]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:059][752]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:076][753]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:093][754]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:109][755]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:126][756]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:143][757]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:159][758]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:176][759]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:192][760]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:209][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:226][762]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:243][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:260][764]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:276][765]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:295][766]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:310][767]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:327][768]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:344][769]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:361][770]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:377][771]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:394][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:411][773]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:427][774]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:444][775]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:461][776]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:477][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:494][778]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:510][779]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:527][780]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:544][781]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:560][782]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:577][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:594][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:611][785]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:627][786]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:644][787]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:660][788]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:677][789]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:694][790]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:710][791]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:727][792]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:744][793]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:760][794]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:777][795]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:794][796]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:810][797]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:827][798]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:844][799]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:860][800]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:877][801]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:894][802]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:910][803]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:927][804]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:943][805]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:959][806]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:976][807]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.45:993][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:009][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:026][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:043][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:059][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:076][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:093][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:109][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:126][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:143][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:160][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:176][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:207][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:235][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:252][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:268][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:285][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:302][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:318][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:335][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:352][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:368][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:385][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:402][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:418][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:435][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:452][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:469][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:485][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:502][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:519][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:535][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:552][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:569][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:585][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:602][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:619][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:635][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:652][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:669][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:685][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:702][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:719][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:735][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:752][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:769][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:785][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:802][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:819][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:835][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:852][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:869][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:885][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:902][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:919][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:935][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:952][864]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:969][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.46:986][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:001][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:018][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:035][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:051][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:068][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:085][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:101][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:118][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:135][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:151][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:168][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:185][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:201][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:218][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:235][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:251][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:268][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:285][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:301][885]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:318][886]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:335][887]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:351][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:368][889]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:385][890]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:402][891]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:418][892]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:436][893]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:452][894]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:468][895]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:485][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:502][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:519][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:535][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:552][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.23-22.52.47:687][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.47:687][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-22.52.47:759][908]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-22.52.47:807][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-22.52.47:807][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.23-22.52.47:898][909]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.23-22.53.00:802][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.53.11:006][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.53.17:786][543]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.23-22.53.19:343][637]LogRenderer: Reallocating scene render targets to support 984x744 Format 10 NumSamples 1 (Frame:637).
+[2018.09.23-22.53.29:744][855]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.09.23-22.53.31:044][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.53.37:655][994]Cmd: DELETE
+[2018.09.23-22.53.37:655][994]Cmd: ACTOR DELETE
+[2018.09.23-22.53.37:666][994]LogEditorActor: Deleted Actor: PointLight
+[2018.09.23-22.53.37:746][994]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2018.09.23-22.53.39:775][ 34]Cmd: TRANSACTION UNDO
+[2018.09.23-22.53.39:775][ 34]LogEditorTransaction: Undo Delete Actors
+[2018.09.23-22.53.43:815][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-22.53.47:253][264]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-22.53.49:388][364]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage8EB740474872F0544BF21DB79DE4B5DA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
