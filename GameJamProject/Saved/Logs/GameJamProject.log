@@ -312,3 +312,114 @@ LogInit: Object subsystem initialized
 [2018.09.23-21.26.24:455][  0]MapCheck: New page: Map Check
 [2018.09.23-21.26.24:455][  0]LightingResults: New page: Lighting Build
 [2018.09.23-21.26.25:318][  0]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_4 has an invalid curve.  Please fix!
+[2018.09.23-21.26.33:577][  0]LogAIModule: Creating AISystem for world Start
+[2018.09.23-21.26.35:908][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.23-21.26.36:084][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.23-21.26.36:255][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 170,164ms to complete.
+[2018.09.23-21.26.36:255][  0]LogFileHelpers: Loading map 'Start' took 11.914
+[2018.09.23-21.26.38:210][  0]LogCollectionManager: Loaded 0 collections in 0.003247 seconds
+[2018.09.23-21.26.38:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Collections/' took 0.01s
+[2018.09.23-21.26.38:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Developers/Donovan/Collections/' took 0.01s
+[2018.09.23-21.26.38:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Collections/' took 0.01s
+[2018.09.23-21.26.38:740][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.23-21.26.38:871][  0]LogContentBrowser: Native class hierarchy populated in 0.0684 seconds. Added 2622 classes and 631 folders.
+[2018.09.23-21.26.40:155][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.23-21.26.44:622][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.23-21.26.44:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-21.26.44:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-21.26.44:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-21.26.44:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-21.26.44:852][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.09.23-21.26.45:175][  0]LogSlate: Took 0.015135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.23-21.26.45:234][  0]LogSlate: Took 0.019579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.23-21.26.45:261][  0]LogSlate: Took 0.017585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.23-21.26.45:955][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.23-21.26.45:955][  0]LogLoad: (Engine Initialization) Total time: 216.29 seconds
+[2018.09.23-21.26.45:955][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.23-21.26.46:158][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.23-21.26.46:773][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.23-21.26.46:806][  3]LogRenderer: Reallocating scene render targets to support 128x128 Format 9 NumSamples 1 (Frame:0).
+[2018.09.23-21.26.48:348][  4]LogSlate: Took 0.084270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-21.26.48:411][  5]LogAssetRegistry: Asset discovery search completed in 127.8258 seconds
+[2018.09.23-21.26.48:417][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.23-21.26.48:417][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000223 seconds (updated 0 objects)
+[2018.09.23-21.28.38:292][959]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-21.28.38:426][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/640x480_H.png)
+[2018.09.23-21.28.38:539][959]LogTexture: Display: Building textures: 640x480_H (BGRA8, 600X250)
+[2018.09.23-21.28.38:655][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/640x480_N.png)
+[2018.09.23-21.28.38:676][959]LogTexture: Display: Building textures: 640x480_N (BGRA8, 600X250)
+[2018.09.23-21.28.38:702][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/640x480_P.png)
+[2018.09.23-21.28.38:729][959]LogTexture: Display: Building textures: 640x480_P (BGRA8, 600X250)
+[2018.09.23-21.28.38:759][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1280x720_H.png)
+[2018.09.23-21.28.38:783][959]LogTexture: Display: Building textures: 1280x720_H (BGRA8, 600X250)
+[2018.09.23-21.28.38:809][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1280x720_N.png)
+[2018.09.23-21.28.38:826][959]LogTexture: Display: Building textures: 1280x720_N (BGRA8, 600X250)
+[2018.09.23-21.28.38:850][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1280x720_P.png)
+[2018.09.23-21.28.38:868][959]LogTexture: Display: Building textures: 1280x720_P (BGRA8, 600X250)
+[2018.09.23-21.28.38:903][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1920x1080_H.png)
+[2018.09.23-21.28.38:924][959]LogTexture: Display: Building textures: 1920x1080_H (BGRA8, 600X250)
+[2018.09.23-21.28.38:949][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1920x1080_N.png)
+[2018.09.23-21.28.38:970][959]LogTexture: Display: Building textures: 1920x1080_N (BGRA8, 600X250)
+[2018.09.23-21.28.38:993][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/1920x1080_P.png)
+[2018.09.23-21.28.39:015][959]LogTexture: Display: Building textures: 1920x1080_P (BGRA8, 600X250)
+[2018.09.23-21.28.39:046][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Exit_H.png)
+[2018.09.23-21.28.39:060][959]LogTexture: Display: Building textures: Exit_H (BGRA8, 600X250)
+[2018.09.23-21.28.39:083][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Exit_N.png)
+[2018.09.23-21.28.39:131][959]LogTexture: Display: Building textures: Exit_N (BGRA8, 600X250)
+[2018.09.23-21.28.39:158][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Exit_P.png)
+[2018.09.23-21.28.39:182][959]LogTexture: Display: Building textures: Exit_P (BGRA8, 600X250)
+[2018.09.23-21.28.39:214][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Play_H.png)
+[2018.09.23-21.28.39:231][959]LogTexture: Display: Building textures: Play_H (BGRA8, 600X250)
+[2018.09.23-21.28.39:258][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Play_N.png)
+[2018.09.23-21.28.39:276][959]LogTexture: Display: Building textures: Play_N (BGRA8, 600X250)
+[2018.09.23-21.28.39:300][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Play_P.png)
+[2018.09.23-21.28.39:318][959]LogTexture: Display: Building textures: Play_P (BGRA8, 600X250)
+[2018.09.23-21.28.39:348][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Resume_H.png)
+[2018.09.23-21.28.39:363][959]LogTexture: Display: Building textures: Resume_H (BGRA8, 600X250)
+[2018.09.23-21.28.39:386][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Resume_N.png)
+[2018.09.23-21.28.39:418][959]LogTexture: Display: Building textures: Resume_N (BGRA8, 600X250)
+[2018.09.23-21.28.39:442][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Resume_P.png)
+[2018.09.23-21.28.39:474][959]LogTexture: Display: Building textures: Resume_P (BGRA8, 600X250)
+[2018.09.23-21.28.39:502][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Return_H.png)
+[2018.09.23-21.28.39:529][959]LogTexture: Display: Building textures: Return_H (BGRA8, 600X250)
+[2018.09.23-21.28.39:554][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Return_N.png)
+[2018.09.23-21.28.39:572][959]LogTexture: Display: Building textures: Return_N (BGRA8, 600X250)
+[2018.09.23-21.28.39:596][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Return_P.png)
+[2018.09.23-21.28.39:619][959]LogTexture: Display: Building textures: Return_P (BGRA8, 600X250)
+[2018.09.23-21.28.39:649][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Settings_H.png)
+[2018.09.23-21.28.39:682][959]LogTexture: Display: Building textures: Settings_H (BGRA8, 600X250)
+[2018.09.23-21.28.39:706][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Settings_N.png)
+[2018.09.23-21.28.39:734][959]LogTexture: Display: Building textures: Settings_N (BGRA8, 600X250)
+[2018.09.23-21.28.39:758][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Settings_P.png)
+[2018.09.23-21.28.39:790][959]LogTexture: Display: Building textures: Settings_P (BGRA8, 600X250)
+[2018.09.23-21.28.42:158][ 41]LogSlate: Window 'Save Content' being destroyed
+[2018.09.23-21.28.42:329][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1280x720_H5479A0AA453649BEFFC18E92729A3D1E.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1280x720_H.uasset'
+[2018.09.23-21.28.42:366][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1280x720_NF38802854923ACF30DE7438993C77DD3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1280x720_N.uasset'
+[2018.09.23-21.28.42:492][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1280x720_PF85C268642A78925624BAB9F17A3C369.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1280x720_P.uasset'
+[2018.09.23-21.28.42:528][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1920x1080_HBC43548648BDB26162DDE58EE8120A9B.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1920x1080_H.uasset'
+[2018.09.23-21.28.42:563][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1920x1080_NE7382AE9416CC68ED54DD09CB4CEB547.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1920x1080_N.uasset'
+[2018.09.23-21.28.42:619][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/1920x1080_P75A314234C08AC37D8A82EAFCE56E0DE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/1920x1080_P.uasset'
+[2018.09.23-21.28.42:653][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/640x480_H43342CB4438B8B80D7D5A98805E71A43.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/640x480_H.uasset'
+[2018.09.23-21.28.42:690][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/640x480_NA80CDF81459E26FE27F9829C643EC26F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/640x480_N.uasset'
+[2018.09.23-21.28.42:727][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/640x480_P53DF18894D5631D3ADFA9F90D31F5D88.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/640x480_P.uasset'
+[2018.09.23-21.28.42:740][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Exit_H" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_H.uasset" SILENT=true
+[2018.09.23-21.28.42:764][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Exit_HE04479D14AF638074FDA7E94A201A0D9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_H.uasset'
+[2018.09.23-21.28.42:778][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Exit_N" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_N.uasset" SILENT=true
+[2018.09.23-21.28.42:800][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Exit_NAB8A57844BAC67AE00B9A394E400DA86.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_N.uasset'
+[2018.09.23-21.28.42:815][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Exit_P" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_P.uasset" SILENT=true
+[2018.09.23-21.28.42:837][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Exit_P30DC35F64F7C6C16ED17FDB865EC2B2A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Exit_P.uasset'
+[2018.09.23-21.28.42:851][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Play_H" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_H.uasset" SILENT=true
+[2018.09.23-21.28.42:872][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Play_H2B7CA82C4EB716DF9166CAAA0D473BE4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_H.uasset'
+[2018.09.23-21.28.42:886][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Play_N" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_N.uasset" SILENT=true
+[2018.09.23-21.28.42:907][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Play_NC57E508C4A4C63D1FA9FFEA060AAAAA5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_N.uasset'
+[2018.09.23-21.28.42:922][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/TextureButton/Play_P" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_P.uasset" SILENT=true
+[2018.09.23-21.28.42:946][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Play_P8E210AA34FD033B6C8481AB2632D081D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Play_P.uasset'
+[2018.09.23-21.28.42:979][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Resume_H6D74CB7C4AC0792ACE563A93602308E4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Resume_H.uasset'
+[2018.09.23-21.28.43:015][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Resume_N93FDE7024611D6064D51FA9CE40B34FE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Resume_N.uasset'
+[2018.09.23-21.28.43:085][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Resume_P13309E1A4ED159001615F79396063B24.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Resume_P.uasset'
+[2018.09.23-21.28.43:121][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Return_H33B90E1444D1772079E89981B188B5B9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Return_H.uasset'
+[2018.09.23-21.28.43:158][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Return_NB404413243431962D4B8FA8B6D507ACA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Return_N.uasset'
+[2018.09.23-21.28.43:194][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Return_P65F5B0D94AD2BCB03F23BD9B29C45A69.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Return_P.uasset'
+[2018.09.23-21.28.43:229][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Settings_HA81F9A994C48627B898178B599AD3F38.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Settings_H.uasset'
+[2018.09.23-21.28.43:265][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Settings_NA8D996AA4F5A2C1CDF4B1CA4CD1C31E5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Settings_N.uasset'
+[2018.09.23-21.28.43:313][ 41]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Settings_P6753401641AE7ACDC34CBF8265675223.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Settings_P.uasset'
