@@ -1,0 +1,654 @@
+﻿Log file open, 09/24/18 22:01:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameJamProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.338086
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.152s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.24-20.01.12:679][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.24-20.01.12:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.24-20.01.12:702][  0]LogHAL: Display: Platform has ~ 16 GB [17126174720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.24-20.01.12:702][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.24-20.01.12:702][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.24-20.01.12:702][  0]LogInit: Computer: PC-ALEX
+[2018.09.24-20.01.12:702][  0]LogInit: User: malin
+[2018.09.24-20.01.12:702][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.24-20.01.12:702][  0]LogInit: High frequency timer resolution =3.417984 MHz
+[2018.09.24-20.01.12:702][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.24-20.01.12:702][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.24-20.01.12:702][  0]LogMemory: Process Physical Memory: 101.03 MB used, 101.03 MB peak
+[2018.09.24-20.01.12:702][  0]LogMemory: Process Virtual Memory: 96.23 MB used, 96.23 MB peak
+[2018.09.24-20.01.12:702][  0]LogMemory: Physical Memory: 8522.44 MB used,  7810.35 MB free, 16332.79 MB total
+[2018.09.24-20.01.12:702][  0]LogMemory: Virtual Memory: 4632.27 MB used,  7810.35 MB free, 134217728.00 MB total
+[2018.09.24-20.01.12:856][  0]LogInit: Using OS detected language (fr-FR).
+[2018.09.24-20.01.12:856][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.09.24-20.01.12:857][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.09.24-20.01.12:875][  0]LogStreaming: Display: Took  0.019s to InitEngineTextLocalization.
+[2018.09.24-20.01.12:876][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.24-20.01.12:958][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.24-20.01.12:958][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.24-20.01.15:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.24-20.01.15:600][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.24-20.01.15:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.24-20.01.15:780][  0]LogD3D11RHI:       8088/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.24-20.01.15:782][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.24-20.01.15:782][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.24-20.01.15:782][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.24-20.01.15:790][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.24-20.01.15:791][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.24-20.01.15:791][  0]LogWindows: EnumDisplayDevices:
+[2018.09.24-20.01.15:791][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.24-20.01.15:791][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.09.24-20.01.15:791][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.24-20.01.15:791][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.24-20.01.15:791][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.24-20.01.15:791][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.24-20.01.15:792][  0]LogD3D11RHI:   Driver Version: 411.63 (internal:24.21.14.1163, unified:411.63)
+[2018.09.24-20.01.15:792][  0]LogD3D11RHI:      Driver Date: 9-18-2018
+[2018.09.24-20.01.15:792][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.09.24-20.01.15:834][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.24-20.01.15:879][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.24-20.01.15:923][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../Projet/Gamejam/GameJam/GameJamProject/Intermediate/Shaders/WorkingDirectory/4132/).
+[2018.09.24-20.01.15:924][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/malin/AppData/Local/Temp/UnrealShaderWorkingDir/A2D84B574E8759EAB1ED368E9E7660EE/'.
+[2018.09.24-20.01.16:375][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.24-20.01.16:399][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.24-20.01.16:421][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.24-20.01.16:445][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.24-20.01.16:475][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.24-20.01.16:500][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.24-20.01.16:525][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.24-20.01.16:549][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.24-20.01.16:568][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-20.01.16:682][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.24-20.01.16:804][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.24-20.01.16:804][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.24-20.01.16:842][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.24-20.01.16:842][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.24-20.01.16:869][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.24-20.01.16:895][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.24-20.01.16:918][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.24-20.01.16:955][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.24-20.01.16:975][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.24-20.01.16:975][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.24-20.01.17:263][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.24-20.01.17:264][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.24-20.01.17:264][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.24-20.01.19:322][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.24-20.01.19:387][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/malin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.24-20.01.19:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/malin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.24-20.01.19:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projet/Gamejam/GameJam/GameJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.24-20.01.19:388][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.24-20.01.19:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projet/Gamejam/GameJam/GameJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.24-20.01.19:388][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.24-20.01.19:407][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.24-20.01.19:441][  0]LogDerivedDataCache: Using Local data cache path C:/Users/malin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.24-20.01.19:441][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.24-20.01.19:441][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.24-20.01.19:459][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.24-20.01.19:461][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.24-20.01.19:474][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.24-20.01.19:757][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.09.24-20.01.20:082][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.24-20.01.20:230][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.24-20.01.20:255][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.24-20.01.20:255][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.24-20.01.20:255][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.24-20.01.20:255][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.24-20.01.20:359][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
+[2018.09.24-20.01.20:868][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.122004 seconds
+[2018.09.24-20.01.20:875][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.24-20.01.20:875][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.24-20.01.20:875][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.24-20.01.23:975][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.24-20.01.24:001][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.24-20.01.24:328][  0]SourceControl: Source control is disabled
+[2018.09.24-20.01.25:286][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.24-20.01.25:402][  0]LogOcInput: OculusInput pre-init called
+[2018.09.24-20.01.25:511][  0]LogEngine: Initializing Engine...
+[2018.09.24-20.01.25:512][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.24-20.01.25:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.24-20.01.25:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.24-20.01.25:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.24-20.01.25:513][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.24-20.01.25:705][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.24-20.01.25:732][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.24-20.01.25:746][  0]LogInit: XAudio2 using 'Razer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-20.01.25:755][  0]LogInit: FAudioDevice initialized.
+[2018.09.24-20.01.25:755][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.24-20.01.25:827][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/malin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.24-20.01.25:830][  0]LogInit: Texture streaming: Enabled
+[2018.09.24-20.01.25:882][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.24-20.01.25:906][  0]LogInit: Transaction tracking system initialized
+[2018.09.24-20.01.25:971][  0]BlueprintLog: New page: Editor Load
+[2018.09.24-20.01.26:253][  0]LocalizationService: Localization service is disabled
+[2018.09.24-20.01.26:429][  0]LogLinker: Warning: Can't find file '/Game/Character/ThirdPersonBP/ThirdPersonOverview'
+[2018.09.24-20.01.26:429][  0]LogLinker: Warning: Can't find file '/Game/Character/ThirdPersonBP/ThirdPersonOverview'
+[2018.09.24-20.01.26:429][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Character/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.09.24-20.01.26:658][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.24-20.01.26:658][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.24-20.01.26:658][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.24-20.01.26:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.24-20.01.26:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.24-20.01.26:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.24-20.01.26:658][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.24-20.01.27:070][  0]LogFileCache: Scanning file cache for directory 'F:/Projet/Gamejam/GameJam/GameJamProject/Content/' took 0.02s
+[2018.09.24-20.01.27:070][  0]Cmd: MAP LOAD FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-20.01.27:070][  0]LightingResults: New page: Lighting Build
+[2018.09.24-20.01.27:072][  0]MapCheck: New page: Map Check
+[2018.09.24-20.01.27:072][  0]LightingResults: New page: Lighting Build
+[2018.09.24-20.01.27:693][  0]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_4 has an invalid curve.  Please fix!
+[2018.09.24-20.01.28:917][  0]LogAIModule: Creating AISystem for world Start
+[2018.09.24-20.01.29:122][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-20.01.29:146][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-20.01.29:218][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72,427ms to complete.
+[2018.09.24-20.01.29:218][  0]LogFileHelpers: Loading map 'Start' took 2.149
+[2018.09.24-20.01.29:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.01.29:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.01.29:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.01.29:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.01.29:396][  0]LogCollectionManager: Loaded 0 collections in 0.001202 seconds
+[2018.09.24-20.01.29:440][  0]LogFileCache: Scanning file cache for directory 'F:/Projet/Gamejam/GameJam/GameJamProject/Saved/Collections/' took 0.01s
+[2018.09.24-20.01.29:440][  0]LogFileCache: Scanning file cache for directory 'F:/Projet/Gamejam/GameJam/GameJamProject/Content/Developers/malin/Collections/' took 0.01s
+[2018.09.24-20.01.29:440][  0]LogFileCache: Scanning file cache for directory 'F:/Projet/Gamejam/GameJam/GameJamProject/Content/Collections/' took 0.01s
+[2018.09.24-20.01.29:440][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.24-20.01.29:449][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2572 classes and 603 folders.
+[2018.09.24-20.01.29:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.24-20.01.29:782][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.24-20.01.29:798][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.24-20.01.30:856][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.24-20.01.30:909][  0]LogSlate: Took 0.012444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.24-20.01.30:915][  0]LogSlate: Took 0.003788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.24-20.01.30:924][  0]LogSlate: Took 0.004296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.24-20.01.31:043][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameJamProject
+[2018.09.24-20.01.31:043][  0]LogTemp: CWD: F:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.24-20.01.31:043][  0]LogTemp: Initial Dir: F:\Unreal Engine\UE_4.20
+[2018.09.24-20.01.31:043][  0]LogTemp: Env CWD: F:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.24-20.01.31:043][  0]LogTemp: BranchPath = PC-ALEX/F/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = PC-ALEX/F/Unreal Engine/UE_4.20/Engine/Binaries
+[2018.09.24-20.01.31:043][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\malin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.24-20.01.31:043][  0]LogRenderer: Reallocating scene render targets to support 1300x628 Format 10 NumSamples 1 (Frame:1).
+[2018.09.24-20.01.31:151][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.24-20.01.31:151][  0]LogLoad: (Engine Initialization) Total time: 21.80 seconds
+[2018.09.24-20.01.31:151][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.24-20.01.31:222][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.24-20.01.31:293][  1]LogAssetRegistry: Asset discovery search completed in 11.5599 seconds
+[2018.09.24-20.01.31:295][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.24-20.01.31:295][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.09.24-20.01.32:618][  5]LogSlate: Took 0.004190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.24-20.01.35:301][ 13]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.24-20.01.44:333][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.01.50:877][459]LogAIModule: Creating AISystem for world Hospital
+[2018.09.24-20.01.50:949][459]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2018.09.24-20.01.50:977][459]Cmd: MAP LOAD FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-20.01.50:977][459]LightingResults: New page: Lighting Build
+[2018.09.24-20.01.50:977][459]LoadErrors: New page: Loading map: Hospital.umap
+[2018.09.24-20.01.50:979][459]MapCheck: New page: Map Check
+[2018.09.24-20.01.50:979][459]LightingResults: New page: Lighting Build
+[2018.09.24-20.01.51:088][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-20.01.51:167][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-20.01.51:279][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111,571ms to complete.
+[2018.09.24-20.01.51:279][459]LogFileHelpers: Loading map 'Hospital' took 0.303
+[2018.09.24-20.02.51:285][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.02.55:366][691]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.09.24-20.02.57:610][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.03.19:949][358]LogEditorViewport: Clicking on Actor (context menu): Brush (Cylinder Brush)
+[2018.09.24-20.03.19:999][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.03.23:581][759]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.09.24-20.03.24:542][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.03.27:084][140]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.09.24-20.03.29:783][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.03.40:039][540]LogActorFactory: Actor Factory created Cylinder
+[2018.09.24-20.03.40:818][605]LogActorFactory: Actor Factory created Cylinder
+[2018.09.24-20.03.42:058][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.03.51:442][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.04.00:478][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.04.08:331][470]Cmd: DELETE
+[2018.09.24-20.04.08:331][470]Cmd: ACTOR DELETE
+[2018.09.24-20.04.08:357][470]LogEditorActor: Deleted Actor: Brush
+[2018.09.24-20.04.08:378][470]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.09.24-20.04.09:070][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.09.24-20.04.09:281][563]LogSlate: Took 0.004405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.24-20.04.09:967][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.04.14:919][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.04.23:235][  9]Cmd: DELETE
+[2018.09.24-20.04.23:235][  9]Cmd: ACTOR DELETE
+[2018.09.24-20.04.23:254][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-20.04.23:280][  9]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.09.24-20.05.05:458][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.05.05:553][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.05.05:559][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hospital" FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.24-20.05.06:487][865]LogSavePackage: Moving '../../../../../Projet/Gamejam/GameJam/GameJamProject/Saved/Hospital0832CF5F4771342C53ECDEBF61CFC5DD.tmp' to '../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.24-20.05.06:611][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hospital_BuiltData" FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital_BuiltData.uasset" SILENT=true
+[2018.09.24-20.05.07:359][865]LogSavePackage: Moving '../../../../../Projet/Gamejam/GameJam/GameJamProject/Saved/Hospital_BuiltData1ACB989843385E68F3227BBC76D0DD1E.tmp' to '../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital_BuiltData.uasset'
+[2018.09.24-20.08.25:667][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.24-20.08.25:668][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.24-20.08.25:683][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.08.28:895][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.24-20.08.28:895][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.24-20.08.43:049][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.10.18:743][883]LogEditorViewport: Clicking on Actor (LMB): BP_Doors_C (BP_Doors10)
+[2018.09.24-20.10.41:657][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.10.48:421][977]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2018.09.24-20.10.48:963][977]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.24-20.10.49:813][977]LogSlate: Took 0.004107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.24-20.11.06:819][634]LogAIModule: Creating AISystem for world Start
+[2018.09.24-20.11.06:829][634]LogAssetEditorManager: Opening Asset editor for World /Game/Level/Start.Start
+[2018.09.24-20.11.06:864][634]Cmd: MAP LOAD FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-20.11.06:864][634]LightingResults: New page: Lighting Build
+[2018.09.24-20.11.06:864][634]LoadErrors: New page: Loading map: Start.umap
+[2018.09.24-20.11.06:873][634]MapCheck: New page: Map Check
+[2018.09.24-20.11.06:873][634]LightingResults: New page: Lighting Build
+[2018.09.24-20.11.06:944][634]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-20.11.07:033][634]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-20.11.07:168][634]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134,265ms to complete.
+[2018.09.24-20.11.07:168][634]LogFileHelpers: Loading map 'Start' took 0.305
+[2018.09.24-20.11.08:202][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.11.08:229][747]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.24-20.11.08:259][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.08:259][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-20.11.08:271][747]PIE: New page: PIE session: Start (25 sept. 2018 00:11:08)
+[2018.09.24-20.11.08:271][747]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.24-20.11.08:281][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010355s)
+[2018.09.24-20.11.08:282][747]LogAIModule: Creating AISystem for world Start
+[2018.09.24-20.11.08:282][747]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.09.24-20.11.08:282][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.011494s)
+[2018.09.24-20.11.08:315][747]LogInit: XAudio2 using 'Razer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-20.11.08:325][747]LogInit: FAudioDevice initialized.
+[2018.09.24-20.11.08:335][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.11.08:394][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.24-20.11.08:398][747]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2018.09.24-22.11.08
+[2018.09.24-20.11.08:399][747]LogWorld: Bringing up level for play took: 0.004254
+[2018.09.24-20.11.08:415][747]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.24-20.11.08:423][747]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 0,49
+[2018.09.24-20.11.08:424][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.08:444][747]LogRenderer: Reallocating scene render targets to support 1300x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.24-20.11.08:678][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:688][762]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:698][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:708][764]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:717][765]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:731][766]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:739][767]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:755][768]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:771][769]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:812][770]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:824][771]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:834][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:846][773]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:853][774]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:864][775]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:873][776]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:882][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:892][778]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:903][779]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:912][780]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:920][781]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:930][782]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:938][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:947][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:956][785]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:966][786]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:974][787]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:983][788]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.08:991][789]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.09:002][790]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.09:011][791]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.09:020][792]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:525][959]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:532][960]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:542][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:551][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:560][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:568][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:579][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:588][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:596][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:605][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:616][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:625][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:633][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:642][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:651][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:659][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:668][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:678][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:686][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:695][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:703][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:712][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:724][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:732][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:749][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:757][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:766][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:784][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:797][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:813][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:821][989]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:830][990]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:838][991]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:848][992]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:856][993]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:864][994]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:873][995]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:885][996]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:894][997]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:901][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:914][999]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:922][  0]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:930][  1]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:939][  2]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:949][  3]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:957][  4]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:966][  5]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:974][  6]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:983][  7]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:991][  8]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.10:999][  9]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:008][ 10]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:017][ 11]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:025][ 12]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:034][ 13]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:046][ 14]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:055][ 15]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:063][ 16]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:071][ 17]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:081][ 18]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:089][ 19]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:097][ 20]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:107][ 21]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:115][ 22]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:124][ 23]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:132][ 24]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:141][ 25]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:151][ 26]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:160][ 27]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:168][ 28]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:177][ 29]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:185][ 30]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:194][ 31]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:202][ 32]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:211][ 33]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:219][ 34]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:228][ 35]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:236][ 36]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:247][ 37]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:255][ 38]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:264][ 39]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:272][ 40]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:283][ 41]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:290][ 42]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:298][ 43]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:307][ 44]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:316][ 45]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:324][ 46]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:333][ 47]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:341][ 48]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:351][ 49]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:359][ 50]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:368][ 51]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:376][ 52]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:385][ 53]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:394][ 54]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:402][ 55]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:410][ 56]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:419][ 57]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:429][ 58]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:437][ 59]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:446][ 60]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:455][ 61]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:463][ 62]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:471][ 63]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:479][ 64]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:488][ 65]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:496][ 66]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:504][ 67]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:513][ 68]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:522][ 69]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:531][ 70]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:539][ 71]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:548][ 72]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:558][ 73]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:566][ 74]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:574][ 75]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:583][ 76]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:593][ 77]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.11:600][ 78]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.24-20.11.15:356][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.15:356][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.11.15:384][500]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-20.11.15:418][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-20.11.15:418][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.15:465][501]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.24-20.11.22:615][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.11.22:657][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.24-20.11.22:689][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.22:689][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-20.11.22:689][312]PIE: New page: PIE session: Start (25 sept. 2018 00:11:22)
+[2018.09.24-20.11.22:689][312]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.24-20.11.22:699][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009527s)
+[2018.09.24-20.11.22:699][312]LogAIModule: Creating AISystem for world Start
+[2018.09.24-20.11.22:699][312]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2018.09.24-20.11.22:699][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.010200s)
+[2018.09.24-20.11.22:735][312]LogInit: XAudio2 using 'Razer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-20.11.22:745][312]LogInit: FAudioDevice initialized.
+[2018.09.24-20.11.22:755][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.11.22:800][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.24-20.11.22:805][312]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2018.09.24-22.11.22
+[2018.09.24-20.11.22:806][312]LogWorld: Bringing up level for play took: 0.005051
+[2018.09.24-20.11.22:823][312]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 0,89
+[2018.09.24-20.11.22:823][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.34:999][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.34:999][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.11.35:026][673]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-20.11.35:055][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-20.11.35:055][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.11.35:102][674]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.24-20.11.37:441][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.12.03:454][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.12.03:471][886]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.24-20.12.03:498][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.12.03:498][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-20.12.03:498][886]PIE: New page: PIE session: Start (25 sept. 2018 00:12:03)
+[2018.09.24-20.12.03:498][886]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.24-20.12.03:510][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011385s)
+[2018.09.24-20.12.03:510][886]LogAIModule: Creating AISystem for world Start
+[2018.09.24-20.12.03:510][886]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.09.24-20.12.03:510][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.012392s)
+[2018.09.24-20.12.03:546][886]LogInit: XAudio2 using 'Razer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-20.12.03:551][886]LogInit: FAudioDevice initialized.
+[2018.09.24-20.12.03:561][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.12.03:611][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.24-20.12.03:615][886]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2018.09.24-22.12.03
+[2018.09.24-20.12.03:616][886]LogWorld: Bringing up level for play took: 0.004252
+[2018.09.24-20.12.03:633][886]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start -0,299
+[2018.09.24-20.12.03:634][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.12.11:023][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.12.11:024][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-20.12.11:055][702]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-20.12.11:095][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-20.12.11:095][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.24-20.12.11:139][703]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.24-20.15.00:680][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.15.05:086][457]LogAIModule: Creating AISystem for world Hospital
+[2018.09.24-20.15.05:140][457]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2018.09.24-20.15.05:173][457]Cmd: MAP LOAD FILE="../../../../../Projet/Gamejam/GameJam/GameJamProject/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-20.15.05:174][457]LightingResults: New page: Lighting Build
+[2018.09.24-20.15.05:174][457]LoadErrors: New page: Loading map: Hospital.umap
+[2018.09.24-20.15.05:175][457]MapCheck: New page: Map Check
+[2018.09.24-20.15.05:176][457]LightingResults: New page: Lighting Build
+[2018.09.24-20.15.05:302][457]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-20.15.05:384][457]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-20.15.05:500][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116,289ms to complete.
+[2018.09.24-20.15.05:500][457]LogFileHelpers: Loading map 'Hospital' took 0.328
+[2018.09.24-20.15.07:855][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-20.18.19:672][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.18.22:145][957]LogEditorViewport: Clicking on Actor (LMB): BPDoorMetal_C (BPDoorMetal10)
+[2018.09.24-20.18.30:110][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.18.30:179][888]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/World/MetalDoors/BPDoorMetal.BPDoorMetal
+[2018.09.24-20.18.37:272][694]LogEditorViewport: Clicking on Actor (LMB): BP_Doors_C (BP_Doors8)
+[2018.09.24-20.18.38:979][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-20.18.39:023][896]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprint/BP_Doors.BP_Doors
+[2018.09.24-20.18.46:234][702]LogBlueprint: Warning: Timeline Timeline_1 Track NewTrack_0 in /Game/World/MetalDoors/BPDoorMetal.BPDoorMetal_C has an invalid curve.  Please fix!
