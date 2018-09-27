@@ -1663,3 +1663,1487 @@ LogInit: Object subsystem initialized
 [2018.09.27-13.20.54:243][525]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/StartF069DCA6494A042A9093B6BCAB9AE73D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Level/Start.umap'
 [2018.09.27-13.20.54:459][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Start_BuiltData" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Level/Start_BuiltData.uasset" SILENT=true
 [2018.09.27-13.20.54:628][525]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Start_BuiltData4C3CEBE349BB080F9BBE2E8BAF1DDCD4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Level/Start_BuiltData.uasset'
+[2018.09.27-13.22.06:812][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.27-13.22.07:205][ 14]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameJamProject
+[2018.09.27-13.22.07:206][ 14]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.27-13.22.07:206][ 14]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.27-13.22.07:206][ 14]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.27-13.22.07:415][ 26]LogTemp: BranchPath = PC_DONO/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = PC_DONO/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.27-13.22.07:649][ 40]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Donovan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.27-13.58.04:891][205]LogMaterial: Display: Missing cached shader map for material M_MetalBlqck, compiling. 
+[2018.09.27-13.58.05:980][205]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.27-13.58.05:980][205]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.27-13.58.05:980][205]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.27-13.58.21:532][205]LogAIModule: Creating AISystem for world Hospital
+[2018.09.27-13.58.21:730][205]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2018.09.27-13.58.21:800][205]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.27-13.58.21:800][205]LightingResults: New page: Lighting Build
+[2018.09.27-13.58.21:801][205]LoadErrors: New page: Loading map: Hospital.umap
+[2018.09.27-13.58.21:907][205]MapCheck: New page: Map Check
+[2018.09.27-13.58.21:907][205]LightingResults: New page: Lighting Build
+[2018.09.27-13.58.22:347][205]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.27-13.58.22:530][205]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.27-13.58.27:028][205]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4 498,076ms to complete.
+[2018.09.27-13.58.27:031][205]LogFileHelpers: Loading map 'Hospital' took 5.232
+[2018.09.27-14.00.12:923][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.13:318][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.13:693][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.13:759][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.14:018][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.16:890][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.19:102][474]LogRenderer: Reallocating scene render targets to support 960x724 Format 10 NumSamples 1 (Frame:1552).
+[2018.09.27-14.00.19:494][474]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.27-14.00.22:844][654]LogRenderer: Reallocating scene render targets to support 1572x856 Format 10 NumSamples 1 (Frame:1559).
+[2018.09.27-14.00.23:140][655]LogRenderer: Reallocating scene render targets to support 1600x860 Format 10 NumSamples 1 (Frame:1562).
+[2018.09.27-14.00.26:888][695]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_BasicWall162)
+[2018.09.27-14.00.27:491][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.35:868][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.38:705][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.38:742][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.42:718][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.49:427][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.27-14.00.49:427][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.27-14.00.49:427][757]PIE: New page: PIE session: Hospital (27 sept. 2018 18:00:49)
+[2018.09.27-14.00.49:427][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hospital
+[2018.09.27-14.00.49:550][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123470s)
+[2018.09.27-14.00.49:551][757]LogAIModule: Creating AISystem for world Hospital
+[2018.09.27-14.00.49:552][757]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2018.09.27-14.00.49:552][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hospital.Hospital to /Game/Maps/UEDPIE_0_Hospital.Hospital (0.125876s)
+[2018.09.27-14.00.49:624][757]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.27-14.00.49:673][757]LogInit: FAudioDevice initialized.
+[2018.09.27-14.00.49:677][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.00.49:681][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-14.00.49:725][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.27-14.00.49:839][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.27-16.00.49
+[2018.09.27-14.00.49:910][757]LogWorld: Bringing up level for play took: 0.183742
+[2018.09.27-14.00.49:939][757]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hospital 0,952
+[2018.09.27-14.00.49:940][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.27-14.00.54:037][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:114][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:196][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:282][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:370][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:454][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:543][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:629][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:721][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:809][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:896][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.54:983][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:076][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:158][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:247][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:335][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:423][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:509][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:597][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:684][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:776][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:868][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.55:946][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:036][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:125][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:210][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:303][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:383][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:486][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:561][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:649][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:736][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:820][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:903][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.56:987][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:078][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:163][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:247][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:332][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:419][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:501][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:584][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:668][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:753][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:838][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.57:921][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:003][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:090][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:173][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:265][864]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:354][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:443][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:524][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:607][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:693][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:779][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:863][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.58:950][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:041][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:129][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:213][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:297][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:384][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:472][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:559][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:648][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:736][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:827][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.00.59:913][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.00:000][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.01:005][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.01:081][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.01:162][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.01:249][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.02:592][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.02:665][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.02:748][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.02:836][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.02:922][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:010][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:098][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:185][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:271][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:358][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:450][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:535][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:622][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:711][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:800][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:885][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.03:971][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:059][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:145][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:233][934]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:320][935]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:408][936]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:498][937]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:583][938]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:671][939]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:758][940]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:848][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.04:932][942]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:019][943]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:107][944]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:196][945]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:281][946]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:370][947]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:456][948]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:542][949]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:629][950]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:718][951]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:806][952]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:894][953]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.05:981][954]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:069][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:156][956]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:244][957]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:334][958]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:419][959]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:509][960]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:599][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:684][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:769][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:857][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.06:944][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:034][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:120][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:208][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:294][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:380][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:466][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:553][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:639][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:724][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:810][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:901][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.07:986][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:071][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:157][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:244][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:331][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:417][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:504][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:592][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:679][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:766][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:854][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.08:943][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:029][989]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:116][990]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:204][991]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:292][992]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:380][993]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:469][994]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:557][995]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:641][996]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:729][997]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:816][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:904][999]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.09:991][  0]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:079][  1]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:167][  2]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:254][  3]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:343][  4]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:430][  5]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:518][  6]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:606][  7]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:692][  8]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:780][  9]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:869][ 10]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.10:957][ 11]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:046][ 12]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:133][ 13]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:220][ 14]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:308][ 15]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:397][ 16]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:486][ 17]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:573][ 18]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:661][ 19]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:749][ 20]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:836][ 21]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.11:924][ 22]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:011][ 23]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:099][ 24]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:187][ 25]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:276][ 26]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:364][ 27]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:500][ 28]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:539][ 29]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:627][ 30]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:714][ 31]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:802][ 32]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:889][ 33]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.12:979][ 34]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.27-14.01.14:393][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.27-14.01.14:394][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-14.01.14:500][ 51]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.27-14.01.14:767][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.27-14.01.14:768][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.27-14.01.15:001][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.27-14.01.17:318][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.01.19:679][147]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.27-14.01.19:695][148]LogRenderer: Reallocating scene render targets to support 1600x860 Format 9 NumSamples 1 (Frame:1743).
+[2018.09.27-14.01.24:757][415]MapCheck: New page: Map Check
+[2018.09.27-14.01.24:885][415]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.27-14.01.24:896][415]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.27-14.01.25:964][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.09.27-14.01.26:033][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.27-14.01.26:034][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Floor, compiling. 
+[2018.09.27-14.01.26:067][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.27-14.01.26:067][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radiateur, compiling. 
+[2018.09.27-14.01.26:100][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.27-14.01.26:100][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal, compiling. 
+[2018.09.27-14.01.26:128][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_10, compiling. 
+[2018.09.27-14.01.26:148][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Table, compiling. 
+[2018.09.27-14.01.26:169][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_11, compiling. 
+[2018.09.27-14.01.26:207][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_12, compiling. 
+[2018.09.27-14.01.26:235][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_13, compiling. 
+[2018.09.27-14.01.26:249][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_18, compiling. 
+[2018.09.27-14.01.26:282][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_17, compiling. 
+[2018.09.27-14.01.26:321][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_14, compiling. 
+[2018.09.27-14.01.26:334][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_16, compiling. 
+[2018.09.27-14.01.26:347][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_15, compiling. 
+[2018.09.27-14.01.26:380][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_1, compiling. 
+[2018.09.27-14.01.26:405][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_2, compiling. 
+[2018.09.27-14.01.26:446][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_4, compiling. 
+[2018.09.27-14.01.26:477][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_8, compiling. 
+[2018.09.27-14.01.26:512][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_9, compiling. 
+[2018.09.27-14.01.26:526][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material, compiling. 
+[2018.09.27-14.01.26:567][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalLamp, compiling. 
+[2018.09.27-14.01.26:633][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FullBlack, compiling. 
+[2018.09.27-14.01.26:689][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_24, compiling. 
+[2018.09.27-14.01.26:731][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_25, compiling. 
+[2018.09.27-14.01.26:773][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_26, compiling. 
+[2018.09.27-14.01.26:812][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_6, compiling. 
+[2018.09.27-14.01.26:828][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_7, compiling. 
+[2018.09.27-14.01.26:845][415]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.27-14.01.26:846][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_3, compiling. 
+[2018.09.27-14.01.26:864][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Mat_7, compiling. 
+[2018.09.27-14.01.26:977][415]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.27-14.01.26:977][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_PileNoir, compiling. 
+[2018.09.27-14.01.26:990][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_5, compiling. 
+[2018.09.27-14.01.27:045][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_27, compiling. 
+[2018.09.27-14.01.27:089][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radiateur, compiling. 
+[2018.09.27-14.01.27:131][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal, compiling. 
+[2018.09.27-14.01.27:166][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pile_Argent, compiling. 
+[2018.09.27-14.01.27:183][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Clef, compiling. 
+[2018.09.27-14.01.27:235][415]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.27-14.01.27:235][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal, compiling. 
+[2018.09.27-14.01.27:285][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LevierRed, compiling. 
+[2018.09.27-14.01.27:328][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalPorte_Inst, compiling. 
+[2018.09.27-14.01.27:409][415]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.27-14.01.27:409][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_DoorLock_Inst, compiling. 
+[2018.09.27-14.01.27:507][415]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.27-14.01.27:507][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightRed_Inst, compiling. 
+[2018.09.27-14.01.27:522][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalLightGreen_Inst, compiling. 
+[2018.09.27-14.01.27:602][415]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.27-14.01.27:602][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Barreau_Inst, compiling. 
+[2018.09.27-14.01.27:639][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightEmis_Inst, compiling. 
+[2018.09.27-14.01.27:676][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_30, compiling. 
+[2018.09.27-14.01.27:712][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tuyau, compiling. 
+[2018.09.27-14.01.27:782][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chaudieres, compiling. 
+[2018.09.27-14.01.27:848][415]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.27-14.01.27:849][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fut_Inst, compiling. 
+[2018.09.27-14.01.27:903][415]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.27-14.01.27:903][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Caisse_Metal, compiling. 
+[2018.09.27-14.01.27:939][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Couvercle_Poubelle, compiling. 
+[2018.09.27-14.01.27:953][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Poubelle, compiling. 
+[2018.09.27-14.01.27:983][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Matelas, compiling. 
+[2018.09.27-14.01.28:015][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalBlqck, compiling. 
+[2018.09.27-14.01.28:030][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.09.27-14.01.28:092][415]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.27-14.01.28:092][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy PackedMaterial0mat_Inst, compiling. 
+[2018.09.27-14.01.28:139][415]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.27-14.01.37:201][415]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.27-14.01.37:202][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.27-14.01.37:202][415]TextureStreamingBuild: Display: Compiling optional shaders took 11.315 seconds.
+[2018.09.27-14.01.37:458][415]LogLevel: Display: Export Material TexCoord Scales took 0.256 seconds.
+[2018.09.27-14.01.38:232][415]TextureStreamingBuild: Display: Build Texture Streaming took 0.715 seconds.
+[2018.09.27-14.01.38:374][415]LightingResults: New page: Lighting Build - 27 sept. 2018 18:01:38
+[2018.09.27-14.01.39:819][415]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.27-14.01.40:350][415]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.27-14.01.41:030][415]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.27-14.01.43:669][415]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.09.27-14.01.43:866][415]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée 127.0.0.1:8008
+
+Server stack trace: 
+   à System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   à System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   à System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   à System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   à System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   à System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   à NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   à NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) dans D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:ligne 2811
+[2018.09.27-14.01.49:850][415]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.27-14.01.49:850][415]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9160
+[2018.09.27-14.02.01:721][415]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.27-14.02.01:721][415]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.27-14.02.01:721][415]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.27-14.02.01:721][415]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.27-14.02.01:721][415]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.27-14.02.05:279][415]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.27-14.02.05:280][415]MapCheck: New page: Hospital - 27 sept. 2018 18:02:05
+[2018.09.27-14.02.05:295][415]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.27-14.02.05:355][415]MapCheck: Warning: Bed_21 Static mesh actor has NULL StaticMesh property 
+[2018.09.27-14.02.05:370][415]MapCheck: Warning: Bed_21 Static mesh actor Bed_21 has NULL StaticMesh property 
+[2018.09.27-14.02.05:732][415]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 452,535ms to complete.
+[2018.09.27-14.02.05:799][415]LogEditorBuildUtils: Build time 0:40
+[2018.09.27-14.02.06:220][420]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Table, compiling. 
+[2018.09.27-14.02.06:275][420]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.27-14.02.06:275][420]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Table, compiling. 
+[2018.09.27-14.02.06:290][421]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.27-14.02.06:592][426]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2018.09.27-14.02.06:608][426]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.27-14.02.06:608][426]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2018.09.27-14.02.06:685][428]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FullBlack, compiling. 
+[2018.09.27-14.02.06:710][428]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FullBlack, compiling. 
+[2018.09.27-14.02.06:857][433]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_PileNoir, compiling. 
+[2018.09.27-14.02.06:889][433]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_PileNoir, compiling. 
+[2018.09.27-14.02.06:919][434]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Radiateur, compiling. 
+[2018.09.27-14.02.06:953][434]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Radiateur, compiling. 
+[2018.09.27-14.02.07:023][435]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal, compiling. 
+[2018.09.27-14.02.07:080][435]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal, compiling. 
+[2018.09.27-14.02.07:132][436]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pile_Argent, compiling. 
+[2018.09.27-14.02.07:182][436]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pile_Argent, compiling. 
+[2018.09.27-14.02.07:230][437]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tuyau, compiling. 
+[2018.09.27-14.02.07:272][437]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tuyau, compiling. 
+[2018.09.27-14.02.07:326][438]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chaudieres, compiling. 
+[2018.09.27-14.02.07:350][438]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chaudieres, compiling. 
+[2018.09.27-14.02.07:409][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fut_Inst, compiling. 
+[2018.09.27-14.02.07:481][439]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fut_Inst, compiling. 
+[2018.09.27-14.02.07:510][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_LevierRed, compiling. 
+[2018.09.27-14.02.07:549][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_LevierRed, compiling. 
+[2018.09.27-14.02.07:579][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Caisse_Metal, compiling. 
+[2018.09.27-14.02.07:632][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Caisse_Metal, compiling. 
+[2018.09.27-14.02.07:679][442]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Couvercle_Poubelle, compiling. 
+[2018.09.27-14.02.07:711][442]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Couvercle_Poubelle, compiling. 
+[2018.09.27-14.02.07:779][443]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Poubelle, compiling. 
+[2018.09.27-14.02.07:798][443]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Poubelle, compiling. 
+[2018.09.27-14.02.07:879][444]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Matelas, compiling. 
+[2018.09.27-14.02.07:963][444]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Matelas, compiling. 
+[2018.09.27-14.02.08:069][445]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MetalBlqck, compiling. 
+[2018.09.27-14.02.08:092][445]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MetalBlqck, compiling. 
+[2018.09.27-14.02.21:285][448]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.27-14.02.21:286][448]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.27-14.02.21:286][448]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.27-14.02.21:286][448]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.27-14.02.21:286][448]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.27-14.02.21:286][448]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.27-14.02.43:189][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AI_Anim_Bp_C_0
+	Function /Game/AI/Monstre/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.27-14.02.45:761][274]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AI/Monstre/Anim/Mutant_Swiping.Mutant_Swiping
+[2018.09.27-14.02.46:070][274]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.09.27-14.02.47:217][274]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.27-14.02.47:294][274]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.09.27-14.02.47:892][274]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.27-14.02.50:136][274]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.09.27-14.02.50:429][275]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.27-14.02.56:993][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.03.32:615][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.03.43:829][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.03.43:912][748]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.27-14.03.52:203][976]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.27-14.03.58:168][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.04.13:175][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.04.13:277][571]LogSlate: Window 'Mutant_Swiping*' being destroyed
+[2018.09.27-14.04.59:055][825]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AI/Monstre/Anim/Mutant_Swiping.Mutant_Swiping
+[2018.09.27-14.04.59:073][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.27-14.04.59:201][825]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.27-14.05.00:259][825]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.27-14.05.05:283][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.05.12:336][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.05.18:142][337]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.27-14.05.21:138][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.05.38:980][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-14.05.53:314][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-14.05.54:107][313]LogSlate: Window 'Mutant_Swiping*' being destroyed
+[2018.09.27-14.05.56:267][348]LogSlate: Window 'Save Content' being destroyed
+[2018.09.27-14.05.56:458][348]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Mutant_SwipingD50632CC4800647B8FCCD8BD7C18FB71.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Anim/Mutant_Swiping.uasset'
+[2018.09.27-14.06.00:320][348]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital260DB6014E63A52B14310B8FA3FF6EAA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.27-14.06.00:487][348]LogFileHelpers: Saving map 'Hospital' took 3.947
+[2018.09.27-14.43.22:965][454]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2018.09.27-14.43.27:059][454]Job has failed! Job is closed while Tasks are still PENDING
+[2018.09.27-14.43.27:176][454]DumpUnbuiltLightIteractions
+[2018.09.27-14.43.27:176][454]Lights with unbuilt interactions: 1
+[2018.09.27-14.43.27:176][454]    Light PointLight_1
+[2018.09.27-14.43.27:176][454]
+[2018.09.27-14.43.27:176][454]Primitives with unbuilt interactions: 981
+[2018.09.27-14.43.27:177][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile2_5.Sm_Item
+[2018.09.27-14.43.27:177][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile_2.Sm_Item
+[2018.09.27-14.43.27:177][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile4_7.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile5_10.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile6_13.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile7_16.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile8_11.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bp_Pile9_14.Sm_Item
+[2018.09.27-14.43.27:192][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Tableau_Cube_65.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Tableau_2_Cube_62.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Tableau_2_Cube2.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_6.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_5.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_4.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_3.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_2.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Table_Cube_001_21.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_75.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Poubelle_41.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Poubelle2.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon_71.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon9_260.StaticMeshComponent0
+[2018.09.27-14.43.27:193][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon8_257.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon7_254.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon6_181.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon4_89.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon3.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon2_134.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon18_319.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon17.StaticMeshComponent0
+[2018.09.27-14.43.27:194][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon16.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon15.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon14_313.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon13.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon12.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon11_280.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon10.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut_9.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut9.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut8.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut7.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut6.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut5_24.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut4_21.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut3_18.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut2_12.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut17.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut16.StaticMeshComponent0
+[2018.09.27-14.43.27:195][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut15.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut14.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut13.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut12.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut11.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Fut10.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Chaudieres_3.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Chaudieres2_6.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse_33.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse6.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse5.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse4.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse3.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Caisse2.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed_54.StaticMeshComponent0
+[2018.09.27-14.43.27:204][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed8.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed7.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed6.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed5.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed4.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed3.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bed2.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind158.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind157.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind156.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind155.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind154.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind153.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind152.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind151.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind150.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind149.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind148.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind147.StaticMeshComponent0
+[2018.09.27-14.43.27:205][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind146.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind145.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind144.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind143.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind142.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire21.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire19.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind141.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind140.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind139.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind138.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind137.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind136.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind135.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind134.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind133.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind132.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind131.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind130.StaticMeshComponent0
+[2018.09.27-14.43.27:206][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind129.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind128.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind127.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind126.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind125.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind124.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind123.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind122.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind121.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind120.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind119.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind118_20.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind117_17.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind116.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind115_13.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre5_308.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors3_304.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire18_301.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind114_298.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind113_295.StaticMeshComponent0
+[2018.09.27-14.43.27:207][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind112_292.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind111_289.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind110_286.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind109_283.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind108_280.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind107_277.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.bordel15_274.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel14_271.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.bordel13_268.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio25_265.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel12.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.bordel03_261.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.bordel02_258.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel11_255.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel10_252.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio24_248.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio23_245.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind106.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind105.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind104.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind103.StaticMeshComponent0
+[2018.09.27-14.43.27:208][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind102.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind101.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind100.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind99_235.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind98_232.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind97_229.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book101_226.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book100_223.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind96_220.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind95_217.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind94_214.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind93_211.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind92_208.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book67_205.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind91_202.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind90_199.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind89_196.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind88_193.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind87_190.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind86_187.StaticMeshComponent0
+[2018.09.27-14.43.27:209][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind85.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind84.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind83.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel9.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel8.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind82_179.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind81_176.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind80_173.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel7.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel6_169.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall212.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall211_165.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle10_163.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube42.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall210.StaticMeshComponent0
+[2018.09.27-14.43.27:210][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall209_158.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor232.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor231.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall208_154.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle9_152.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube41.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall205_146.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall200_143.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall202_141.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor230.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor229.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle13.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall204_137.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor228.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor227.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall201_132.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall199_131.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall207.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall206.StaticMeshComponent0
+[2018.09.27-14.43.27:211][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor226.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall203.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor225.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor224.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall198.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall143.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall197.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall196.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall195.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall194.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall193.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall142.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor223.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor222.StaticMeshComponent0
+[2018.09.27-14.43.27:212][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor221_101.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor220.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall141.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall138.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall192.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall135.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor219.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall191.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall190.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall189.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall184_92.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall132.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor218.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor217.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor216_84.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor199.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor198.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor197.StaticMeshComponent0
+[2018.09.27-14.43.27:213][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor196.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor195.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor194.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor146.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor145.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor141.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor140.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall130.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor139_69.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor138.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor133.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor130.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor120.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor113.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor112.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall95.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall94.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall93.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall92.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor111.StaticMeshComponent0
+[2018.09.27-14.43.27:214][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor110.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor109.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor108.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor107.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor106.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor52.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor50_47.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube31.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube30.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall188.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall186_41.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall90.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube29.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube7.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall187.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall185.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall89.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire17_28.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire16_25.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire15_22.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre9.StaticMeshComponent0
+[2018.09.27-14.43.27:215][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors8.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor51.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire14_16.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor49.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor48.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor47.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor46.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor35_8.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall88.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall87.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor104.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor94.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor93.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor92.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor91.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor45.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel4_416.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book23_409.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind79_406.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind78_403.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind77_400.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind76_395.StaticMeshComponent0
+[2018.09.27-14.43.27:216][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind75_392.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_60.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_59.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book99_384.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book98_381.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind74_378.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind73_375.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind72_372.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind71_369.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind70_366.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind69_363.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind68_360.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel5.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book97_353.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book96_350.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer13.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind67_343.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind66_340.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind65_334.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind64_331.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind63_328.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind62_325.StaticMeshComponent0
+[2018.09.27-14.43.27:217][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind61_322.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book92_319.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind60_315.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind59_311.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel3_307.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel2_304.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Bordel_301.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio22.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio21.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio20.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer12.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer11.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer10.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer9.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer8.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio19.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio18.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio17.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio16.StaticMeshComponent0
+[2018.09.27-14.43.27:218][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio15.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio14.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio13.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio12.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio11.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio10.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book95.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book94.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book93.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind58.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire39.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book91_268.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book90_265.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book89_262.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind57.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind56.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book88.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book87.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind55.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind54_254.StaticMeshComponent0
+[2018.09.27-14.43.27:219][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind53_251.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind52_248.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind51_245.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book86_242.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book85_239.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind50.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind49_235.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book84_232.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book83_229.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind48.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind47.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind46_224.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind45_221.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book82_218.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book81_215.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book80_212.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind44_209.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book79_206.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind43_203.StaticMeshComponent0
+[2018.09.27-14.43.27:220][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book78_200.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio9.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio8.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio7.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind42_194.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind41_191.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind40_188.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind39_185.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book77_182.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book76_179.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book75_176.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book74_173.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind38.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind37.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book73_168.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind36.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind15.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind14_160.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book71_157.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind13_154.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind10_151.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio6.StaticMeshComponent0
+[2018.09.27-14.43.27:221][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio5.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio2.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio4.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book24_138.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio3_132.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio01_129.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio02_126.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Biblio03_123.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_58.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire37.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire36.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire35.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire32.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire31.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire28.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire27.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire25.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire24.StaticMeshComponent0
+[2018.09.27-14.43.27:222][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire23.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire20.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book72.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book70.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book69.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book68.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire13.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book66.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book65.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book64.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book63.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book62.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire12.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book61.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind35.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book42.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank13.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_57.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book22.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book21.StaticMeshComponent0
+[2018.09.27-14.43.27:223][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book10.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank6.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book20.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book18.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank5.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer7.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book41.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind34.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind33.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle8_46.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle7_43.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor215.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor214.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor213.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor212.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor211.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor210.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor209.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor208.StaticMeshComponent0
+[2018.09.27-14.43.27:224][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor207.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor206.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor205.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor204.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor203_30.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor202_29.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor201_24.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor200_22.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor137_20.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor136_18.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor135_16.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor134_14.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall183.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall182.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall41.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall181.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall180.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall179.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall139.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall40.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall65.StaticMeshComponent0
+[2018.09.27-14.43.27:225][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall136_98.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall133_97.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall128_96.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall126_88.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall124_87.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall122_86.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall119_85.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall39_84.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall46_83.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_76.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_75.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book60.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book59.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book58.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book57.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire11.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book29_67.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind32.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book27_65.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank12.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_56.StaticMeshComponent0
+[2018.09.27-14.43.27:226][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book40.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind31.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind30.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer6.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book31_56.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind22_55.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind21_54.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer4_53.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor193.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor192.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor191_52.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle6.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle5.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle4.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle3_44.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall118_41.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall17_39.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor190.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor189.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor188.StaticMeshComponent0
+[2018.09.27-14.43.27:227][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle2.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall2Mat_Angle_33.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall17.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall16.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall15_28.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall14.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall13.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall12.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall11.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall10.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall9.StaticMeshComponent0
+[2018.09.27-14.43.27:228][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall8.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall7.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall6.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall5.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall4.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Basic_Wall3_8.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire10_81.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire9_78.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire8.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire7_71.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire4.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire3_65.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book56.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book55.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book54.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book53.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book52.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book51.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book50.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire2.StaticMeshComponent0
+[2018.09.27-14.43.27:229][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book49_54.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book48_51.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book47_48.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book46_45.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book45_36.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book44_33.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book43_27.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Armoire_24.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors7.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre8.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer5.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book39.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind29.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind28.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book38.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind27.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind26.StaticMeshComponent0
+[2018.09.27-14.43.27:230][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind25.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind24.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book37.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book36.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book35.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind23.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book34.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book33.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_55.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_54.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank11.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank10.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book32.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book30.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind20.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind19.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind18.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind17.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book28.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind16.StaticMeshComponent0
+[2018.09.27-14.43.27:231][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book26.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book25.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_53.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_52.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank9.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank8.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall178.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall177.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall176.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall175.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor187.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor186.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor185.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor184.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor183.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall174_273.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall173_272.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall172_271.StaticMeshComponent0
+[2018.09.27-14.43.27:232][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall171_270.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube9.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind12_228.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind11_225.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book9_216.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind9_204.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_49.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_48.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_47.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_46.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Neon5_178.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_45.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_44.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_43.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_42.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_41.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_40.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_39.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_38.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_37.StaticMeshComponent0
+[2018.09.27-14.43.27:233][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_36.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_35.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_34.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_33.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_32.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_31.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_30.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_29.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_28.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_27.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_26.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_25.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_24.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall170.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall169.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall168.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall167.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall166.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall165.StaticMeshComponent0
+[2018.09.27-14.43.27:234][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall164.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_23.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_22.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_21.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_20.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_19.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_18.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_17.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_16.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_15.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_14.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_13.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_12.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_8.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor169_123.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor168_122.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor167_121.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor166_117.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor165_116.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor164_113.StaticMeshComponent0
+[2018.09.27-14.43.27:235][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall163.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall162.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall161.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall160.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall159.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall158.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall157.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall156.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall155.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall154.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall153.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall152.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall151.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall150.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall84_101.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall149.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall148.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall147.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall146.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall145.StaticMeshComponent0
+[2018.09.27-14.43.27:236][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall144.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor182.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor181.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor180.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor179.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall140.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall137.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall134.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor178.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor177.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube8.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall131.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall129.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor176.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor175.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor174.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube40.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor173.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors4.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre4.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall127.StaticMeshComponent0
+[2018.09.27-14.43.27:237][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall125.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor172.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor171.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor170.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Stair_UTypeStair2_28.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor163.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor162.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor161.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor160.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor159.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor158.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube4.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor157.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor156.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre3.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube39.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall123.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall121.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor155.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book16_131.StaticMeshComponent0
+[2018.09.27-14.43.27:238][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Magasine2_127.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book8_124.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book7_121.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank4.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book17.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book14.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank3.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book1_113.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book6_110.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book13_107.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book15_104.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank2.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book5_95.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book19_92.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book11.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Plank_87.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind8_81.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind7_78.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind5.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_11.StaticMeshComponent0
+[2018.09.27-14.43.27:239][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_10.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book3_59.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book12_56.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Book2_53.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind6_50.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind4.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer2.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Computer_38.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind3_35.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind2_32.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Bind1_29.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre2.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors2.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall120.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall117.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall116.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall115.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall114.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall113.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall112.StaticMeshComponent0
+[2018.09.27-14.43.27:240][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall111.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall110.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall109.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall108.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall96.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall16.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall15.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor154.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor153.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor152.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor151.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor150.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor149.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor148.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor147.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall107.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall106.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall105.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall104.StaticMeshComponent0
+[2018.09.27-14.43.27:241][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall103.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall102.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall101.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall100.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall99.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor144.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor143.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor142.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall98.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall97.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall28_369.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall91.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall86.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall85.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor131.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor129.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube38.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall63_343.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.Doors_339.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Cadre_336.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor128.StaticMeshComponent0
+[2018.09.27-14.43.27:242][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor127.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor126.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor125.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor124.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor123.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor122.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor121.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube37.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall83.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall82.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall81.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall80.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall79.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube28.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall78.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall77.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall76.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall75_325.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor119.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube11_302.StaticMeshComponent0
+[2018.09.27-14.43.27:243][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall74.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor118.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor117.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor116.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor115.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor114.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall73.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall72.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall71.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall70.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor103.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall69.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor102.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall68.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall66.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall37_268.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor101.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor100.StaticMeshComponent0
+[2018.09.27-14.43.27:244][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor99.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor98.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor97.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor96.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube10.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall64.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor95.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor90_242.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall62.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor89.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall61.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall60.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall59.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall58.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall57.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor88.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor87.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor86.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor85.StaticMeshComponent0
+[2018.09.27-14.43.27:245][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall56.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall55.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall53.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall52.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall51.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall49.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall48.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall47.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube27.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube26.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube25.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube15.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall45.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor84.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor83.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor82.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor81.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor80.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor79.StaticMeshComponent0
+[2018.09.27-14.43.27:246][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor78.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor77.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor76.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor75.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor74.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor73.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor72.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor71.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor70.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube24.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube23.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube22.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube14.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor69.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor68.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor67.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor66.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor65.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor64.StaticMeshComponent0
+[2018.09.27-14.43.27:247][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor63.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor62.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor61.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor60_192.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor59_191.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor58_190.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor57_189.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor56_188.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor55_187.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor54.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor53.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Metal2.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Metal_142.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Stair_UTypeStair001_128.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall38.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall36_123.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall35_121.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall23_120.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall34_115.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall33_114.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Stair_UTypeStair002_109.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor44.StaticMeshComponent0
+[2018.09.27-14.43.27:248][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor43.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor42.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube21.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube20.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube19.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube13_97.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube18.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube17.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube16.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube12.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor41.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall32.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor40.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall30.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor39.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor38.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor37.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor36.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor34.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor33.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor32.StaticMeshComponent0
+[2018.09.27-14.43.27:249][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall27.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall22.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall21.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall20.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall14.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube6.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor31.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor30.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor29.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor28.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor27.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor26.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor25.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor24.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor23.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor22.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor21.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor20.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor19.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor18.StaticMeshComponent0
+[2018.09.27-14.43.27:250][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor17.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor16.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor15.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor14.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube5.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor13.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor12.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor11.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall13.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall12.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall11.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall10.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall8.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_BasicWall7.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor10.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor9.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor8.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_9.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Radiateur_Cube_7.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor7.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor6.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube3.StaticMeshComponent0
+[2018.09.27-14.43.27:251][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_WallDoors_Cube2.StaticMeshComponent0
+[2018.09.27-14.43.27:252][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor5_4.StaticMeshComponent0
+[2018.09.27-14.43.27:252][454]    Primitive StaticMeshComponent /Game/Maps/Hospital.Hospital:PersistentLevel.SM_Floor4_20.StaticMeshComponent0
+[2018.09.27-14.43.28:420][455]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.27-14.43.28:421][455]MapCheck: New page: Hospital - 27 sept. 2018 18:43:28
+[2018.09.27-14.43.28:434][455]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.27-14.43.28:473][455]MapCheck: Warning: Bed_21 Static mesh actor has NULL StaticMesh property 
+[2018.09.27-14.43.28:473][455]MapCheck: Warning: Bed_21 Static mesh actor Bed_21 has NULL StaticMesh property 
+[2018.09.27-14.43.30:326][455]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 1 905,888ms to complete.
+[2018.09.27-14.43.59:458][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hospital' took 0.089
+[2018.09.27-14.43.59:805][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Hospital_BuiltData] ([1] browsable assets)...
+[2018.09.27-14.43.59:806][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Hospital_BuiltData]
+[2018.09.27-14.44.05:895][669]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital_BuiltData_Auto1227FA3CB4EB7A4929BFBDE822F1586CD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Autosaves/Game/Maps/Hospital_BuiltData_Auto1.uasset'
+[2018.09.27-14.44.05:897][669]LogFileHelpers: Auto-saving content packages took 6.381
