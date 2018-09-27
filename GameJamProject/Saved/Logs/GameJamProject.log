@@ -346,3 +346,15 @@ LogInit: Object subsystem initialized
 [2018.09.27-14.59.25:222][  2]LogAssetRegistry: Asset discovery search completed in 138.5550 seconds
 [2018.09.27-14.59.25:240][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.09.27-14.59.25:240][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.09.27-15.41.10:908][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-15.41.14:016][698]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant_C_0
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:0128
+[2018.09.27-15.41.14:163][701]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AI_Anim_Bp_C_0
+	Function /Game/AI/Monstre/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.27-15.41.15:880][826]LogSlate: Took 0.133781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.27-15.41.15:946][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/World/Blueprint/BPDoorMetallock.BPDoorMetallock
+[2018.09.27-15.41.18:465][826]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.27-15.41.22:287][826]LogSlate: Took 0.027760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.27-15.41.24:849][828]LogSlate: Took 0.127306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
