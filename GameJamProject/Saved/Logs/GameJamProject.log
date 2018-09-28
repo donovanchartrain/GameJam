@@ -755,3 +755,113 @@ LogInit: Object subsystem initialized
 [2018.09.28-22.43.40:200][742]LogSlate: Window 'Save Content' being destroyed
 [2018.09.28-22.43.40:312][742]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Bp_KeyDoorEntranceC93D876B432252CB295CF4A3653C0A33.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Blueprint/Bp_KeyDoorEntrance.uasset'
 [2018.09.28-22.43.46:834][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-22.44.59:486][131]LogAssetEditorManager: Opening Asset editor for Material /Game/AI/Monstre/Material/PackedMaterial0mat.PackedMaterial0mat
+[2018.09.28-22.44.59:884][131]LogMaterial: Display: Missing cached shader map for material PackedMaterial0mat, compiling. 
+[2018.09.28-22.45.00:640][131]LogMaterial: Display: Missing cached shader map for material PackedMaterial0mat, compiling. 
+[2018.09.28-22.45.00:827][131]LogMaterial: Display: Missing cached shader map for material PackedMaterial0mat, compiling. 
+[2018.09.28-22.45.00:876][131]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.28-22.45.00:876][131]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.28-22.45.00:876][131]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.28-22.45.01:920][131]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.28-22.45.01:942][131]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.28-22.45.01:997][131]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.28-22.45.02:360][131]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.28-22.45.02:722][131]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.28-22.45.02:733][131]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.28-22.45.02:733][131]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.28-22.45.03:195][131]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.28-22.45.03:404][131]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.28-22.45.03:492][131]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.28-22.45.04:248][131]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.28-22.45.04:248][131]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.28-22.45.04:248][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.28-22.45.04:280][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.28-22.45.04:591][131]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.28-22.45.04:591][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.28-22.45.04:622][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-22.45.04:683][131]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-22.45.12:876][131]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.45.12:894][131]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.45.13:070][131]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.45.13:071][131]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.45.14:089][151]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.45.14:128][152]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.45.14:128][152]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-22.45.14:794][166]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-22.45.15:359][180]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-22.45.15:394][181]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-22.45.16:097][196]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-22.45.16:141][197]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.45.16:577][205]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-22.45.17:267][215]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-22.45.17:339][217]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-22.45.17:395][218]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Texture samplers: 7/16
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.09.28-22.45.17:509][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-22.45.18:205][232]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-22.45.18:205][232]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-22.45.18:327][234]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-22.45.18:948][245]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-22.45.19:012][246]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-22.45.19:157][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-22.45.19:725][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-22.48.36:023][989]LogSlate: Window 'PackedMaterial0mat' being destroyed
+[2018.09.28-22.48.54:858][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-22.49.03:485][609]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AI/Monstre/Mesh/AI_Monster.AI_Monster
+[2018.09.28-22.49.03:625][609]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.28-22.49.03:876][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.28-22.49.04:014][609]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.09.28-22.49.04:662][609]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.28-22.49.06:096][609]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AI_Anim_Bp_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AI_Anim_Bp_C_0
+	Function /Game/AI/Monstre/Anim/AI_Anim_Bp.AI_Anim_Bp_C:ExecuteUbergraph_AI_Anim_Bp:012B
+[2018.09.28-22.49.06:668][609]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.09.28-22.49.11:681][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-22.49.13:579][826]LogSlate: Window 'AI_Monster' being destroyed
+[2018.09.28-22.49.22:442][259]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/AI/Mutant/Material/PackedMaterial0mat_Inst.PackedMaterial0mat_Inst
+[2018.09.28-22.49.37:957][727]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Donovan/Downloads/75826__analog-bleep-ten__metal-door.wav)
+[2018.09.28-22.49.42:879][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MEtalDoors" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Audio/MEtalDoors.uasset" SILENT=true
+[2018.09.28-22.49.42:895][  2]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/MEtalDoorsC3B525DC486E1AF8E27F169CB2E11B59.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Audio/MEtalDoors.uasset'
+[2018.09.28-22.49.46:267][165]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MEtalDoors...
+[2018.09.28-22.49.46:267][165]LogTemp: Couldn't find amount to resample to.
+[2018.09.28-22.49.46:473][165]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 110592 while cooking SoundWave /Game/Audio/MEtalDoors.MEtalDoors.
+[2018.09.28-22.50.15:906][793]BlueprintLog: New page: Compile BPDoorMetal
+[2018.09.28-22.50.17:242][837]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/BPDoorMetal6158C2ED44DEA6A5A1A97BBD3D0455CF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Blueprint/BPDoorMetal.uasset'
+[2018.09.28-22.50.18:197][894]BlueprintLog: New page: Compile BPDoorMetallock
+[2018.09.28-22.50.19:130][912]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/BPDoorMetallock72745F3245BE4752E4616DACD32A1371.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Blueprint/BPDoorMetallock.uasset'
+[2018.09.28-22.50.25:839][306]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
