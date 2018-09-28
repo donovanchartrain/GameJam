@@ -2249,3 +2249,601 @@ LogInit: Object subsystem initialized
 [2018.09.28-12.44.46:817][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_WoodFloor_N6D6747574EF7F0E187E76AAA96C63812.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_WoodFloor_N.uasset'
 [2018.09.28-12.44.47:015][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/test_grid_26706D42542824721F34EACAEB64EF8DF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/test_grid_2.uasset'
 [2018.09.28-12.44.47:201][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/test_grid_2_normalCA4285F34ED93B4BA2256C9EEADE9A68.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/test_grid_2_normal.uasset'
+[2018.09.28-12.46.35:025][308]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map_Demarage.Map_Demarage
+[2018.09.28-12.46.35:058][308]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.28-12.46.35:058][308]LightingResults: New page: Lighting Build
+[2018.09.28-12.46.35:060][308]LoadErrors: New page: Loading map: Map_Demarage.umap
+[2018.09.28-12.46.35:141][308]MapCheck: New page: Map Check
+[2018.09.28-12.46.35:141][308]LightingResults: New page: Lighting Build
+[2018.09.28-12.46.35:349][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.28-12.46.35:482][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.28-12.46.43:256][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7 774,351ms to complete.
+[2018.09.28-12.46.43:261][308]LogFileHelpers: Loading map 'Map_Demarage' took 8.204
+[2018.09.28-12.46.53:320][727]LogTemp: Repeating last play command: Standalone Game
+[2018.09.28-12.47.43:033][929]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.28-12.47.43:368][930]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.09.28-12.48.19:707][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.48.33:577][370]LogEditorViewport: Clicking Background
+[2018.09.28-12.48.39:752][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.48.42:537][846]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2018.09.28-12.48.42:569][846]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.09.28-12.48.46:931][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-12.48.51:437][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.49.11:301][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-12.49.27:313][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-12.49.30:841][290]LogRenderer: Reallocating scene render targets to support 1188x744 Format 10 NumSamples 1 (Frame:2899).
+[2018.09.28-12.49.30:841][290]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.28-12.49.38:531][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.50.01:689][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.50.02:222][179]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage065C35FB457F04131C6EEAB4CC085DFD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.28-12.50.02:538][179]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage_BuiltData891CBBA94CFC2F0319F4CC84DDABE360.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage_BuiltData.uasset'
+[2018.09.28-12.50.07:607][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.50.07:699][295]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.28-12.50.15:569][508]LogRenderer: Reallocating scene render targets to support 1188x744 Format 9 NumSamples 1 (Frame:3691).
+[2018.09.28-12.50.15:574][508]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.28-12.50.16:469][549]MapCheck: New page: Map Check
+[2018.09.28-12.50.16:574][549]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.28-12.50.16:575][549]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.28-12.50.16:943][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_10, compiling. 
+[2018.09.28-12.50.16:990][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-12.50.16:990][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal, compiling. 
+[2018.09.28-12.50.17:015][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Wall_2, compiling. 
+[2018.09.28-12.50.17:249][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-12.50.17:249][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-12.50.17:249][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalLamp, compiling. 
+[2018.09.28-12.50.17:331][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightEmis_Inst, compiling. 
+[2018.09.28-12.50.17:480][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_30, compiling. 
+[2018.09.28-12.50.17:489][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_24, compiling. 
+[2018.09.28-12.50.17:521][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_12, compiling. 
+[2018.09.28-12.50.17:531][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_13, compiling. 
+[2018.09.28-12.50.17:541][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radiateur, compiling. 
+[2018.09.28-12.50.17:569][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Blood_Inst, compiling. 
+[2018.09.28-12.50.17:943][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.28-12.50.17:977][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy UnrealIntroMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.17:989][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy StartMovieMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-12.50.20:383][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-12.50.20:383][549]TextureStreamingBuild: Display: Compiling optional shaders took 3.501 seconds.
+[2018.09.28-12.50.20:478][549]LogLevel: Display: Export Material TexCoord Scales took 0.094 seconds.
+[2018.09.28-12.50.20:530][549]TextureStreamingBuild: Display: Build Texture Streaming took 0.051 seconds.
+[2018.09.28-12.50.20:658][549]LightingResults: New page: Lighting Build - 28 sept. 2018 16:50:20
+[2018.09.28-12.50.21:567][549]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.28-12.50.22:441][549]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.28-12.50.23:365][549]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.28-12.50.26:356][549]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.28-12.50.26:356][549]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7824
+[2018.09.28-12.50.43:968][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.28-12.50.43:968][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.28-12.50.43:968][549]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.28-12.50.43:968][549]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.28-12.50.43:968][549]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.28-12.50.45:169][549]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.28-12.50.45:169][549]MapCheck: New page: Map_Demarage - 28 sept. 2018 16:50:45
+[2018.09.28-12.50.45:177][549]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.28-12.50.45:572][549]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 402,321ms to complete.
+[2018.09.28-12.50.45:595][549]LogEditorBuildUtils: Build time 0:29
+[2018.09.28-12.50.46:582][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer UnrealIntroMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.46:695][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-12.50.46:695][558]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer UnrealIntroMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.46:707][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-12.50.46:736][559]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StartMovieMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.46:825][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-12.50.46:825][559]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StartMovieMediaPlayer_Video_Mat, compiling. 
+[2018.09.28-12.50.48:905][561]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-12.51.13:964][638]Job is a success!
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.046s
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2018.09.28-12.51.14:574][639]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2018.09.28-12.51.15:131][639]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.09.28-12.51.15:131][639]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.09.28-12.51.15:304][639]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2018.09.28-12.51.21:974][639]Lightmass on PC_DONO: 20.5 sec total, 1.06 sec importing, 48 ms setup, 937 ms photons, 18.4 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 1:13 min total, 41.6 sec processing.
+[2018.09.28-12.51.22:074][639]LogStaticLightingSystem: Illumination: 1:01 min (490 ms encoding lightmaps, 171 ms encoding shadowmaps)
+[2018.09.28-12.51.22:074][639]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.28-12.51.22:074][639]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.09.28-12.51.22:981][639]DumpUnbuiltLightIteractions
+[2018.09.28-12.51.22:981][639]Lights with unbuilt interactions: 0
+[2018.09.28-12.51.22:981][639]
+[2018.09.28-12.51.22:981][639]Primitives with unbuilt interactions: 0
+[2018.09.28-12.51.23:204][640]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.28-12.51.23:204][640]MapCheck: New page: Map_Demarage - 28 sept. 2018 16:51:23
+[2018.09.28-12.51.23:541][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 336,488ms to complete.
+[2018.09.28-12.51.31:347][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.51.32:864][892]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.51.33:593][892]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage24ECBD6448A30340CF6ECBAC63A10E97.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.28-12.51.33:693][892]LogFileHelpers: Saving map 'Map_Demarage' took 0.802
+[2018.09.28-12.51.33:869][892]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage_BuiltDataBE9CBD2C4052049375F47093E39DC642.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage_BuiltData.uasset'
+[2018.09.28-12.51.38:642][ 86]LogRenderer: Reallocating scene render targets to support 1188x744 Format 10 NumSamples 1 (Frame:3871).
+[2018.09.28-12.51.38:840][ 89]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.28-12.51.41:619][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.52.00:042][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.52.00:478][967]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageAB80C7E94247AF5A91241B8EFCD4DFEB.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.28-12.52.00:797][967]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage_BuiltDataC09921CE4D491C7F6F18538B3FA6D3D1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage_BuiltData.uasset'
+[2018.09.28-12.52.02:852][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.28-12.52.02:862][ 60]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.28-12.52.03:126][ 60]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2018.09.28-12.52.03:586][ 60]LogPlayLevel: [PlayLevel] Compiling BP_Doors before play...
+[2018.09.28-12.52.03:600][ 60]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_122 has an invalid curve.  Please fix!
+[2018.09.28-12.52.03:793][ 60]LogPlayLevel: PlayLevel: Blueprint regeneration took 931 ms (2 blueprints)
+[2018.09.28-12.52.03:873][ 60]PIE: New page: PIE session: Map_Demarage (28 sept. 2018 16:52:03)
+[2018.09.28-12.52.03:873][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.28-12.52.03:947][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073899s)
+[2018.09.28-12.52.03:948][ 60]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.28-12.52.03:949][ 60]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2018.09.28-12.52.03:949][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.076092s)
+[2018.09.28-12.52.03:987][ 60]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.28-12.52.04:009][ 60]LogInit: FAudioDevice initialized.
+[2018.09.28-12.52.04:034][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.52.04:088][ 60]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.28-12.52.04:095][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.28-14.52.04
+[2018.09.28-12.52.04:129][ 60]LogWorld: Bringing up level for play took: 0.038944
+[2018.09.28-12.52.04:155][ 60]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 10 classes and 0 folders.
+[2018.09.28-12.52.04:156][ 60]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.28-12.52.04:156][ 60]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.28-12.52.04:156][ 60]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.28-12.52.04:181][ 60]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.28-12.52.04:188][ 60]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 2,031
+[2018.09.28-12.52.04:188][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.28-12.52.04:204][ 60]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.28-12.52.15:875][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.53.11:283][689]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.09.28-12.53.11:283][689]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.09.28-12.53.11:284][689]LogNet: Browse: /Game/Maps/Hospital
+[2018.09.28-12.53.11:300][689]LogLoad: LoadMap: /Game/Maps/Hospital
+[2018.09.28-12.53.11:666][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.11:667][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.11:667][689]LoadErrors: Error: /Game/Assets/Blueprint/BPDoorMetal : Can't find file for asset. /Game/World/MetalDoors/MPC_DoorLock
+[2018.09.28-12.53.11:669][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.11:669][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.11:669][689]LoadErrors: Error: /Game/Assets/Blueprint/BPDoorMetal : Can't find file for asset. /Game/World/MetalDoors/Metal_Doors
+[2018.09.28-12.53.11:669][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.11:669][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.11:671][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.11:671][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.11:678][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.11:679][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.11:679][689]LoadErrors: Error: /Game/Assets/Blueprint/BPDoorMetallock : Can't find file for asset. /Game/World/MetalDoors/MPC_DoorLock
+[2018.09.28-12.53.11:681][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.11:681][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.11:681][689]LoadErrors: Error: /Game/Assets/Blueprint/BPDoorMetallock : Can't find file for asset. /Game/World/MetalDoors/Metal_Doors
+[2018.09.28-12.53.11:681][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.11:681][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.11:683][689]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.11:683][689]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.11:737][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction2'
+[2018.09.28-12.53.11:738][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.11:738][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Exit : Can't find file for asset. /Game/World/Light/M_LightFunction2
+[2018.09.28-12.53.11:738][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction2'
+[2018.09.28-12.53.11:738][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.11:739][689]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Exit'
+[2018.09.28-12.53.11:739][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Exit' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.11:739][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Exit : Can't find file for asset. /Game/World/Light/SM_Exit
+[2018.09.28-12.53.11:739][689]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Exit'
+[2018.09.28-12.53.11:740][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Exit' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.11:745][689]LogLinker: Warning: Can't find file '/Game/World/Mesh/Trousseau_de_clef_Anneau1'
+[2018.09.28-12.53.11:745][689]LogLinker: Warning: Can't find file for asset '/Game/World/Mesh/Trousseau_de_clef_Anneau1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/Bp_Key.uasset.
+[2018.09.28-12.53.11:745][689]LoadErrors: Error: /Game/Assets/Blueprint/Bp_Key : Can't find file for asset. /Game/World/Mesh/Trousseau_de_clef_Anneau1
+[2018.09.28-12.53.11:746][689]LogLinker: Warning: Can't find file '/Game/World/Mesh/Trousseau_de_clef_Anneau1'
+[2018.09.28-12.53.11:746][689]LogLinker: Warning: Can't find file for asset '/Game/World/Mesh/Trousseau_de_clef_Anneau1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/Bp_Key.uasset.
+[2018.09.28-12.53.11:751][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction'
+[2018.09.28-12.53.11:751][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:751][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Light : Can't find file for asset. /Game/World/Light/M_LightFunction
+[2018.09.28-12.53.11:751][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightEmis_Inst'
+[2018.09.28-12.53.11:751][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightEmis_Inst' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:751][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Light : Can't find file for asset. /Game/World/Light/M_LightEmis_Inst
+[2018.09.28-12.53.11:752][689]LogLinker: Warning: Can't find file '/Game/World/Light/MPC_EmisiveLight'
+[2018.09.28-12.53.11:752][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/MPC_EmisiveLight' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:752][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Light : Can't find file for asset. /Game/World/Light/MPC_EmisiveLight
+[2018.09.28-12.53.11:753][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightEmis_Inst'
+[2018.09.28-12.53.11:753][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightEmis_Inst' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:753][689]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction'
+[2018.09.28-12.53.11:753][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:754][689]LogLinker: Warning: Can't find file '/Game/World/Light/MPC_EmisiveLight'
+[2018.09.28-12.53.11:754][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/MPC_EmisiveLight' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:754][689]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Neon'
+[2018.09.28-12.53.11:754][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Neon' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.11:754][689]LoadErrors: Error: /Game/Assets/Blueprint/BP_Light : Can't find file for asset. /Game/World/Light/SM_Neon
+[2018.09.28-12.53.11:755][689]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Neon'
+[2018.09.28-12.53.11:755][689]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Neon' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.16:712][689]LogAIModule: Creating AISystem for world Hospital
+[2018.09.28-12.53.16:713][689]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.28-12.53.16:852][689]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.28-14.53.16
+[2018.09.28-12.53.16:993][689]LogWorld: Bringing up level for play took: 0.278704
+[2018.09.28-12.53.17:124][689]LogLoad: Took 5.823447 seconds to LoadMap(/Game/Maps/Hospital)
+[2018.09.28-12.53.19:065][742]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:095][743]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:112][744]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:139][745]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:166][746]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:191][747]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:221][748]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:242][749]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:268][750]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:295][751]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:327][752]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:348][753]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:373][754]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:421][755]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:449][756]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:478][757]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:507][758]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:535][759]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:559][760]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:587][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:615][762]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:640][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:667][764]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:694][765]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:721][766]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:748][767]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:775][768]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:802][769]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:830][770]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:856][771]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:883][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.19:910][773]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.28-12.53.20:125][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.28-12.53.20:160][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.53.20:219][781]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.28-12.53.20:293][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.28-12.53.20:293][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.28-12.53.20:399][781]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane_2.MediaSound.AudioComponent_4) Not currently registered. Aborting.
+[2018.09.28-12.53.20:399][781]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane2_5.MediaSound.AudioComponent_4) Not currently registered. Aborting.
+[2018.09.28-12.53.20:461][782]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.28-12.53.24:972][913]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:4234).
+[2018.09.28-12.53.24:980][913]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.28-12.53.29:303][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.29:303][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.29:309][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.29:309][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.29:310][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.29:310][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.29:313][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.29:313][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetal.uasset.
+[2018.09.28-12.53.29:320][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.29:321][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.29:322][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.29:323][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.29:323][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/MPC_DoorLock'
+[2018.09.28-12.53.29:323][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/MPC_DoorLock' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.29:324][149]LogLinker: Warning: Can't find file '/Game/World/MetalDoors/Metal_Doors'
+[2018.09.28-12.53.29:325][149]LogLinker: Warning: Can't find file for asset '/Game/World/MetalDoors/Metal_Doors' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BPDoorMetallock.uasset.
+[2018.09.28-12.53.29:470][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:470][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Doors.uasset.
+[2018.09.28-12.53.29:470][149]LoadErrors: Error: /Game/Assets/Architecture/Doors : Can't find file for asset. /Game/World/Material/M_Mat_10
+[2018.09.28-12.53.29:471][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:471][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Doors.uasset.
+[2018.09.28-12.53.29:473][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:473][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Cadre.uasset.
+[2018.09.28-12.53.29:473][149]LoadErrors: Error: /Game/Assets/Architecture/SM_Cadre : Can't find file for asset. /Game/World/Material/M_Mat_10
+[2018.09.28-12.53.29:474][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:474][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Cadre.uasset.
+[2018.09.28-12.53.29:482][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction2'
+[2018.09.28-12.53.29:483][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.29:483][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction2'
+[2018.09.28-12.53.29:483][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.29:484][149]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Exit'
+[2018.09.28-12.53.29:484][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Exit' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.29:484][149]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Exit'
+[2018.09.28-12.53.29:485][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Exit' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Exit.uasset.
+[2018.09.28-12.53.29:490][149]LogLinker: Warning: Can't find file '/Game/World/Mesh/Trousseau_de_clef_Anneau1'
+[2018.09.28-12.53.29:490][149]LogLinker: Warning: Can't find file for asset '/Game/World/Mesh/Trousseau_de_clef_Anneau1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/Bp_Key.uasset.
+[2018.09.28-12.53.29:491][149]LogLinker: Warning: Can't find file '/Game/World/Mesh/Trousseau_de_clef_Anneau1'
+[2018.09.28-12.53.29:491][149]LogLinker: Warning: Can't find file for asset '/Game/World/Mesh/Trousseau_de_clef_Anneau1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/Bp_Key.uasset.
+[2018.09.28-12.53.29:495][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction'
+[2018.09.28-12.53.29:495][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:496][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightEmis_Inst'
+[2018.09.28-12.53.29:496][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightEmis_Inst' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:496][149]LogLinker: Warning: Can't find file '/Game/World/Light/MPC_EmisiveLight'
+[2018.09.28-12.53.29:496][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/MPC_EmisiveLight' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:497][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightEmis_Inst'
+[2018.09.28-12.53.29:497][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightEmis_Inst' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:497][149]LogLinker: Warning: Can't find file '/Game/World/Light/M_LightFunction'
+[2018.09.28-12.53.29:497][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/M_LightFunction' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:498][149]LogLinker: Warning: Can't find file '/Game/World/Light/MPC_EmisiveLight'
+[2018.09.28-12.53.29:498][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/MPC_EmisiveLight' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:498][149]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Neon'
+[2018.09.28-12.53.29:498][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Neon' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:499][149]LogLinker: Warning: Can't find file '/Game/World/Light/SM_Neon'
+[2018.09.28-12.53.29:499][149]LogLinker: Warning: Can't find file for asset '/Game/World/Light/SM_Neon' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Blueprint/BP_Light.uasset.
+[2018.09.28-12.53.29:581][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_pages02'
+[2018.09.28-12.53.29:582][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_pages02' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_10.uasset.
+[2018.09.28-12.53.29:582][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_10 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_pages02
+[2018.09.28-12.53.29:582][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_pages02'
+[2018.09.28-12.53.29:582][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_pages02' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_10.uasset.
+[2018.09.28-12.53.29:596][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:596][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall2Mat_Angle.uasset.
+[2018.09.28-12.53.29:596][149]LoadErrors: Error: /Game/Assets/Architecture/Basic_Wall2Mat_Angle : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall1
+[2018.09.28-12.53.29:596][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:597][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall2Mat_Angle.uasset.
+[2018.09.28-12.53.29:597][149]LoadErrors: Error: /Game/Assets/Architecture/Basic_Wall2Mat_Angle : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall_2
+[2018.09.28-12.53.29:597][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:597][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall2Mat_Angle.uasset.
+[2018.09.28-12.53.29:598][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:598][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall2Mat_Angle.uasset.
+[2018.09.28-12.53.29:600][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:600][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall3.uasset.
+[2018.09.28-12.53.29:600][149]LoadErrors: Error: /Game/Assets/Architecture/Basic_Wall3 : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall_2
+[2018.09.28-12.53.29:600][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:601][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/Basic_Wall3.uasset.
+[2018.09.28-12.53.29:603][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:603][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_BasicWall.uasset.
+[2018.09.28-12.53.29:603][149]LoadErrors: Error: /Game/Assets/Architecture/SM_BasicWall : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall1
+[2018.09.28-12.53.29:604][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:604][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_BasicWall.uasset.
+[2018.09.28-12.53.29:604][149]LoadErrors: Error: /Game/Assets/Architecture/SM_BasicWall : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall_2
+[2018.09.28-12.53.29:604][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:604][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_BasicWall.uasset.
+[2018.09.28-12.53.29:605][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:605][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_BasicWall.uasset.
+[2018.09.28-12.53.29:607][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Floor'
+[2018.09.28-12.53.29:607][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Floor' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Floor4.uasset.
+[2018.09.28-12.53.29:608][149]LoadErrors: Error: /Game/Assets/Architecture/SM_Floor4 : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Floor
+[2018.09.28-12.53.29:608][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Floor'
+[2018.09.28-12.53.29:608][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Floor' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Floor4.uasset.
+[2018.09.28-12.53.29:612][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:612][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Plank.uasset.
+[2018.09.28-12.53.29:612][149]LoadErrors: Error: /Game/Assets/Architecture/SM_Plank : Can't find file for asset. /Game/World/Material/M_Mat_10
+[2018.09.28-12.53.29:613][149]LogLinker: Warning: Can't find file '/Game/World/Material/M_Mat_10'
+[2018.09.28-12.53.29:613][149]LogLinker: Warning: Can't find file for asset '/Game/World/Material/M_Mat_10' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_Plank.uasset.
+[2018.09.28-12.53.29:628][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:628][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_WallDoors_Cube.uasset.
+[2018.09.28-12.53.29:628][149]LoadErrors: Error: /Game/Assets/Architecture/SM_WallDoors_Cube : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall1
+[2018.09.28-12.53.29:629][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:629][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_WallDoors_Cube.uasset.
+[2018.09.28-12.53.29:629][149]LoadErrors: Error: /Game/Assets/Architecture/SM_WallDoors_Cube : Can't find file for asset. /Game/World/MaterialAlign/Instance/MI_Wall_2
+[2018.09.28-12.53.29:629][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall1'
+[2018.09.28-12.53.29:629][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall1' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_WallDoors_Cube.uasset.
+[2018.09.28-12.53.29:630][149]LogLinker: Warning: Can't find file '/Game/World/MaterialAlign/Instance/MI_Wall_2'
+[2018.09.28-12.53.29:630][149]LogLinker: Warning: Can't find file for asset '/Game/World/MaterialAlign/Instance/MI_Wall_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Architecture/SM_WallDoors_Cube.uasset.
+[2018.09.28-12.53.29:705][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_002'
+[2018.09.28-12.53.29:706][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_002' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_24.uasset.
+[2018.09.28-12.53.29:706][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_24 : Can't find file for asset. /Game/World/Texture/AIUE_V01_004_library_color_002
+[2018.09.28-12.53.29:706][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_002'
+[2018.09.28-12.53.29:706][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_002' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_24.uasset.
+[2018.09.28-12.53.29:717][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_004'
+[2018.09.28-12.53.29:717][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_004' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_25.uasset.
+[2018.09.28-12.53.29:717][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_25 : Can't find file for asset. /Game/World/Texture/AIUE_V01_004_library_color_004
+[2018.09.28-12.53.29:717][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_004'
+[2018.09.28-12.53.29:718][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_004' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_25.uasset.
+[2018.09.28-12.53.29:719][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_3'
+[2018.09.28-12.53.29:720][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_3' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_4.uasset.
+[2018.09.28-12.53.29:720][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_4 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book_3
+[2018.09.28-12.53.29:720][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_3'
+[2018.09.28-12.53.29:720][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_3' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_4.uasset.
+[2018.09.28-12.53.29:722][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_5'
+[2018.09.28-12.53.29:722][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_5' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_8.uasset.
+[2018.09.28-12.53.29:722][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_8 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book_5
+[2018.09.28-12.53.29:723][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_5'
+[2018.09.28-12.53.29:723][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_5' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_8.uasset.
+[2018.09.28-12.53.29:725][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_4'
+[2018.09.28-12.53.29:725][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_4' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_9.uasset.
+[2018.09.28-12.53.29:725][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_9 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book_4
+[2018.09.28-12.53.29:725][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book_4'
+[2018.09.28-12.53.29:726][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book_4' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_9.uasset.
+[2018.09.28-12.53.29:786][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_003'
+[2018.09.28-12.53.29:787][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_003' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_27.uasset.
+[2018.09.28-12.53.29:787][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_27 : Can't find file for asset. /Game/World/Texture/AIUE_V01_004_library_color_003
+[2018.09.28-12.53.29:787][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_003'
+[2018.09.28-12.53.29:787][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_003' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_27.uasset.
+[2018.09.28-12.53.29:845][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_001_diffuse'
+[2018.09.28-12.53.29:845][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_001_diffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_3.uasset.
+[2018.09.28-12.53.29:846][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_3 : Can't find file for asset. /Game/World/Texture/AIUE_V01_001_diffuse
+[2018.09.28-12.53.29:846][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_001_diffuse'
+[2018.09.28-12.53.29:846][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_001_diffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_3.uasset.
+[2018.09.28-12.53.29:854][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders1DiffuseMap'
+[2018.09.28-12.53.29:854][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders1DiffuseMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_11.uasset.
+[2018.09.28-12.53.29:855][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_11 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_binders1DiffuseMap
+[2018.09.28-12.53.29:855][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders1NormalsMap'
+[2018.09.28-12.53.29:855][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders1NormalsMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_11.uasset.
+[2018.09.28-12.53.29:855][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_11 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_binders1NormalsMap
+[2018.09.28-12.53.29:855][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders1DiffuseMap'
+[2018.09.28-12.53.29:856][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders1DiffuseMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_11.uasset.
+[2018.09.28-12.53.29:856][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders1NormalsMap'
+[2018.09.28-12.53.29:856][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders1NormalsMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_11.uasset.
+[2018.09.28-12.53.29:858][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders2DiffuseMap'
+[2018.09.28-12.53.29:858][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders2DiffuseMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_12.uasset.
+[2018.09.28-12.53.29:858][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_12 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_binders2DiffuseMap
+[2018.09.28-12.53.29:859][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders2NormalsMap'
+[2018.09.28-12.53.29:859][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders2NormalsMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_12.uasset.
+[2018.09.28-12.53.29:859][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_12 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_binders2NormalsMap
+[2018.09.28-12.53.29:859][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders2DiffuseMap'
+[2018.09.28-12.53.29:860][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders2DiffuseMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_12.uasset.
+[2018.09.28-12.53.29:860][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_binders2NormalsMap'
+[2018.09.28-12.53.29:860][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_binders2NormalsMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_12.uasset.
+[2018.09.28-12.53.29:862][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_Binders3_Color'
+[2018.09.28-12.53.29:862][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_Binders3_Color' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_13.uasset.
+[2018.09.28-12.53.29:862][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_13 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_Binders3_Color
+[2018.09.28-12.53.29:863][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_Binders3_NM'
+[2018.09.28-12.53.29:863][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_Binders3_NM' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_13.uasset.
+[2018.09.28-12.53.29:863][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_13 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_Binders3_NM
+[2018.09.28-12.53.29:863][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_Binders3_Color'
+[2018.09.28-12.53.29:864][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_Binders3_Color' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_13.uasset.
+[2018.09.28-12.53.29:864][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_Binders3_NM'
+[2018.09.28-12.53.29:864][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_Binders3_NM' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_13.uasset.
+[2018.09.28-12.53.29:932][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_001'
+[2018.09.28-12.53.29:932][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_001' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_26.uasset.
+[2018.09.28-12.53.29:932][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_26 : Can't find file for asset. /Game/World/Texture/AIUE_V01_004_library_color_001
+[2018.09.28-12.53.29:933][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_004_library_color_001'
+[2018.09.28-12.53.29:933][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_004_library_color_001' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_26.uasset.
+[2018.09.28-12.53.29:948][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_001_books_001_diffuse'
+[2018.09.28-12.53.29:948][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_001_books_001_diffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_2.uasset.
+[2018.09.28-12.53.29:948][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_2 : Can't find file for asset. /Game/World/Texture/AIUE_V01_001_books_001_diffuse
+[2018.09.28-12.53.29:949][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_001_books_001_diffuse'
+[2018.09.28-12.53.29:949][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_001_books_001_diffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_2.uasset.
+[2018.09.28-12.53.29:957][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book05'
+[2018.09.28-12.53.29:957][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book05' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_6.uasset.
+[2018.09.28-12.53.29:957][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_6 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book05
+[2018.09.28-12.53.29:957][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_dirt'
+[2018.09.28-12.53.29:957][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_dirt' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_6.uasset.
+[2018.09.28-12.53.29:958][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_6 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_dirt
+[2018.09.28-12.53.29:958][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book05'
+[2018.09.28-12.53.29:958][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book05' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_6.uasset.
+[2018.09.28-12.53.29:958][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_dirt'
+[2018.09.28-12.53.29:959][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_dirt' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_6.uasset.
+[2018.09.28-12.53.29:961][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book06'
+[2018.09.28-12.53.29:961][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book06' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:961][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_7 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book06
+[2018.09.28-12.53.29:961][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book06_NM'
+[2018.09.28-12.53.29:962][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book06_NM' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:962][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_7 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book06_NM
+[2018.09.28-12.53.29:962][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_dirt'
+[2018.09.28-12.53.29:962][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_dirt' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:962][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_7 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_dirt
+[2018.09.28-12.53.29:963][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book06'
+[2018.09.28-12.53.29:963][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book06' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:963][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book06_NM'
+[2018.09.28-12.53.29:964][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book06_NM' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:964][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_dirt'
+[2018.09.28-12.53.29:964][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_dirt' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_7.uasset.
+[2018.09.28-12.53.29:969][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book08'
+[2018.09.28-12.53.29:970][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book08' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_5.uasset.
+[2018.09.28-12.53.29:970][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_5 : Can't find file for asset. /Game/World/Texture/AIUE_V01_002_book08
+[2018.09.28-12.53.29:970][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_002_book08'
+[2018.09.28-12.53.29:970][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_002_book08' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_5.uasset.
+[2018.09.28-12.53.29:981][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_AM78_022_color_decals'
+[2018.09.28-12.53.29:981][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_AM78_022_color_decals' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_14.uasset.
+[2018.09.28-12.53.29:981][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_14 : Can't find file for asset. /Game/World/Texture/AIUE_V01_003_AM78_022_color_decals
+[2018.09.28-12.53.29:982][149]LogLinker: Warning: Can't find file '/Game/World/Texture/AIUE_V01_003_AM78_022_color_decals'
+[2018.09.28-12.53.29:982][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/AIUE_V01_003_AM78_022_color_decals' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_14.uasset.
+[2018.09.28-12.53.29:984][149]LogLinker: Warning: Can't find file '/Game/World/Texture/LSI_Texture'
+[2018.09.28-12.53.29:984][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/LSI_Texture' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_15.uasset.
+[2018.09.28-12.53.29:984][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_15 : Can't find file for asset. /Game/World/Texture/LSI_Texture
+[2018.09.28-12.53.29:985][149]LogLinker: Warning: Can't find file '/Game/World/Texture/LSI_Texture'
+[2018.09.28-12.53.29:985][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/LSI_Texture' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_15.uasset.
+[2018.09.28-12.53.30:011][149]LogLinker: Warning: Can't find file '/Game/World/Texture/test_grid_2'
+[2018.09.28-12.53.30:011][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/test_grid_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_31.uasset.
+[2018.09.28-12.53.30:011][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_31 : Can't find file for asset. /Game/World/Texture/test_grid_2
+[2018.09.28-12.53.30:011][149]LogLinker: Warning: Can't find file '/Game/World/Texture/test_grid_2_normal'
+[2018.09.28-12.53.30:011][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/test_grid_2_normal' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_31.uasset.
+[2018.09.28-12.53.30:012][149]LoadErrors: Error: /Game/Assets/Material/M_Mat_31 : Can't find file for asset. /Game/World/Texture/test_grid_2_normal
+[2018.09.28-12.53.30:012][149]LogLinker: Warning: Can't find file '/Game/World/Texture/test_grid_2'
+[2018.09.28-12.53.30:012][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/test_grid_2' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_31.uasset.
+[2018.09.28-12.53.30:013][149]LogLinker: Warning: Can't find file '/Game/World/Texture/test_grid_2_normal'
+[2018.09.28-12.53.30:013][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/test_grid_2_normal' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/M_Mat_31.uasset.
+[2018.09.28-12.53.30:013][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_004'
+[2018.09.28-12.53.30:014][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_004' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_10.uasset.
+[2018.09.28-12.53.30:014][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_10 : Can't find file for asset. /Game/World/Texture/prop_magazine_004
+[2018.09.28-12.53.30:014][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_004'
+[2018.09.28-12.53.30:014][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_004' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_10.uasset.
+[2018.09.28-12.53.30:017][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_005'
+[2018.09.28-12.53.30:017][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_005' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_11.uasset.
+[2018.09.28-12.53.30:017][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_11 : Can't find file for asset. /Game/World/Texture/prop_magazine_005
+[2018.09.28-12.53.30:018][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_005'
+[2018.09.28-12.53.30:018][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_005' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_11.uasset.
+[2018.09.28-12.53.30:020][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_006'
+[2018.09.28-12.53.30:020][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_006' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_12.uasset.
+[2018.09.28-12.53.30:021][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_12 : Can't find file for asset. /Game/World/Texture/prop_magazine_006
+[2018.09.28-12.53.30:021][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_006'
+[2018.09.28-12.53.30:021][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_006' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_12.uasset.
+[2018.09.28-12.53.30:024][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_008'
+[2018.09.28-12.53.30:024][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_008' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_13.uasset.
+[2018.09.28-12.53.30:024][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_13 : Can't find file for asset. /Game/World/Texture/prop_magazine_008
+[2018.09.28-12.53.30:024][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_008'
+[2018.09.28-12.53.30:025][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_008' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_13.uasset.
+[2018.09.28-12.53.30:027][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_007'
+[2018.09.28-12.53.30:027][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_007' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_14.uasset.
+[2018.09.28-12.53.30:027][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_14 : Can't find file for asset. /Game/World/Texture/prop_magazine_007
+[2018.09.28-12.53.30:028][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_007'
+[2018.09.28-12.53.30:028][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_007' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_14.uasset.
+[2018.09.28-12.53.30:030][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_001'
+[2018.09.28-12.53.30:031][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_001' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_7.uasset.
+[2018.09.28-12.53.30:031][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_7 : Can't find file for asset. /Game/World/Texture/prop_magazine_001
+[2018.09.28-12.53.30:031][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_001'
+[2018.09.28-12.53.30:031][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_001' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_7.uasset.
+[2018.09.28-12.53.30:034][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_002'
+[2018.09.28-12.53.30:034][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_002' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_8.uasset.
+[2018.09.28-12.53.30:035][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_8 : Can't find file for asset. /Game/World/Texture/prop_magazine_002
+[2018.09.28-12.53.30:035][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_002'
+[2018.09.28-12.53.30:035][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_002' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_8.uasset.
+[2018.09.28-12.53.30:038][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_003'
+[2018.09.28-12.53.30:038][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_003' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_9.uasset.
+[2018.09.28-12.53.30:038][149]LoadErrors: Error: /Game/Assets/Material/MI_Mat_9 : Can't find file for asset. /Game/World/Texture/prop_magazine_003
+[2018.09.28-12.53.30:038][149]LogLinker: Warning: Can't find file '/Game/World/Texture/prop_magazine_003'
+[2018.09.28-12.53.30:039][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/prop_magazine_003' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Material/MI_Mat_9.uasset.
+[2018.09.28-12.53.30:289][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultDiffuse'
+[2018.09.28-12.53.30:289][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultDiffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Functions/MF_World_Allign.uasset.
+[2018.09.28-12.53.30:289][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Functions/MF_World_Allign : Can't find file for asset. /Game/World/Texture/DefaultDiffuse
+[2018.09.28-12.53.30:290][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultDiffuse'
+[2018.09.28-12.53.30:290][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultDiffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Functions/MF_World_Allign.uasset.
+[2018.09.28-12.53.30:292][149]LogLinker: Warning: Can't find file '/Game/World/Texture/Default'
+[2018.09.28-12.53.30:292][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/Default' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:293][149]LoadErrors: Error: /Game/Assets/MaterialAlign/M_Master : Can't find file for asset. /Game/World/Texture/Default
+[2018.09.28-12.53.30:293][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultDiffuse'
+[2018.09.28-12.53.30:293][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultDiffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:293][149]LoadErrors: Error: /Game/Assets/MaterialAlign/M_Master : Can't find file for asset. /Game/World/Texture/DefaultDiffuse
+[2018.09.28-12.53.30:293][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultNormal'
+[2018.09.28-12.53.30:294][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultNormal' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:294][149]LoadErrors: Error: /Game/Assets/MaterialAlign/M_Master : Can't find file for asset. /Game/World/Texture/DefaultNormal
+[2018.09.28-12.53.30:294][149]LogLinker: Warning: Can't find file '/Game/World/Texture/Default'
+[2018.09.28-12.53.30:294][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/Default' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:295][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultDiffuse'
+[2018.09.28-12.53.30:295][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultDiffuse' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:295][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DefaultNormal'
+[2018.09.28-12.53.30:295][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DefaultNormal' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/M_Master.uasset.
+[2018.09.28-12.53.30:296][149]LogLinker: Warning: Can't find file '/Game/World/Texture/Default'
+[2018.09.28-12.53.30:296][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/Default' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/M_Master_Inst.uasset.
+[2018.09.28-12.53.30:296][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/M_Master_Inst : Can't find file for asset. /Game/World/Texture/Default
+[2018.09.28-12.53.30:297][149]LogLinker: Warning: Can't find file '/Game/World/Texture/T_PaintedWall_N'
+[2018.09.28-12.53.30:297][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/T_PaintedWall_N' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/M_Master_Inst.uasset.
+[2018.09.28-12.53.30:297][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/M_Master_Inst : Can't find file for asset. /Game/World/Texture/T_PaintedWall_N
+[2018.09.28-12.53.30:297][149]LogLinker: Warning: Can't find file '/Game/World/Texture/Default'
+[2018.09.28-12.53.30:298][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/Default' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/M_Master_Inst.uasset.
+[2018.09.28-12.53.30:298][149]LogLinker: Warning: Can't find file '/Game/World/Texture/T_PaintedWall_N'
+[2018.09.28-12.53.30:298][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/T_PaintedWall_N' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/M_Master_Inst.uasset.
+[2018.09.28-12.53.30:299][149]LogLinker: Warning: Can't find file '/Game/World/Texture/arroway_de_tiles-48_d100'
+[2018.09.28-12.53.30:299][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/arroway_de_tiles-48_d100' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:299][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/MI_Floor : Can't find file for asset. /Game/World/Texture/arroway_de_tiles-48_d100
+[2018.09.28-12.53.30:300][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DisplacementMap'
+[2018.09.28-12.53.30:300][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DisplacementMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:300][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/MI_Floor : Can't find file for asset. /Game/World/Texture/DisplacementMap
+[2018.09.28-12.53.30:300][149]LogLinker: Warning: Can't find file '/Game/World/Texture/NormalMap'
+[2018.09.28-12.53.30:300][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/NormalMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:301][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/MI_Floor : Can't find file for asset. /Game/World/Texture/NormalMap
+[2018.09.28-12.53.30:301][149]LogLinker: Warning: Can't find file '/Game/World/Texture/SpecularMap'
+[2018.09.28-12.53.30:301][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/SpecularMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:301][149]LoadErrors: Error: /Game/Assets/MaterialAlign/Instance/MI_Floor : Can't find file for asset. /Game/World/Texture/SpecularMap
+[2018.09.28-12.53.30:302][149]LogLinker: Warning: Can't find file '/Game/World/Texture/arroway_de_tiles-48_d100'
+[2018.09.28-12.53.30:302][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/arroway_de_tiles-48_d100' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:302][149]LogLinker: Warning: Can't find file '/Game/World/Texture/DisplacementMap'
+[2018.09.28-12.53.30:302][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/DisplacementMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:303][149]LogLinker: Warning: Can't find file '/Game/World/Texture/NormalMap'
+[2018.09.28-12.53.30:303][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/NormalMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:303][149]LogLinker: Warning: Can't find file '/Game/World/Texture/SpecularMap'
+[2018.09.28-12.53.30:303][149]LogLinker: Warning: Can't find file for asset '/Game/World/Texture/SpecularMap' while loading ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/MaterialAlign/Instance/MI_Floor.uasset.
+[2018.09.28-12.53.30:780][149]LogAIModule: Creating AISystem for world Hospital
+[2018.09.28-12.53.30:886][149]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2018.09.28-12.53.30:963][149]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.28-12.53.30:963][149]LightingResults: New page: Lighting Build
+[2018.09.28-12.53.30:964][149]LoadErrors: New page: Loading map: Hospital.umap
+[2018.09.28-12.53.30:966][149]MapCheck: New page: Map Check
+[2018.09.28-12.53.30:967][149]LightingResults: New page: Lighting Build
+[2018.09.28-12.53.31:191][149]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.28-12.53.31:423][149]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.28-12.53.31:728][149]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 304,899ms to complete.
+[2018.09.28-12.53.31:731][149]LogFileHelpers: Loading map 'Hospital' took 0.769
+[2018.09.28-12.53.38:412][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-12.53.52:313][103]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.09.28-12.53.55:057][159]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.09.28-12.53.57:171][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.09.28-12.54.05:885][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.54.20:265][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.54.31:607][216]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.54.33:595][216]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital78B3003B484A3F6B1219FC86A96146E4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-12.54.33:697][216]LogFileHelpers: Saving map 'Hospital' took 2.067
+[2018.09.28-12.55.11:572][127]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.55.13:715][127]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital9B5C78B64F1436F8FC320092587107DD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-12.55.13:815][127]LogFileHelpers: Saving map 'Hospital' took 2.220
