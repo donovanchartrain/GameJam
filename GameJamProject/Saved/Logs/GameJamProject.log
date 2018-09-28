@@ -2066,3 +2066,186 @@ LogInit: Object subsystem initialized
 [2018.09.28-12.31.55:232][667]DataValidation: There is no data validation for /Game/Splash/EdSplash.
 [2018.09.28-12.31.55:307][667]DataValidation: There is no data validation for /Game/Splash/Splash.
 [2018.09.28-12.31.55:307][667]DataValidation: 
+[2018.09.28-12.32.46:437][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LUT_Horror2" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/LUT_Horror2.uasset" SILENT=true
+[2018.09.28-12.32.46:451][731]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/LUT_Horror288CD7F0A408F203F92219CA5A5725FBA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/LUT_Horror2.uasset'
+[2018.09.28-12.33.12:726][989]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-12.33.27:994][374]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-12.34.22:161][469]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.28-12.34.36:687][628]LogSlate: Window 'test_grid_2_normal' being destroyed
+[2018.09.28-12.34.36:690][628]LogSlate: Window 'test_grid_2_normal' being destroyed
+[2018.09.28-12.35.05:622][556]LogTexture: Display: Building textures: AI_Monster_Packed0_Normal (BC5, 2048X2048)
+[2018.09.28-12.35.09:889][736]LogTexture: Display: Building textures: AI_Monster_Packed0_Normal (BC5, 2048X2048)
+[2018.09.28-12.35.11:692][798]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI_Monster_Packed0_NormalAD32352245C2448D098435B1220EEDB5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Texture/AI_Monster_Packed0_Normal.uasset'
+[2018.09.28-12.35.18:039][101]LogTexture: Display: Building textures: AI_Monster_Packed0_Gloss (AutoDXT, 2048X2048)
+[2018.09.28-12.35.20:402][125]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI_Monster_Packed0_Gloss12B1CD004B65CCD54075BB8E0B08E1C2.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Texture/AI_Monster_Packed0_Gloss.uasset'
+[2018.09.28-12.35.24:761][330]LogTexture: Display: Building textures: AI_Monster_Packed0_Diffuse (AutoDXT, 2048X2048)
+[2018.09.28-12.35.42:911][154]LogSlate: Window '640x480_N' being destroyed
+[2018.09.28-12.35.53:203][607]LogTexture: Display: Building textures: AIUE_V01_002_dirt (AutoDXT, 2048X2048)
+[2018.09.28-12.35.56:992][737]LogTexture: Display: Building textures: AIUE_V01_002_book08 (AutoDXT, 512X512)
+[2018.09.28-12.36.01:233][912]LogTexture: Display: Building textures: AIUE_V01_002_book06_NM (BC5, 512X512)
+[2018.09.28-12.36.12:129][445]LogTexture: Display: Building textures: AIUE_V01_002_book_5 (AutoDXT, 1024X512)
+[2018.09.28-12.36.16:723][656]LogTexture: Display: Building textures: AIUE_V01_002_book_4 (AutoDXT, 1024X512)
+[2018.09.28-12.36.22:759][945]LogTexture: Display: Building textures: AIUE_V01_002_book_3 (AutoDXT, 1024X512)
+[2018.09.28-12.36.31:919][351]LogTexture: Display: Building textures: AIUE_V01_001_diffuse (AutoDXT, 1024X256)
+[2018.09.28-12.36.34:914][490]LogTexture: Display: Building textures: AIUE_V01_001_diffuse (AutoDXT, 1024X256)
+[2018.09.28-12.36.45:919][  3]LogTexture: Display: Building textures: AI_Monster_Packed0_Specular (AutoDXT, 2048X2048)
+[2018.09.28-12.36.55:206][380]LogTexture: Display: Building textures: AI_Monster_Packed0_Opacity (AutoDXT, 2048X2048)
+[2018.09.28-12.36.57:846][489]LogSlate: Window 'AIUE_V01_002_dirt*' being destroyed
+[2018.09.28-12.36.57:851][489]LogSlate: Window 'AIUE_V01_002_dirt*' being destroyed
+[2018.09.28-12.37.00:164][511]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.37.00:320][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI_Monster_Packed0_Diffuse772363444EF3C9ECDD7DD3A6043935AE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Texture/AI_Monster_Packed0_Diffuse.uasset'
+[2018.09.28-12.37.00:418][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI_Monster_Packed0_Opacity11D447EE434269F9AD3B7C91B2291DBE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Texture/AI_Monster_Packed0_Opacity.uasset'
+[2018.09.28-12.37.00:579][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI_Monster_Packed0_Specular9B463BD54CA794CB667651BA58C53C32.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Monstre/Texture/AI_Monster_Packed0_Specular.uasset'
+[2018.09.28-12.37.00:780][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_001_diffuse8D6940A1430EE122006638B553943383.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_001_diffuse.uasset'
+[2018.09.28-12.37.01:001][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_book06_NM51D3928A428EE4F7B77E948BFFCBF9F7.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_book06_NM.uasset'
+[2018.09.28-12.37.01:184][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_book08B9A8B9634D92A936C20800A08A681C80.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_book08.uasset'
+[2018.09.28-12.37.01:354][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_book_3CA2254AC434CFA93F23BD29A9D36B0EC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_book_3.uasset'
+[2018.09.28-12.37.01:513][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_book_41CF79F5D4074616413877483BDF8ACC4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_book_4.uasset'
+[2018.09.28-12.37.01:648][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_book_5A8C095FC4FA371827B36CA80925AA5CA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_book_5.uasset'
+[2018.09.28-12.37.02:337][511]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_dirt6095665645758803C2D4E59D311ACDD3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_dirt.uasset'
+[2018.09.28-12.37.11:826][931]LogTexture: Display: Building textures: AIUE_V01_004_library_color_001 (AutoDXT, 2048X2048)
+[2018.09.28-12.37.20:012][238]LogTexture: Display: Building textures: AIUE_V01_004_computerstation_color_001 (AutoDXT, 512X512)
+[2018.09.28-12.37.34:651][961]LogTexture: Display: Building textures: AIUE_V01_003_Binders3_NM (BC5, 1024X1024)
+[2018.09.28-12.37.41:525][301]LogTexture: Display: Building textures: AIUE_V01_003_Binders3_Color (AutoDXT, 1024X1024)
+[2018.09.28-12.37.45:735][495]LogTexture: Display: Building textures: AIUE_V01_003_binders2NormalsMap (BC5, 1024X1024)
+[2018.09.28-12.37.49:633][681]LogTexture: Display: Building textures: AIUE_V01_003_binders2DiffuseMap (AutoDXT, 1024X1024)
+[2018.09.28-12.37.54:143][891]LogTexture: Display: Building textures: AIUE_V01_003_binders1NormalsMap (BC5, 1024X1024)
+[2018.09.28-12.37.59:367][134]LogTexture: Display: Building textures: AIUE_V01_003_binders1DiffuseMap (AutoDXT, 1024X1024)
+[2018.09.28-12.38.04:389][358]LogTexture: Display: Building textures: AIUE_V01_003_AM78_022_color_decals (AutoDXT, 1024X1024)
+[2018.09.28-12.38.11:295][692]LogTexture: Display: Building textures: AIUE_V01_002_pages02 (AutoDXT, 128X64)
+[2018.09.28-12.38.14:973][873]LogSlate: Window 'AIUE_V01_004_library_color_001*' being destroyed
+[2018.09.28-12.38.14:979][873]LogSlate: Window 'AIUE_V01_004_library_color_001*' being destroyed
+[2018.09.28-12.38.17:267][890]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.38.17:508][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_002_pages021C333C1A43993950439CDEA9C50DF38C.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_002_pages02.uasset'
+[2018.09.28-12.38.17:708][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_AM78_022_color_decaAB6346CC4FE22DBDD2ABA9BA11FD7747.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_AM78_022_color_decals.uasset'
+[2018.09.28-12.38.18:021][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_binders1DiffuseMapD8EDE5614F3998BF8B9973B76853F6BE.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_binders1DiffuseMap.uasset'
+[2018.09.28-12.38.18:167][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_binders1NormalsMap18A3E75D4AC44D9178AD1EA74E5E507A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_binders1NormalsMap.uasset'
+[2018.09.28-12.38.18:337][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_binders2DiffuseMapD8D833674784C8D42A631B9F0952ACD5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_binders2DiffuseMap.uasset'
+[2018.09.28-12.38.18:537][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_binders2NormalsMap280231C243FEC4E9947598B0BBD091E6.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_binders2NormalsMap.uasset'
+[2018.09.28-12.38.18:672][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_Binders3_ColorE08F3FC845B6E4F28AEFE88E0B48569F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_Binders3_Color.uasset'
+[2018.09.28-12.38.18:861][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_003_Binders3_NM5406F14C4448F485CECE618E7DE46358.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_003_Binders3_NM.uasset'
+[2018.09.28-12.38.18:998][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_computerstation_colD032093D4042D46A13F7FF87479D4DF5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_computerstation_color_001.uasset'
+[2018.09.28-12.38.19:589][890]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_library_color_001AACE9ECB437D8E19437C4F8AD2FD34E1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_library_color_001.uasset'
+[2018.09.28-12.38.30:112][262]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.38.36:926][521]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.38.50:482][773]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.38.56:418][  8]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.39.00:822][215]LogTexture: Display: Building textures: AmbientOcclusionMap (AutoDXT, 1024X1024)
+[2018.09.28-12.39.06:567][471]LogTexture: Display: Building textures: AmbientOcclusionMap (AutoDXT, 256X256)
+[2018.09.28-12.39.11:263][705]LogTexture: Display: Building textures: AIUE_V1_005_exit-diff (AutoDXT, 512X512)
+[2018.09.28-12.39.15:652][920]LogTexture: Display: Building textures: AIUE_V02_001_livingroom_treebark_normal_001 (BC5, 512X512)
+[2018.09.28-12.39.21:728][225]LogTexture: Display: Building textures: AIUE_V01_004_paint_glossiness_001 (AutoDXT, 1024X1024)
+[2018.09.28-12.39.26:300][414]LogTexture: Display: Building textures: AIUE_V01_004_library_color_004 (AutoDXT, 2048X2048)
+[2018.09.28-12.39.31:177][592]LogTexture: Display: Building textures: AIUE_V01_004_library_color_003 (AutoDXT, 2048X2048)
+[2018.09.28-12.39.36:262][778]LogTexture: Display: Building textures: AIUE_V01_004_library_color_002 (AutoDXT, 2048X2048)
+[2018.09.28-12.39.38:327][850]LogSlate: Window 'AIUE_V02_001_livingroom_treebark_normal_001*' being destroyed
+[2018.09.28-12.39.38:332][850]LogSlate: Window 'AIUE_V02_001_livingroom_treebark_normal_001*' being destroyed
+[2018.09.28-12.39.40:939][914]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.39.41:275][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AmbientOcclusionMap8D3608974F3477AF8245FDAB73B23126.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/ElectricalBox/AmbientOcclusionMap.uasset'
+[2018.09.28-12.39.41:379][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AmbientOcclusionMapD7E4620E49EF6511D84493B0E7F60732.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/FUt/AmbientOcclusionMap.uasset'
+[2018.09.28-12.39.42:615][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_library_color_0028BA4E2014BD5AA0E6465928005CC48E9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_library_color_002.uasset'
+[2018.09.28-12.39.43:627][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_library_color_0033857FF6141471B05EEA28BBEEBC8AD08.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_library_color_003.uasset'
+[2018.09.28-12.39.44:157][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_library_color_004CE69D89240AF5F8AA750388C1E3BFEB8.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_library_color_004.uasset'
+[2018.09.28-12.39.44:391][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V01_004_paint_glossiness_0056D6E2784FFEA4F960EE929612CDAD8F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V01_004_paint_glossiness_001.uasset'
+[2018.09.28-12.39.44:588][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V02_001_livingroom_treebark8FE124634585202A87F09FB0D521B53E.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V02_001_livingroom_treebark_normal_001.uasset'
+[2018.09.28-12.39.44:730][914]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AIUE_V1_005_exit-diff1E8352C54A33DF2DB4108EA20D86AD7A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/AIUE_V1_005_exit-diff.uasset'
+[2018.09.28-12.40.04:156][791]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.40.12:671][221]LogTexture: Display: Building textures: DisplacementMap (AutoDXT, 1024X1024)
+[2018.09.28-12.40.20:031][597]LogTexture: Display: Building textures: dirt_003 (AutoDXT, 1024X1024)
+[2018.09.28-12.40.24:876][835]LogTexture: Display: Building textures: difuse (AutoDXT, 1024X1024)
+[2018.09.28-12.40.30:257][107]LogTexture: Display: Building textures: DefaultNormal (BC5, 1024X1024)
+[2018.09.28-12.40.34:722][316]LogTexture: Display: Building textures: DefaultDiffuse (AutoDXT, 1024X1024)
+[2018.09.28-12.40.39:865][553]LogTexture: Display: Building textures: Default (AutoDXT, 1024X1024)
+[2018.09.28-12.40.43:313][743]LogTexture: Display: Building textures: Default (AutoDXT, 1024X1024)
+[2018.09.28-12.40.45:286][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/Default" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/Default.uasset" SILENT=true
+[2018.09.28-12.40.45:411][844]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/DefaultF9C5525140D3FCF389F2509EEE1A77E8.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/Default.uasset'
+[2018.09.28-12.40.47:694][959]LogSlate: Window 'bw_dirt_marble_001' being destroyed
+[2018.09.28-12.40.49:864][ 28]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.40.50:117][ 28]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/DisplacementMapA6B435E84E1D4F117CD6D9A3F7B7C8C6.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/ElectricalBox/DisplacementMap.uasset'
+[2018.09.28-12.40.50:135][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pass/difuse" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Pass/difuse.uasset" SILENT=true
+[2018.09.28-12.40.50:213][ 28]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/difuseBE68CB104960F05ED5AADBADE7313C55.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Pass/difuse.uasset'
+[2018.09.28-12.40.50:514][ 28]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/DefaultDiffuseB57EA3C54942BD555C16559C9B1E6B8A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/DefaultDiffuse.uasset'
+[2018.09.28-12.40.50:803][ 28]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/DefaultNormalEBBB7EDF492907274E4177B5F1E33E20.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/DefaultNormal.uasset'
+[2018.09.28-12.40.50:828][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/dirt_003" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/dirt_003.uasset" SILENT=true
+[2018.09.28-12.40.51:024][ 28]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/dirt_0033339EF0049F2030B1AB567B62D583468.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/dirt_003.uasset'
+[2018.09.28-12.40.58:370][358]LogTexture: Display: Building textures: prop_magazine_008 (AutoDXT, 1024X512)
+[2018.09.28-12.41.02:780][554]LogTexture: Display: Building textures: prop_magazine_007 (AutoDXT, 1024X512)
+[2018.09.28-12.41.06:863][731]LogTexture: Display: Building textures: prop_magazine_006 (AutoDXT, 1024X512)
+[2018.09.28-12.41.10:938][907]LogTexture: Display: Building textures: prop_magazine_005 (AutoDXT, 1024X512)
+[2018.09.28-12.41.15:115][ 88]LogTexture: Display: Building textures: prop_magazine_004 (AutoDXT, 1024X512)
+[2018.09.28-12.41.18:795][250]LogTexture: Display: Building textures: prop_magazine_003 (AutoDXT, 1024X512)
+[2018.09.28-12.41.22:857][429]LogTexture: Display: Building textures: prop_magazine_002 (AutoDXT, 1024X512)
+[2018.09.28-12.41.26:986][599]LogTexture: Display: Building textures: prop_magazine_001 (AutoDXT, 1024X512)
+[2018.09.28-12.41.33:298][882]LogTexture: Display: Building textures: prop_magazine_007 (AutoDXT, 1024X512)
+[2018.09.28-12.41.37:873][102]LogTexture: Display: Building textures: prop_magazine_006 (AutoDXT, 1024X512)
+[2018.09.28-12.41.41:125][254]LogTexture: Display: Building textures: prop_magazine_005 (AutoDXT, 1024X512)
+[2018.09.28-12.41.44:537][416]LogTexture: Display: Building textures: prop_magazine_004 (AutoDXT, 1024X512)
+[2018.09.28-12.41.49:698][667]LogTexture: Display: Building textures: prop_magazine_003 (AutoDXT, 1024X512)
+[2018.09.28-12.41.53:412][844]LogTexture: Display: Building textures: prop_magazine_002 (AutoDXT, 1024X512)
+[2018.09.28-12.42.12:266][777]LogTexture: Display: Building textures: plant_int_leaf_001_bw (AutoDXT, 512X512)
+[2018.09.28-12.42.15:081][904]LogTexture: Display: Building textures: plant_int_leaf_001_bw (AutoDXT, 512X512)
+[2018.09.28-12.42.17:263][996]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/plant_int_leaf_001_bwFE49A6E942B842E013544EA9D3D8A78C.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/plant_int_leaf_001_bw.uasset'
+[2018.09.28-12.42.17:661][ 17]LogSlate: Window 'plant_int_leaf_001_bw' being destroyed
+[2018.09.28-12.42.19:911][ 94]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.42.20:272][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_00187EFE9DF4ADB0744B46DD797EEBAAF4A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_001.uasset'
+[2018.09.28-12.42.20:548][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_00240243EA84C2063138AC3A9B7CDFEA312.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_002.uasset'
+[2018.09.28-12.42.20:836][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_003E3782DE9453AC757BC8D149301776E03.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_003.uasset'
+[2018.09.28-12.42.21:129][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_004757211A54998A241FA28DCBA6D1FF7F4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_004.uasset'
+[2018.09.28-12.42.21:350][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_0055DB84E2D43F99D4CD2C557952603A796.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_005.uasset'
+[2018.09.28-12.42.21:673][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_0069CAABB7C4131863E997F33B69ADF84CD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_006.uasset'
+[2018.09.28-12.42.21:900][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_007304F54374367A2B1EC0E29974186E011.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_007.uasset'
+[2018.09.28-12.42.22:203][ 94]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/prop_magazine_008E6749BCC4F35A7C5D111C5B74A93866A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/prop_magazine_008.uasset'
+[2018.09.28-12.42.34:189][699]LogTexture: Display: Building textures: SpecularMap (AutoDXT, 1024X1024)
+[2018.09.28-12.42.35:757][763]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SpecularMapADA0362F46D2F01F6413D9989A372ED3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/ElectricalBox/SpecularMap.uasset'
+[2018.09.28-12.42.36:512][803]LogSlate: Window 'SpecularMap' being destroyed
+[2018.09.28-12.42.46:434][323]LogTexture: Display: Building textures: T_Wall_D (AutoDXT, 512X512)
+[2018.09.28-12.42.52:228][661]LogTexture: Display: Building textures: T_Wall_AO (AutoDXT, 512X512)
+[2018.09.28-12.42.56:884][894]LogTexture: Display: Building textures: T_PaintedWall_N (BC5, 2048X2048)
+[2018.09.28-12.43.02:562][194]LogTexture: Display: Building textures: T_HightVoltage_Decal_D (AutoDXT, 1024X1024)
+[2018.09.28-12.43.05:257][342]LogTexture: Display: Building textures: T_HightVoltage_Decal_D (AutoDXT, 1024X1024)
+[2018.09.28-12.43.11:506][705]LogTexture: Display: Building textures: T_HightVoltage_Decal_D (AutoDXT, 1024X1024)
+[2018.09.28-12.43.19:557][130]LogTexture: Display: Building textures: T_Concrete_Poured_N (BC5, 2048X2048)
+[2018.09.28-12.43.23:831][309]LogTexture: Display: Building textures: T_Brick_Clay_New_N (BC5, 2048X2048)
+[2018.09.28-12.43.27:779][458]LogTexture: Display: Building textures: T_Brick_Clay_New_M (AutoDXT, 2048X2048)
+[2018.09.28-12.43.32:465][626]LogTexture: Display: Building textures: T_Brick_Clay_New_D (AutoDXT, 2048X2048)
+[2018.09.28-12.43.38:410][909]LogTexture: Display: Building textures: T_Brick_Cellule_D (AutoDXT, 2048X2048)
+[2018.09.28-12.43.41:161][ 50]LogSlate: Window 'T_Wall_D*' being destroyed
+[2018.09.28-12.43.41:165][ 50]LogSlate: Window 'T_Wall_D*' being destroyed
+[2018.09.28-12.43.45:645][207]LogTexture: Display: Building textures: T_Concrete_Poured_D (AutoDXT, 2048X2048)
+[2018.09.28-12.43.49:274][292]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.43.49:392][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_HightVoltage_Decal_D347239EE43938EE4C0DE548E03910E68.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/ElectricalBox/T_HightVoltage_Decal_D.uasset'
+[2018.09.28-12.43.49:548][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Brick_Cellule_D961A38564F4500179980B49FFD1756F5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Brick_Cellule_D.uasset'
+[2018.09.28-12.43.49:934][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Brick_Clay_New_D7696D20D4673FF71E2214D98AED69E9A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Brick_Clay_New_D.uasset'
+[2018.09.28-12.43.50:546][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Brick_Clay_New_M93EF420C48D56DE5A8C590BDCF149342.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Brick_Clay_New_M.uasset'
+[2018.09.28-12.43.51:040][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Brick_Clay_New_NB12B769A4B9A13A2199A16931316BCCC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Brick_Clay_New_N.uasset'
+[2018.09.28-12.43.51:902][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Concrete_Poured_D1ABD603E43C21E2B5A6B0D88C7FCA1A5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Concrete_Poured_D.uasset'
+[2018.09.28-12.43.52:362][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Concrete_Poured_N3B5B7DAE4251D4E822FE3DABC6FD0FC1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Concrete_Poured_N.uasset'
+[2018.09.28-12.43.53:352][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_PaintedWall_N8AF0B975406C9682BEF670B70541393A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_PaintedWall_N.uasset'
+[2018.09.28-12.43.53:377][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wall_AO" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_AO.uasset" SILENT=true
+[2018.09.28-12.43.53:481][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wall_AO78D2F2244FF818C5B3C3AFB3573AE484.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_AO.uasset'
+[2018.09.28-12.43.53:503][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wall_D" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_D.uasset" SILENT=true
+[2018.09.28-12.43.53:629][292]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wall_DFE32C80F42E0FE0DFADF1CB3CE87BF26.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_D.uasset'
+[2018.09.28-12.44.09:244][ 75]LogTexture: Display: Building textures: test_grid_2_normal (BC5, 1024X1024)
+[2018.09.28-12.44.10:823][151]LogTexture: Display: Building textures: test_grid_2_normal (BC5, 1024X1024)
+[2018.09.28-12.44.14:027][313]LogTexture: Display: Building textures: test_grid_2 (AutoDXT, 1024X1024)
+[2018.09.28-12.44.20:592][641]LogTexture: Display: Building textures: T_WoodFloor_N (BC5, 2048X2048)
+[2018.09.28-12.44.24:916][847]LogTexture: Display: Building textures: T_Wood_S (AutoDXT, 2048X2048)
+[2018.09.28-12.44.29:054][ 23]LogTexture: Display: Building textures: T_Wood (DXT1, 2048X2048)
+[2018.09.28-12.44.33:138][210]LogTexture: Display: Building textures: T_Wall_S (AutoDXT, 512X512)
+[2018.09.28-12.44.36:542][384]LogTexture: Display: Building textures: T_Wall_N (BC5, 512X512)
+[2018.09.28-12.44.40:992][618]LogTexture: Display: Building textures: T_Wall_Disp (AutoDXT, 512X512)
+[2018.09.28-12.44.42:949][717]LogSlate: Window 'T_WoodFloor_N*' being destroyed
+[2018.09.28-12.44.42:955][717]LogSlate: Window 'T_WoodFloor_N*' being destroyed
+[2018.09.28-12.44.45:234][764]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-12.44.45:393][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wall_Disp2DF85223452E7AFFF1A0C9A24636FBD5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_Disp.uasset'
+[2018.09.28-12.44.45:417][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wall_N" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_N.uasset" SILENT=true
+[2018.09.28-12.44.45:538][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wall_N7BC50A8D4A54F281AFDD99A4155D4D66.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_N.uasset'
+[2018.09.28-12.44.45:561][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wall_S" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_S.uasset" SILENT=true
+[2018.09.28-12.44.45:660][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wall_S67CDE2134E042A8FCD50939674D0FA46.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wall_S.uasset'
+[2018.09.28-12.44.45:682][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wood" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wood.uasset" SILENT=true
+[2018.09.28-12.44.46:251][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wood819184244F82DCA6866FEE9AF4BB0D2A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wood.uasset'
+[2018.09.28-12.44.46:275][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Texture/T_Wood_S" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wood_S.uasset" SILENT=true
+[2018.09.28-12.44.46:651][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Wood_S81AFFD404FF3FAC086C363A3BAFEF5FA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_Wood_S.uasset'
+[2018.09.28-12.44.46:817][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_WoodFloor_N6D6747574EF7F0E187E76AAA96C63812.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/T_WoodFloor_N.uasset'
+[2018.09.28-12.44.47:015][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/test_grid_26706D42542824721F34EACAEB64EF8DF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/test_grid_2.uasset'
+[2018.09.28-12.44.47:201][764]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/test_grid_2_normalCA4285F34ED93B4BA2256C9EEADE9A68.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Texture/test_grid_2_normal.uasset'
