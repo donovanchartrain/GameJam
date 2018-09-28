@@ -1,4 +1,4 @@
-﻿Log file open, 09/28/18 14:10:44
+﻿Log file open, 09/28/18 14:14:32
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,7 +8,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GameJamProject
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.231566
+LogStats: Stats thread started at 0.263405
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -97,7 +97,7 @@ LogPluginManager: Mounting plugin DatasmithFBXImporter
 LogPluginManager: Mounting plugin DatasmithImporter
 LogPluginManager: Mounting plugin DatasmithMDLImporter
 LogPluginManager: Mounting plugin StaticMeshEditorExtension
-LogStreaming: Display: Took  0.329s to configure plugins.
+LogStreaming: Display: Took  0.510s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -151,121 +151,263 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.057s to delete old logs.
+LogStreaming: Display: Took  0.010s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.09.28-12.10.46:755][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.28-12.10.46:755][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.09.28-12.10.46:811][  0]LogHAL: Display: Platform has ~ 6 GB [6322470912 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.09.28-12.10.46:811][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.09.28-12.10.46:811][  0]LogInit: Going up to parent DeviceProfile []
-[2018.09.28-12.10.46:830][  0]LogInit: Computer: PC_DONO
-[2018.09.28-12.10.46:830][  0]LogInit: User: Donovan
-[2018.09.28-12.10.46:830][  0]LogInit: CPU Page size=4096, Cores=2
-[2018.09.28-12.10.46:830][  0]LogInit: High frequency timer resolution =2.338444 MHz
-[2018.09.28-12.10.46:830][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
-[2018.09.28-12.10.46:830][  0]LogMemory: Platform Memory Stats for Windows
-[2018.09.28-12.10.46:830][  0]LogMemory: Process Physical Memory: 101.63 MB used, 101.63 MB peak
-[2018.09.28-12.10.46:830][  0]LogMemory: Process Virtual Memory: 96.38 MB used, 96.38 MB peak
-[2018.09.28-12.10.46:830][  0]LogMemory: Physical Memory: 2027.66 MB used,  4001.92 MB free, 6029.58 MB total
-[2018.09.28-12.10.46:831][  0]LogMemory: Virtual Memory: 4628.55 MB used,  4001.92 MB free, 134217728.00 MB total
-[2018.09.28-12.10.47:121][  0]LogInit: Using OS detected language (fr-FR).
-[2018.09.28-12.10.47:121][  0]LogInit: Using OS detected locale (fr-FR).
-[2018.09.28-12.10.47:122][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
-[2018.09.28-12.10.47:217][  0]LogStreaming: Display: Took  0.096s to InitEngineTextLocalization.
-[2018.09.28-12.10.47:217][  0]LogInit: Setting process to per monitor DPI aware
-[2018.09.28-12.10.47:609][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.09.28-12.10.47:609][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.09.28-12.10.54:681][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.09.28-12.10.54:681][  0]LogD3D11RHI: D3D11 adapters:
-[2018.09.28-12.10.55:323][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 720M' (Feature Level 11_0)
-[2018.09.28-12.10.55:323][  0]LogD3D11RHI:       1999/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.09.28-12.10.55:327][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
-[2018.09.28-12.10.55:327][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.09.28-12.10.55:330][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.09.28-12.10.55:330][  0]LogD3D11RHI:       0/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.09.28-12.10.55:330][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.09.28-12.10.55:354][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.09.28-12.10.55:354][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
-[2018.09.28-12.10.55:354][  0]LogWindows: EnumDisplayDevices:
-[2018.09.28-12.10.55:355][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
-[2018.09.28-12.10.55:355][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
-[2018.09.28-12.10.55:355][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
-[2018.09.28-12.10.55:356][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.09.28-12.10.55:356][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 720M
-[2018.09.28-12.10.55:356][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.09.28-12.10.55:356][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.09.28-12.10.55:356][  0]LogRHI: Texture pool is 1399 MB (70% of 1999 MB)
-[2018.09.28-12.10.55:379][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
-[2018.09.28-12.10.55:379][  0]LogD3D11RHI: Async texture creation enabled
-[2018.09.28-12.10.55:392][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.09.28-12.10.55:393][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Intermediate/Shaders/WorkingDirectory/1144/).
-[2018.09.28-12.10.55:393][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Donovan/AppData/Local/Temp/UnrealShaderWorkingDir/67BB21DF4C41EC4EB3AA72957EF7C713/'.
-[2018.09.28-12.10.57:189][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.09.28-12.10.57:243][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.09.28-12.10.57:303][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.09.28-12.10.57:366][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.09.28-12.10.57:467][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.09.28-12.10.57:516][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.09.28-12.10.57:563][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.09.28-12.10.57:615][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.09.28-12.10.57:643][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.28-12.10.57:852][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.09.28-12.10.58:016][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.28-12.10.58:016][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.28-12.10.58:085][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.28-12.10.58:086][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.28-12.10.58:132][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.09.28-12.10.58:180][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.09.28-12.10.58:215][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.09.28-12.10.58:290][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.09.28-12.10.58:328][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.09.28-12.10.58:328][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.09.28-12.10.58:913][  0]LogXGEController: Cleaning working directory: C:/Users/Donovan/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.09.28-12.10.58:913][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.09.28-12.10.58:913][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.09.28-12.10.58:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.09.28-12.11.04:486][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.09.28-12.11.05:378][  0]LogDerivedDataCache: Loaded boot cache 0.89s 72MB C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.09.28-12.11.05:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.09.28-12.11.05:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.09.28-12.11.05:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.09.28-12.11.05:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.09.28-12.11.05:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.09.28-12.11.05:405][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.09.28-12.11.05:418][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Donovan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.09.28-12.11.05:418][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.09.28-12.11.05:418][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.09.28-12.11.05:450][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.09.28-12.11.05:452][  0]LogSlate: Using FreeType 2.6.0
-[2018.09.28-12.11.05:581][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.28-12.11.07:602][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
-[2018.09.28-12.11.08:308][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.28-12.11.09:248][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.09.28-12.11.09:440][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.09.28-12.11.09:440][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.09.28-12.11.09:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.09.28-12.11.09:440][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.09.28-12.11.09:461][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
-[2018.09.28-12.11.10:531][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.275978 seconds
-[2018.09.28-12.11.10:540][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.09.28-12.11.10:540][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.09.28-12.11.10:540][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.28-12.14.35:151][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.28-12.14.35:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.28-12.14.35:280][  0]LogHAL: Display: Platform has ~ 6 GB [6322470912 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.28-12.14.35:280][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.28-12.14.35:281][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.28-12.14.35:316][  0]LogInit: Computer: PC_DONO
+[2018.09.28-12.14.35:317][  0]LogInit: User: Donovan
+[2018.09.28-12.14.35:317][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.28-12.14.35:317][  0]LogInit: High frequency timer resolution =2.338444 MHz
+[2018.09.28-12.14.35:317][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2018.09.28-12.14.35:317][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.28-12.14.35:317][  0]LogMemory: Process Physical Memory: 101.37 MB used, 101.37 MB peak
+[2018.09.28-12.14.35:317][  0]LogMemory: Process Virtual Memory: 96.07 MB used, 96.07 MB peak
+[2018.09.28-12.14.35:317][  0]LogMemory: Physical Memory: 1991.52 MB used,  4038.06 MB free, 6029.58 MB total
+[2018.09.28-12.14.35:317][  0]LogMemory: Virtual Memory: 4628.55 MB used,  4038.06 MB free, 134217728.00 MB total
+[2018.09.28-12.14.35:821][  0]LogInit: Using OS detected language (fr-FR).
+[2018.09.28-12.14.35:821][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.09.28-12.14.35:907][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.09.28-12.14.36:037][  0]LogStreaming: Display: Took  0.216s to InitEngineTextLocalization.
+[2018.09.28-12.14.36:038][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.28-12.14.36:363][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.28-12.14.36:363][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.28-12.14.47:757][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.28-12.14.47:757][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.28-12.14.47:940][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 720M' (Feature Level 11_0)
+[2018.09.28-12.14.47:940][  0]LogD3D11RHI:       1999/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.28-12.14.48:000][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.09.28-12.14.48:001][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.28-12.14.48:333][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.28-12.14.48:333][  0]LogD3D11RHI:       0/0/3014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.28-12.14.48:333][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.28-12.14.48:367][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.28-12.14.48:368][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.28-12.14.48:368][  0]LogWindows: EnumDisplayDevices:
+[2018.09.28-12.14.48:368][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.09.28-12.14.48:369][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.09.28-12.14.48:370][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.09.28-12.14.48:370][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.28-12.14.48:371][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 720M
+[2018.09.28-12.14.48:371][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.28-12.14.48:371][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.28-12.14.48:371][  0]LogRHI: Texture pool is 1399 MB (70% of 1999 MB)
+[2018.09.28-12.14.48:406][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.09.28-12.14.48:406][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.28-12.14.48:424][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.28-12.14.48:426][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Intermediate/Shaders/WorkingDirectory/7824/).
+[2018.09.28-12.14.48:426][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Donovan/AppData/Local/Temp/UnrealShaderWorkingDir/187A70074339412ACBBA0A8876529FC8/'.
+[2018.09.28-12.14.52:216][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.28-12.14.52:264][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.28-12.14.52:322][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.28-12.14.52:375][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.28-12.14.52:467][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.28-12.14.52:517][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.28-12.14.52:571][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.28-12.14.52:635][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.28-12.14.52:674][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:861][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.28-12.14.52:882][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.28-12.14.53:069][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.28-12.14.53:069][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.28-12.14.53:117][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.28-12.14.53:118][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.28-12.14.53:164][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.28-12.14.53:189][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.28-12.14.53:247][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.28-12.14.53:318][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.28-12.14.53:342][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.28-12.14.53:342][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.28-12.14.54:078][  0]LogXGEController: Cleaning working directory: C:/Users/Donovan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.28-12.14.54:078][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.28-12.14.54:078][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.28-12.14.54:078][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.28-12.15.00:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.28-12.15.02:054][  0]LogDerivedDataCache: Loaded boot cache 1.07s 72MB C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.28-12.15.02:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.28-12.15.02:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.28-12.15.02:055][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.28-12.15.02:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.28-12.15.02:055][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.28-12.15.02:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.28-12.15.02:104][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Donovan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.28-12.15.02:104][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.28-12.15.02:104][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.28-12.15.02:135][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.28-12.15.02:137][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.28-12.15.02:203][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.28-12.15.04:600][  0]LogAssetRegistry: FAssetRegistry took 0.0289 seconds to start up
+[2018.09.28-12.15.05:331][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.28-12.15.06:414][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.28-12.15.06:582][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.28-12.15.06:582][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.28-12.15.06:582][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.28-12.15.06:582][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.28-12.15.06:712][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
+[2018.09.28-12.15.09:249][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.210652 seconds
+[2018.09.28-12.15.09:260][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.28-12.15.09:260][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.28-12.15.09:261][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.28-12.15.33:287][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.28-12.15.33:338][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.28-12.15.34:588][  0]SourceControl: Source control is disabled
+[2018.09.28-12.15.34:589][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.28-12.15.34:589][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.28-12.15.34:644][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.28-12.15.34:644][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.28-12.15.34:661][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.28-12.15.34:661][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.28-12.15.35:902][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.28-12.15.36:120][  0]LogOcInput: OculusInput pre-init called
+[2018.09.28-12.15.39:935][  0]LogEngine: Initializing Engine...
+[2018.09.28-12.15.39:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.28-12.15.39:939][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.28-12.15.39:939][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.28-12.15.39:939][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.28-12.15.39:939][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.28-12.15.40:259][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.28-12.15.40:388][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.28-12.15.40:412][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.28-12.15.40:466][  0]LogInit: FAudioDevice initialized.
+[2018.09.28-12.15.40:466][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.28-12.15.40:722][  0]LogDerivedDataCache: Saved boot cache 0.26s 72MB C:/Users/Donovan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.28-12.15.40:727][  0]LogInit: Texture streaming: Enabled
+[2018.09.28-12.15.41:129][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.28-12.15.41:129][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={305019F3-47D6-6E17-9222-0594CC1D40EE}
+[2018.09.28-12.15.41:305][  0]LogInit: Transaction tracking system initialized
+[2018.09.28-12.15.41:958][  0]BlueprintLog: New page: Editor Load
+[2018.09.28-12.15.43:695][  0]LocalizationService: Localization service is disabled
+[2018.09.28-12.15.46:014][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.28-12.15.46:014][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.28-12.15.46:014][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.28-12.15.46:014][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.28-12.15.46:014][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.28-12.15.46:014][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.28-12.15.46:015][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.28-12.15.46:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/' took 0.02s
+[2018.09.28-12.15.50:365][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.09.28-12.15.50:365][  0]LogWindows: Warning: URL: F:/Logiciel/Jeux/Git/Git/bin/git.exe version
+[2018.09.28-12.15.50:365][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.28-12.15.50:366][  0]LightingResults: New page: Lighting Build
+[2018.09.28-12.15.50:388][  0]MapCheck: New page: Map Check
+[2018.09.28-12.15.50:388][  0]LightingResults: New page: Lighting Build
+[2018.09.28-12.15.51:736][  0]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_7 has an invalid curve.  Please fix!
+[2018.09.28-12.16.06:531][  0]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.28-12.16.06:550][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.28-12.16.06:598][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.28-12.16.06:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 202,065ms to complete.
+[2018.09.28-12.16.06:800][  0]LogFileHelpers: Loading map 'Map_Demarage' took 16.436
+[2018.09.28-12.16.07:323][  0]LogCollectionManager: Loaded 0 collections in 0.003359 seconds
+[2018.09.28-12.16.07:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Collections/' took 0.01s
+[2018.09.28-12.16.07:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Developers/Donovan/Collections/' took 0.01s
+[2018.09.28-12.16.07:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Collections/' took 0.01s
+[2018.09.28-12.16.07:394][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.28-12.16.07:409][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2622 classes and 631 folders.
+[2018.09.28-12.16.07:548][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.28-12.16.09:501][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.28-12.16.09:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.16.09:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.16.09:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.16.09:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.28-12.16.09:669][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.09.28-12.16.09:710][  0]LogSlate: Took 0.029983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.28-12.16.09:738][  0]LogSlate: Took 0.018266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.28-12.16.09:753][  0]LogSlate: Took 0.014815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.28-12.16.10:049][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.28-12.16.10:049][  0]LogLoad: (Engine Initialization) Total time: 134.19 seconds
+[2018.09.28-12.16.10:049][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.28-12.16.10:132][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.28-12.16.10:223][  0]LogSlate: Took 0.021378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.28-12.16.10:237][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/' took 0.15s
+[2018.09.28-12.16.10:736][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.28-12.16.11:241][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.28-12.16.11:259][  3]LogAssetRegistry: Asset discovery search completed in 66.6814 seconds
+[2018.09.28-12.16.11:261][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.28-12.16.11:262][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2018.09.28-12.16.11:815][  4]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.28-12.16.14:040][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Mesh/Armoire.Armoire
+[2018.09.28-12.16.16:507][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Architecture/Basic_Wall2Mat_Angle.Basic_Wall2Mat_Angle
+[2018.09.28-12.16.17:811][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Mesh/Biblio01.Biblio01
+[2018.09.28-12.16.18:689][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Mesh/Biblio02.Biblio02
+[2018.09.28-12.16.19:612][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Mesh/Biblio03.Biblio03
+[2018.09.28-12.16.20:298][ 78]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/World/Mesh/SM_Table_Cube_001.SM_Table_Cube_001
+[2018.09.28-12.16.21:100][ 78]LogRenderer: Reallocating scene render targets to support 1188x744 Format 9 NumSamples 1 (Frame:1).
+[2018.09.28-12.16.21:100][ 78]LogSlate: Took 0.025736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.28-12.16.42:405][341]LogSlate: Window 'Biblio02' being destroyed
+[2018.09.28-12.16.45:968][379]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_DemarageD9A07A8B4D9120F513EF469A95D36014.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.28-12.16.46:334][379]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage_BuiltDataBC1865D5460FE1E5D14C48858B7EF05E.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage_BuiltData.uasset'
+[2018.09.28-12.16.59:154][694]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map_Demarage.Map_Demarage
+[2018.09.28-12.16.59:184][694]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.28-12.16.59:184][694]LightingResults: New page: Lighting Build
+[2018.09.28-12.16.59:185][694]LoadErrors: New page: Loading map: Map_Demarage.umap
+[2018.09.28-12.16.59:305][694]MapCheck: New page: Map Check
+[2018.09.28-12.16.59:305][694]LightingResults: New page: Lighting Build
+[2018.09.28-12.16.59:504][694]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.28-12.16.59:516][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.28-12.16.59:641][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.28-12.16.59:851][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 209,075ms to complete.
+[2018.09.28-12.16.59:852][694]LogFileHelpers: Loading map 'Map_Demarage' took 0.669
+[2018.09.28-12.17.11:083][806]LogAIModule: Creating AISystem for world Start
+[2018.09.28-12.17.11:621][806]LogAssetEditorManager: Opening Asset editor for World /Game/Level/Start.Start
+[2018.09.28-12.17.11:654][806]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Level/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.28-12.17.11:654][806]LightingResults: New page: Lighting Build
+[2018.09.28-12.17.11:655][806]LoadErrors: New page: Loading map: Start.umap
+[2018.09.28-12.17.11:657][806]MapCheck: New page: Map Check
+[2018.09.28-12.17.11:657][806]LightingResults: New page: Lighting Build
+[2018.09.28-12.17.15:332][806]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.28-12.17.15:528][806]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.28-12.17.15:748][806]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 218,963ms to complete.
+[2018.09.28-12.17.15:751][806]LogFileHelpers: Loading map 'Start' took 4.097
+[2018.09.28-12.17.31:422][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.09.28-12.17.31:929][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-12.17.56:874][342]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.17.56:964][342]LogStaticMesh: Building static mesh Basic_Wall2Mat_Angle...
+[2018.09.28-12.17.57:008][342]LogStaticMesh: Built static mesh [0.05s] /Game/World/Architecture/Basic_Wall2Mat_Angle.Basic_Wall2Mat_Angle
+[2018.09.28-12.17.58:781][359]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Basic_Wall2Mat_AngleBBB6AC5542E87D28BB4F258A820ABC76.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Architecture/Basic_Wall2Mat_Angle.uasset'
+[2018.09.28-12.18.06:524][514]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.18.07:445][514]LogStaticMesh: Warning: SM_Table_Cube_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.07:445][514]LogStaticMesh: Warning: SM_Table_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.09:401][535]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Table_Cube_001A30EA5E144B71BAB962F5B852E3C2271.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/SM_Table_Cube_001.uasset'
+[2018.09.28-12.18.15:444][668]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.18.15:531][668]LogStaticMesh: Building static mesh Armoire...
+[2018.09.28-12.18.15:599][668]LogStaticMesh: Built static mesh [0.08s] /Game/World/Mesh/Armoire.Armoire
+[2018.09.28-12.18.15:616][668]LogStaticMesh: Warning: Armoire has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.09.28-12.18.15:616][668]LogStaticMesh: Warning: Armoire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.15:616][668]LogStaticMesh: Warning: Armoire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.17:241][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Mesh/Armoire" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Armoire.uasset" SILENT=true
+[2018.09.28-12.18.17:318][693]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/ArmoireEC015A66411F3950C77490B44A12C0A8.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Armoire.uasset'
+[2018.09.28-12.18.26:031][935]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.18.26:540][935]LogStaticMesh: Building static mesh Biblio01...
+[2018.09.28-12.18.31:465][935]LogStaticMesh: Built static mesh [4.97s] /Game/World/Mesh/Biblio01.Biblio01
+[2018.09.28-12.18.31:574][935]LogStaticMesh: Warning: Biblio01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.31:574][935]LogStaticMesh: Warning: Biblio01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.33:710][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Mesh/Biblio01" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Biblio01.uasset" SILENT=true
+[2018.09.28-12.18.33:877][973]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Biblio01C516E4DB4B5A733A16EAE59C0DE59696.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Biblio01.uasset'
+[2018.09.28-12.18.45:470][438]LogSlate: Window 'Message' being destroyed
+[2018.09.28-12.18.46:028][438]LogStaticMesh: Building static mesh Biblio02...
+[2018.09.28-12.18.52:164][438]LogStaticMesh: Built static mesh [6.18s] /Game/World/Mesh/Biblio02.Biblio02
+[2018.09.28-12.18.52:344][438]LogStaticMesh: Warning: Biblio02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.52:345][438]LogStaticMesh: Warning: Biblio02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.09.28-12.18.53:928][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Mesh/Biblio02" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Biblio02.uasset" SILENT=true
+[2018.09.28-12.18.54:114][482]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Biblio02EA3D033646D64D5A0E6E06AE7AA5E0EB.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/Biblio02.uasset'
