@@ -586,3 +586,172 @@ LogInit: Object subsystem initialized
 [2018.09.28-22.40.20:094][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.09.28-22.41.02:027][147]BlueprintLog: New page: Compile BPDoorMetallock
 [2018.09.28-22.41.03:885][223]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/BPDoorMetallock9285661644941FE59F2079836FC38111.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Blueprint/BPDoorMetallock.uasset'
+[2018.09.28-22.42.22:625][256]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/World/Blueprint/Bp_KeyDoorEntrance.Bp_KeyDoorEntrance
+[2018.09.28-22.42.37:419][960]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.37:489][961]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.37:489][961]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.42.37:489][961]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-22.42.38:795][ 23]LogAssetEditorManager: Opening Asset editor for Material /Game/World/Mesh/M_Metal_Clef2.M_Metal_Clef2
+[2018.09.28-22.42.38:802][ 23]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.39:158][ 23]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.39:218][ 23]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.39:311][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.42.39:527][ 23]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.42.40:466][ 50]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.41:450][ 87]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.42.42:908][140]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.42.43:593][166]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.42.44:287][192]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.42.44:971][218]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-22.42.45:620][243]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-22.42.45:937][252]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.42.45:994][252]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.46:021][252]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-22.42.47:305][297]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.47:520][305]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.42.48:375][336]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.42.48:488][340]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.42.49:351][371]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.42.49:526][376]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.49:554][376]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.42.49:634][376]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.42.49:702][376]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.42.49:734][376]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.49:772][376]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.49:869][376]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.42.49:943][376]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.49:974][376]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.28-22.42.50:272][386]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.42.50:895][410]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.51:589][435]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.42.51:946][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.42.51:976][450]LogMaterialEditor: Applying material M_Metal_Clef2
+[2018.09.28-22.42.53:459][450]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.42.53:459][450]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.42.53:459][450]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-22.42.53:459][450]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-22.42.53:460][450]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-22.42.53:460][450]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-22.42.53:460][450]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-22.42.53:542][450]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.53:636][450]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.42.53:637][450]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.42.53:708][450]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.53:824][450]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.53:937][450]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Clef2, compiling. 
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-22.42.57:653][450]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.42.57:654][450]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-22.42.57:657][450]TextureStreamingBuild: Display: Compiling optional shaders took 3.733 seconds.
+[2018.09.28-22.42.59:462][515]LogMaterialEditor: Saving and Compiling material M_Metal_Clef2
+[2018.09.28-22.43.03:219][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Mesh/M_Metal_Clef2" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/M_Metal_Clef2.uasset" SILENT=true
+[2018.09.28-22.43.03:247][515]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_Metal_Clef2B82DA35A41DA87A21266C7949F6CDB29.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/M_Metal_Clef2.uasset'
+[2018.09.28-22.43.03:259][515]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.28-22.43.03:259][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.28-22.43.03:259][515]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.28-22.43.03:259][515]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.28-22.43.03:762][543]LogSlate: Window 'M_Metal_Clef2' being destroyed
+[2018.09.28-22.43.13:720][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-22.43.17:221][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-22.43.18:369][351]LogAssetEditorManager: Opening Asset editor for Material /Game/World/Mesh/M_Metal_Clef2.M_Metal_Clef2
+[2018.09.28-22.43.18:375][351]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.18:623][351]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.18:664][351]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.18:699][351]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.43.18:699][351]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.43.18:699][351]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.43.18:765][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.43.19:362][357]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.43.19:417][359]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.43.19:521][363]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.43.20:463][396]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-22.43.20:664][403]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-22.43.20:692][404]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-22.43.21:309][426]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-22.43.21:390][429]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-22.43.21:415][430]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.43.21:797][443]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.21:846][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.43.22:259][456]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.43.23:107][486]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.43.23:301][493]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.43.23:330][494]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.43.23:801][509]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.23:863][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.28-22.43.23:896][509]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.43.23:896][509]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.28-22.43.23:924][510]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.43.24:320][525]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-22.43.24:941][548]LogMaterialEditor: Applying material M_Metal_Clef2
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-22.43.26:408][548]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-22.43.26:409][548]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.43.26:503][548]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.28-22.43.26:641][548]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.43.26:641][548]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.43.26:700][548]LogMaterial: Display: Missing cached shader map for material M_Metal_Clef2, compiling. 
+[2018.09.28-22.43.26:823][548]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Clef2, compiling. 
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-22.43.31:047][548]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-22.43.31:048][548]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-22.43.31:048][548]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-22.43.31:048][548]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-22.43.31:048][548]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-22.43.31:052][548]TextureStreamingBuild: Display: Compiling optional shaders took 4.251 seconds.
+[2018.09.28-22.43.31:193][550]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-22.43.33:124][622]LogMaterialEditor: Saving and Compiling material M_Metal_Clef2
+[2018.09.28-22.43.36:805][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/Mesh/M_Metal_Clef2" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/M_Metal_Clef2.uasset" SILENT=true
+[2018.09.28-22.43.36:892][622]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_Metal_Clef250DE41A048ED9BC0C043D3931CC56205.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Mesh/M_Metal_Clef2.uasset'
+[2018.09.28-22.43.36:906][622]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.28-22.43.36:906][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.28-22.43.36:906][622]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.28-22.43.36:906][622]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.28-22.43.37:354][648]LogSlate: Window 'M_Metal_Clef2' being destroyed
+[2018.09.28-22.43.40:200][742]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-22.43.40:312][742]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Bp_KeyDoorEntranceC93D876B432252CB295CF4A3653C0A33.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/World/Blueprint/Bp_KeyDoorEntrance.uasset'
+[2018.09.28-22.43.46:834][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
