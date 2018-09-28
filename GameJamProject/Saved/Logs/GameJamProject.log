@@ -5786,3 +5786,936 @@ LogInit: Object subsystem initialized
 [2018.09.28-23.05.45:603][919]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
 
 
+[2018.09.28-23.17.41:550][  3]LogEditorFactories: Performing atomic reimport of [C:/Users/Donovan/Desktop/SM_Tableau_Cube.FBX]
+[2018.09.28-23.17.41:674][  3]LogFbx: Loading FBX Scene from C:/Users/Donovan/Desktop/SM_Tableau_Cube.FBX
+[2018.09.28-23.17.41:749][  3]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.17.41:989][  3]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.28-23.17.42:094][  3]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.17.42:209][  3]LogStaticMesh: Building static mesh SM_Tableau...
+[2018.09.28-23.17.42:317][  3]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/Mesh/Tableau/SM_Tableau.SM_Tableau
+[2018.09.28-23.17.45:421][  3]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.09.28-23.17.45:499][  3]LogEditorFactories: -- imported successfully
+[2018.09.28-23.17.47:470][ 88]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau.SM_Tableau
+[2018.09.28-23.17.50:652][ 88]LogRenderer: Reallocating scene render targets to support 1188x744 Format 9 NumSamples 1 (Frame:1).
+[2018.09.28-23.17.57:669][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.17.58:184][321]LogSlate: Window 'SM_Tableau*' being destroyed
+[2018.09.28-23.18.02:010][420]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.18.02:147][420]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau591441854D38A9B5350169AB2E6C8FEF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau.uasset'
+[2018.09.28-23.18.06:014][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.18.12:209][747]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-23.18.16:462][913]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-23.18.20:424][950]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Donovan/Desktop/SM_Tableau_Cube.FBX)
+[2018.09.28-23.18.20:491][950]LogFbx: Loading FBX Scene from ../../../../../../Users/Donovan/Desktop/SM_Tableau_Cube.FBX
+[2018.09.28-23.18.20:502][950]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.18.24:269][950]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.28-23.18.26:296][950]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.18.26:356][950]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.18.26:356][950]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.18.26:356][950]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.18.26:356][950]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.28-23.18.26:503][950]LogLinker: Can't find file '/Game/Assets/Mesh/Tableau/donovan-chartrain-highresscreenshot00000'
+[2018.09.28-23.18.26:504][950]LogLinker: Can't find file '/Game/Assets/Mesh/Tableau/donovan-chartrain-highresscreenshot00000'
+[2018.09.28-23.18.26:665][950]LogTexture: Display: Building textures: donovan-chartrain-highresscreenshot00000 (BGRA8, 1590X796)
+[2018.09.28-23.18.27:001][950]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.18.27:054][950]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.18.27:114][950]LogStaticMesh: Building static mesh SM_Tableau_Cube...
+[2018.09.28-23.18.27:135][950]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Mesh/Tableau/SM_Tableau_Cube.SM_Tableau_Cube
+[2018.09.28-23.18.28:010][982]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.18.30:337][ 48]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.18.30:779][ 48]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/donovan-chartrain-highresscreens8FB23DC14B2E9CE5B1015697E4C8955C.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/donovan-chartrain-highresscreenshot00000.uasset'
+[2018.09.28-23.18.34:627][ 48]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.18.34:627][ 48]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.18.34:708][ 48]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_Tableau42B3D2A74B3562AED68279964B02B856.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_Tableau.uasset'
+[2018.09.28-23.18.37:510][ 48]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau530DD025495B6C4AA9A4E88AA03F3D52.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau.uasset'
+[2018.09.28-23.18.37:606][ 48]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_Cube78244C4E479E14B5DEE8D88566A7A48D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_Cube.uasset'
+[2018.09.28-23.18.38:790][117]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_Cube.SM_Tableau_Cube
+[2018.09.28-23.18.43:278][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.18.43:789][262]LogSlate: Window 'SM_Tableau_Cube' being destroyed
+[2018.09.28-23.18.45:096][307]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Mesh/Tableau/donovan-chartrain-highresscreenshot00000.donovan-chartrain-highresscreenshot00000
+[2018.09.28-23.18.45:236][307]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.09.28-23.18.49:499][439]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Mesh/Tableau/M_TextureTableau.M_TextureTableau
+[2018.09.28-23.18.49:505][439]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.18.49:708][439]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.18.49:733][439]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.18.49:777][439]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.18.49:777][439]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.18.49:777][439]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.18.49:827][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.18.50:375][443]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.18.50:445][445]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.18.50:495][446]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.18.50:934][459]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.18.51:013][461]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.18.51:082][463]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.18.51:509][485]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.18.51:535][486]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.18.51:650][489]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.18.52:626][534]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.18.52:798][542]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.18.53:115][555]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.18.54:059][593]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.18.54:076][594]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.18.54:383][612]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.18.55:260][656]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.18.55:487][663]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.18.55:526][664]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.18.56:322][686]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.18.56:393][688]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.18.56:668][695]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.18.56:669][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.18.56:669][695]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.18.56:669][695]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.18.56:669][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.18.56:669][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.18.59:136][778]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.18.59:252][779]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.18.59:252][779]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.18.59:252][779]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.18.59:783][794]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.18.59:807][794]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.18.59:824][794]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.19.00:334][824]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.19.00:523][835]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.19.00:523][835]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.19.00:619][837]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.00:795][842]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.00:960][847]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.01:035][849]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.01:423][860]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.01:539][862]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.01:673][863]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.01:673][863]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.01:958][871]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.02:291][880]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.02:310][881]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.19.02:588][888]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.19.02:791][894]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.19.02:805][894]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.19.03:094][902]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.19.03:178][904]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.19.03:238][906]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.19.03:586][915]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.19.04:238][933]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.19.04:256][933]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.19.04:407][937]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.19.05:082][956]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.19.05:423][971]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.19.05:440][972]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.19.05:763][989]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.06:139][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.06:393][  7]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.06:821][ 29]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.06:936][ 36]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.07:123][ 47]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.19.07:210][ 50]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.07:328][ 50]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.19.07:375][ 51]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.19.07:465][ 54]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.19.07:640][ 59]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.08:145][ 73]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.08:179][ 74]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.08:299][ 77]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.08:702][ 88]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.19.08:720][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.19.08:859][ 93]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.19.09:247][104]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.19.09:279][105]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.19.09:391][108]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.19.10:135][129]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.19.10:428][137]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.19.10:457][138]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.19.11:177][160]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.19.11:338][165]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.19.11:485][166]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.11:520][166]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.11:650][170]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.19.12:370][190]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.19.12:634][195]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.12:662][195]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.12:662][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.12:665][195]LogMaterialEditor: Applying material M_TextureTableau
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.19.14:234][195]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.19.14:340][195]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.14:429][195]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.14:429][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.14:499][195]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.14:499][195]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.14:580][195]LogMaterial: Display: Missing cached shader map for material M_TextureTableau, compiling. 
+[2018.09.28-23.19.14:719][195]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau, compiling. 
+[2018.09.28-23.19.18:547][195]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-23.19.18:547][195]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.19.18:548][195]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.19.18:553][195]TextureStreamingBuild: Display: Compiling optional shaders took 3.856 seconds.
+[2018.09.28-23.19.20:092][236]LogMaterialEditor: Saving and Compiling material M_TextureTableau
+[2018.09.28-23.19.23:764][236]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau242C608D4E529785D35E7E9EA05A820B.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau.uasset'
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.19.23:778][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.19.35:935][602]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.19.36:060][602]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau_InstFCEB87FF49BACDA6192E7DBFD8255548.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau_Inst.uasset'
+[2018.09.28-23.19.36:173][602]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_Cube3FD161D44A26AD8C7AFE3DBD6021D8FA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_Cube.uasset'
+[2018.09.28-23.19.36:879][621]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Mesh/Tableau/M_TextureTableau_Inst.M_TextureTableau_Inst
+[2018.09.28-23.19.47:744][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.19.47:917][ 63]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau_Inst, compiling. 
+[2018.09.28-23.19.48:836][ 63]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.19.48:839][ 63]TextureStreamingBuild: Display: Compiling optional shaders took 0.928 seconds.
+[2018.09.28-23.19.49:061][ 63]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau_InstBA4AA0E648CA2807F7AD349A2178B058.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau_Inst.uasset'
+[2018.09.28-23.19.49:639][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.19.49:733][ 89]LogSlate: Window 'M_TextureTableau_Inst' being destroyed
+[2018.09.28-23.19.54:704][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.19.55:964][321]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Mesh/Tableau/M_Tableau.M_Tableau
+[2018.09.28-23.19.55:992][321]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.19.56:219][321]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.19.56:309][321]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.19.56:333][321]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.19.56:333][321]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.56:333][321]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.56:378][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.19.56:836][324]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.19.57:422][343]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.19.57:908][359]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.19.58:025][363]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.19.58:573][381]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.19.58:823][389]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.19.59:062][395]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.19.59:244][401]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.19.59:505][410]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.20.00:995][454]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.20.01:184][459]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.20.01:215][459]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.01:287][459]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.20.01:287][459]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.02:432][494]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.20.02:493][496]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.02:886][509]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.03:166][518]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.03:373][522]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.03:373][522]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.03:470][522]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.03:498][522]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.20.03:522][522]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.03:561][522]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.03:659][522]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.03:740][522]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.20.03:740][522]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.20.03:740][522]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.04:428][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.04:496][542]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.04:575][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.20.04:644][542]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.04:672][542]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.28-23.20.04:912][550]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.20.04:912][550]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.20.04:912][550]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.05:931][582]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.05:997][584]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.06:182][590]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.06:929][614]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.06:958][615]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.06:959][615]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.20.07:065][617]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.07:545][630]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.07:634][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.07:635][633]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.08:522][662]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.08:586][663]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.08:586][663]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.09:216][686]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.20.09:216][686]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.20.09:268][688]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.20.09:695][702]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.09:723][702]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.09:791][703]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.09:842][704]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.10:720][735]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.10:749][736]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.10:888][741]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.11:284][749]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.11:312][749]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.11:312][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.11:394][750]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.12:342][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.12:415][784]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.12:416][784]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.12:913][801]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.13:071][805]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.13:098][806]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.13:099][806]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.14:096][840]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.14:096][840]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.14:096][840]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.14:789][864]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.20.14:821][864]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.14:842][864]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.14:892][864]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.14:920][864]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.15:406][880]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.15:613][887]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.15:681][887]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.15:712][887]LogMaterialEditor: Applying material M_Tableau
+[2018.09.28-23.20.17:195][887]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.20.17:196][887]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.20.17:275][887]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.17:354][887]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.20.17:354][887]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.20.17:354][887]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.20.17:379][887]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.17:451][887]LogMaterial: Display: Missing cached shader map for material M_Tableau, compiling. 
+[2018.09.28-23.20.17:642][887]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tableau, compiling. 
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-23.20.21:359][887]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.20.21:360][887]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.20.21:363][887]TextureStreamingBuild: Display: Compiling optional shaders took 3.757 seconds.
+[2018.09.28-23.20.23:257][947]LogMaterialEditor: Saving and Compiling material M_Tableau
+[2018.09.28-23.20.27:090][947]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TableauCC70B3ED4ACC58152D2CDFA2F5224E01.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_Tableau.uasset'
+[2018.09.28-23.20.27:105][947]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.09.28-23.20.27:105][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 167 instructions
+[2018.09.28-23.20.27:105][947]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.28-23.20.27:105][947]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.28-23.20.28:116][998]LogSlate: Window 'M_Tableau' being destroyed
+[2018.09.28-23.20.30:638][129]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_Cube.SM_Tableau_Cube
+[2018.09.28-23.20.37:700][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.20.41:101][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.20.44:334][710]LogActorFactory: Actor Factory created SM_Tableau_Cube
+[2018.09.28-23.20.45:192][740]LogActorFactory: Actor Factory created SM_Tableau_Cube
+[2018.09.28-23.20.48:706][902]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Tableau_Cube2)
+[2018.09.28-23.20.48:753][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-23.20.53:815][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_Cube)
+[2018.09.28-23.20.54:853][182]Cmd: DELETE
+[2018.09.28-23.20.54:853][182]Cmd: ACTOR DELETE
+[2018.09.28-23.20.55:322][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.28-23.20.55:368][182]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2018.09.28-23.20.55:726][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_Cube2)
+[2018.09.28-23.21.04:630][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.21.06:809][673]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.21.19:776][673]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/HospitalF3358BC74F4A2228BDD87EAE7EB456D5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-23.21.19:964][673]LogFileHelpers: Saving map 'Hospital' took 13.100
+[2018.09.28-23.21.32:766][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.21.35:140][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.21.37:603][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.28-23.21.43:232][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.21.45:434][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.28-23.21.49:994][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.27.25:916][607]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Donovan/Desktop/SM_Tableau_2_Cube.FBX)
+[2018.09.28-23.27.25:933][607]LogFbx: Loading FBX Scene from ../../../../../../Users/Donovan/Desktop/SM_Tableau_2_Cube.FBX
+[2018.09.28-23.27.25:944][607]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.27.27:113][607]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.28-23.27.27:195][607]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.28-23.27.27:209][607]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.27.27:294][607]LogStaticMesh: Building static mesh SM_Tableau_2_Cube...
+[2018.09.28-23.27.27:307][607]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Mesh/Tableau/SM_Tableau_2_Cube.SM_Tableau_2_Cube
+[2018.09.28-23.27.29:532][710]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_2_Cube.SM_Tableau_2_Cube
+[2018.09.28-23.27.32:285][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.27.32:362][796]LogSlate: Window 'SM_Tableau_2_Cube*' being destroyed
+[2018.09.28-23.28.06:203][112]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-23.28.09:633][193]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Donovan/Desktop/SM_Tableau_2_Cube.FBX)
+[2018.09.28-23.28.09:650][193]LogFbx: Loading FBX Scene from ../../../../../../Users/Donovan/Desktop/SM_Tableau_2_Cube.FBX
+[2018.09.28-23.28.09:661][193]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.28.10:934][193]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.28-23.28.11:052][193]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.28-23.28.11:108][193]LogLinker: Can't find file '/Game/Assets/Mesh/Tableau/CroppedFocusedImageWzkyMCw1MTcuNSwieSIsOTJd-WWF-baleine-walvis-gallery2'
+[2018.09.28-23.28.11:108][193]LogLinker: Can't find file '/Game/Assets/Mesh/Tableau/CroppedFocusedImageWzkyMCw1MTcuNSwieSIsOTJd-WWF-baleine-walvis-gallery2'
+[2018.09.28-23.28.11:217][193]LogTexture: Display: Building textures: CroppedFocusedImageWzkyMCw1MTcuNSwieSIsOTJd-WWF-baleine-walvis-gallery2 (BGRA8, 920X517)
+[2018.09.28-23.28.11:321][193]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.11:361][193]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.28.11:361][193]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.28.11:361][193]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.28.11:361][193]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.28.11:466][193]LogStaticMesh: Building static mesh SM_Tableau_2_Cube...
+[2018.09.28-23.28.11:476][193]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Mesh/Tableau/SM_Tableau_2_Cube.SM_Tableau_2_Cube
+[2018.09.28-23.28.15:899][357]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.28.16:119][357]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/CroppedFocusedImageWzkyMCw1MTcuN029B1B784E289396700D10973FA03728.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/CroppedFocusedImageWzkyMCw1MTcuNSwieSIsOTJd-WWF-baleine-walvis-gallery2.uasset'
+[2018.09.28-23.28.20:365][357]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau20B8EE80C4F467D9BEFBBF1812BD30C5F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2.uasset'
+[2018.09.28-23.28.20:420][357]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_2_Cube88A8B62348C4B2E2F00C798B4DCA5CC9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_2_Cube.uasset'
+[2018.09.28-23.28.33:257][357]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital87D243074F9DE8D706CE74AB1705FC03.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-23.28.33:357][357]LogFileHelpers: Saving map 'Hospital' took 12.927
+[2018.09.28-23.28.34:639][432]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_2_Cube.SM_Tableau_2_Cube
+[2018.09.28-23.28.38:839][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.28.39:054][571]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Mesh/Tableau/M_TextureTableau2.M_TextureTableau2
+[2018.09.28-23.28.39:149][571]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.39:398][571]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.39:450][571]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.39:480][571]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.28.39:480][571]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.28.39:480][571]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.28.39:534][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.28.39:989][573]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.28.40:659][595]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.28.41:130][614]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.28.41:431][623]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.28.41:463][624]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.28.41:913][639]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.28.42:106][647]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.28.42:140][648]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.28.42:567][663]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.28.43:769][714]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.28.43:976][723]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.28.44:202][734]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.28.45:125][770]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.28.45:270][774]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.28.45:807][791]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.28.46:600][814]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.28.46:724][818]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.28.47:232][834]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.28.47:399][837]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.48:012][861]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.28.48:117][865]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.28.48:368][873]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.28.49:107][896]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.28.49:336][902]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.28.49:367][902]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.28.49:939][925]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.28.50:169][935]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.28.50:278][940]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.28.50:690][954]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.28.50:836][957]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.28.50:953][961]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.28.51:254][973]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.28.51:541][983]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.28.52:423][  9]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.28.52:500][ 11]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.28.52:868][ 22]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.28.53:961][ 66]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.28.54:007][ 67]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.28.54:323][ 77]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.28.55:167][103]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.28.55:549][115]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.28.55:646][118]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.28.56:880][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.28.58:075][198]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.28.58:110][198]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.28.58:110][198]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.28.58:110][198]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.28.58:160][198]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.28.59:007][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.28.59:007][227]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.28.59:007][227]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.28.59:718][249]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.28.59:748][250]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.28.59:748][250]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.00:391][273]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.00:546][276]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.29.00:546][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.29.00:546][276]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.01:432][300]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.01:532][303]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.01:904][317]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.02:420][335]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.02:445][335]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.02:445][335]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.02:475][335]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.29.02:495][335]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.03:194][353]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.03:246][355]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.03:271][356]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.29.03:985][387]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.29.04:009][388]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.29.04:030][389]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.04:598][411]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.04:669][411]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.29.04:670][411]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.29.04:670][411]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.04:744][411]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.29.04:811][411]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.29.04:901][411]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.04:929][411]LogMaterial: Warning: /Engine/Transient.M_TextureTableau2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.28-23.29.04:929][411]LogMaterial: 	(Node TextureSample) Coercion failed: Material.VectorExpressions[3].rgb: float3 -> float2
+[2018.09.28-23.29.05:022][411]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.29.05:052][411]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.29.05:068][411]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: Material.VectorExpressions[3].rgb: float3 -> float2
+[2018.09.28-23.29.05:276][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.29.05:520][423]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.29.17:360][822]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.17:387][822]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.17:387][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.17:387][822]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.17:416][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.29.17:487][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.29.18:169][841]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.29.18:244][843]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.18:244][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.18:861][861]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.18:861][861]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.29.19:059][867]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.29.19:334][875]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.29.19:543][881]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.19:643][884]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.20:542][913]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.29.20:839][919]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.29.20:840][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.28-23.29.20:896][920]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.29.21:743][946]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.29.21:982][953]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.29.22:462][970]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.29.23:376][  4]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.29.23:475][  8]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.29.23:688][ 17]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.29.24:706][ 48]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.29.24:742][ 49]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.29.24:984][ 56]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.29.25:028][ 57]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.09.28-23.29.25:028][ 57]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.09.28-23.29.25:028][ 57]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.28-23.29.25:028][ 57]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.29.25:028][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.29.25:651][ 76]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.29.36:608][451]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.36:642][451]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.36:642][451]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.36:642][451]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.36:682][451]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.29.37:510][474]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.37:515][474]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.37:543][475]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.29.38:189][494]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.29.38:230][495]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.29.38:259][496]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.38:861][514]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.38:892][515]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.29.38:987][518]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.29.39:906][548]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.29.40:333][558]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.29.40:484][563]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.29.41:161][584]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.29.41:456][593]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.29.41:883][606]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.29.42:792][633]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.29.42:801][633]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.29.43:140][644]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.29.44:100][671]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.29.44:230][676]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.29.44:340][678]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.09.28-23.29.44:340][678]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.09.28-23.29.44:341][678]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.29.44:341][678]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.29.44:341][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.29.44:341][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.29.52:598][941]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.52:684][942]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.52:684][942]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.52:684][942]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.53:479][966]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.29.53:512][967]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.29.53:513][967]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.29.54:155][989]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.54:229][991]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.54:257][993]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.29.54:666][  8]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.29.54:722][  8]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.29.54:742][  8]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.29.54:754][  8]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.29.54:777][  9]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.29.55:674][ 41]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.29.55:699][ 42]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.29.55:768][ 45]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.29.56:432][ 74]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.29.56:432][ 74]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.29.56:432][ 74]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.29.57:000][ 98]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.29.57:101][101]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.29.57:157][103]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.29.58:067][136]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.29.58:444][147]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.29.58:544][150]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.29.59:427][177]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.29.59:547][182]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.30.00:128][203]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.30.01:148][235]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.30.01:408][243]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.30.01:630][250]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.30.02:688][283]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.30.02:814][287]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.30.03:358][297]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.03:385][297]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.30.03:385][297]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.30.03:530][300]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.30.04:264][322]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.30.04:338][324]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.30.04:428][326]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.30.05:013][350]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.30.05:168][357]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.30.05:191][358]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.30.05:353][362]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.05:847][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.30.05:874][378]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.30.05:874][378]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.30.06:745][392]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.06:858][393]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.30.06:858][393]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.30.06:858][393]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.30.07:622][416]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.30.07:649][417]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.30.07:761][420]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.30.08:292][436]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.30.08:327][437]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.30.08:395][439]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.30.08:767][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.30.08:981][456]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.30.08:981][456]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.30.09:907][483]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.30.10:380][502]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.30.10:562][510]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.30.11:581][543]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.30.11:629][545]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.30.12:078][564]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.30.12:159][566]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.13:111][602]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.30.13:494][617]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.30.13:503][617]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.30.14:135][638]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.30.14:389][649]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.30.14:389][649]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.30.14:888][670]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.30.15:220][680]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.30.15:220][680]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.30.15:534][689]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.30.15:767][696]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.30.15:869][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.30.16:791][730]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.30.17:204][747]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.30.17:392][753]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.30.18:394][783]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.30.18:394][783]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.30.18:819][800]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.30.19:796][831]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.30.20:068][840]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.30.20:161][844]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.30.21:444][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.30.22:111][913]LogMaterialEditor: Applying material M_TextureTableau2
+[2018.09.28-23.30.29:476][913]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.29:545][913]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.30.29:545][913]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.30.29:545][913]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.30.29:587][913]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.29:665][913]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.30.29:824][913]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2, compiling. 
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.30.33:696][913]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.30.33:697][913]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.30.33:701][913]TextureStreamingBuild: Display: Compiling optional shaders took 3.890 seconds.
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.30.41:238][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.30.42:161][163]LogMaterialEditor: Saving and Compiling material M_TextureTableau2
+[2018.09.28-23.30.42:304][163]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau23101343848C9842F210504A0571B6F7C.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2.uasset'
+[2018.09.28-23.30.44:834][248]LogSlate: Window 'SM_Tableau_2_Cube' being destroyed
+[2018.09.28-23.30.54:835][572]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.30.54:913][572]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_InstA1A33A9B41A55126F1C01186D21D2F86.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst.uasset'
+[2018.09.28-23.30.55:030][572]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_2_Cube31A9EA8B46C526BA77661EBBC0ED98EA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_2_Cube.uasset'
+[2018.09.28-23.30.59:240][701]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Mesh/Tableau/M_TextureTableau2_Inst.M_TextureTableau2_Inst
+[2018.09.28-23.31.14:267][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.31.26:124][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.31.41:272][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.31.41:473][231]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2_Inst, compiling. 
+[2018.09.28-23.31.42:109][231]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.31.42:111][231]TextureStreamingBuild: Display: Compiling optional shaders took 0.643 seconds.
+[2018.09.28-23.31.42:246][231]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_Inst93C927F0447A4095684ABFB05F0D4740.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst.uasset'
+[2018.09.28-23.31.43:958][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.31.44:052][301]LogSlate: Window 'M_TextureTableau2_Inst' being destroyed
+[2018.09.28-23.31.45:301][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.31.45:493][352]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_2_CubeE5FBB50F4239801FAAE663AD29FA4059.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_2_Cube.uasset'
+[2018.09.28-23.31.49:151][541]LogActorFactory: Actor Factory created SM_Tableau_2_Cube
+[2018.09.28-23.31.50:726][611]LogActorFactory: Actor Factory created SM_Tableau_2_Cube
+[2018.09.28-23.31.58:041][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.32.07:632][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_2_Cube)
+[2018.09.28-23.32.08:469][356]Cmd: DELETE
+[2018.09.28-23.32.08:469][356]Cmd: ACTOR DELETE
+[2018.09.28-23.32.08:527][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.28-23.32.08:573][356]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2018.09.28-23.32.09:330][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_2_Cube3)
+[2018.09.28-23.32.13:702][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.32.29:971][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_Cube2)
+[2018.09.28-23.32.36:994][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.32.38:697][672]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.32.40:983][672]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/HospitalD1B44F4249D732D763E939AC714FC6D9.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-23.32.41:084][672]LogFileHelpers: Saving map 'Hospital' took 2.360
+[2018.09.28-23.32.42:353][742]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Mesh/Tableau/M_TextureTableau2.M_TextureTableau2
+[2018.09.28-23.32.42:392][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.42:675][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.42:729][742]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.42:768][742]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.42:768][742]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.32.42:768][742]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.32.42:820][742]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.28-23.32.44:243][776]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.32.44:276][777]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.32.45:165][806]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.32.45:194][807]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.32.45:372][813]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.32.45:938][832]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.32.45:968][833]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.32.45:996][834]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.32.46:201][839]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.46:235][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.09.28-23.32.46:269][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.09.28-23.32.46:382][839]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.46:383][839]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.28-23.32.46:384][839]LogMaterial: 	Cannot force a cast between non-numeric types.
+[2018.09.28-23.32.46:438][839]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.09.28-23.32.46:453][839]MaterialEditorStats: Error: [SM5] Cannot force a cast between non-numeric types.
+[2018.09.28-23.32.46:548][840]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.32.47:710][878]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.32.47:710][878]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.32.47:883][884]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.32.48:772][913]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.48:773][913]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.28-23.32.48:773][913]LogMaterial: 	Cannot force a cast between non-numeric types.
+[2018.09.28-23.32.48:833][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.28-23.32.48:869][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.28-23.32.48:887][913]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.32.48:887][913]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.32.48:951][913]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.48:979][913]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.49:015][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.28-23.32.49:766][934]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.32.50:023][942]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.50:024][942]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.32.50:721][960]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.32.50:721][960]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.32.50:721][960]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.50:747][960]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.50:797][960]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.28-23.32.51:550][983]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.32.51:581][984]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.51:638][986]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.32.52:350][ 10]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.32.52:382][ 11]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.32.52:543][ 14]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.32.52:543][ 14]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.52:631][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.28-23.32.52:688][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.28-23.32.52:765][ 14]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.32.52:874][ 14]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.32.52:875][ 14]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.52:875][ 14]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.28-23.32.53:454][ 28]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.32.53:738][ 38]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.32.53:771][ 39]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.32.54:589][ 67]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.32.54:589][ 67]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.32.54:672][ 70]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.32.55:331][ 93]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.32.55:386][ 95]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.28-23.32.55:441][ 97]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.28-23.32.55:917][114]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.28-23.32.56:233][125]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.32.57:146][156]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.28-23.32.57:350][163]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.28-23.32.57:783][178]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.28-23.32.58:826][213]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.28-23.32.58:888][215]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.28-23.32.59:271][228]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.28-23.33.00:489][267]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.28-23.33.00:875][280]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.28-23.33.00:936][282]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.28-23.33.02:008][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.33.02:008][318]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.33.02:645][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.33.04:882][445]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.33.04:927][445]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.33.04:927][445]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.33.04:927][445]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.33.04:927][445]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.28-23.33.04:964][445]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.33.05:824][472]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.33.05:824][472]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.33.05:938][476]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.33.06:009][476]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.33.06:040][476]LogMaterialEditor: Applying material M_TextureTableau2
+[2018.09.28-23.33.07:536][476]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.33.07:536][476]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.33.07:536][476]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.33.07:536][476]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.28-23.33.07:536][476]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.28-23.33.07:537][476]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.28-23.33.07:800][476]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.28-23.33.07:870][476]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.28-23.33.07:871][476]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.28-23.33.07:871][476]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.28-23.33.08:003][476]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.33.08:092][476]LogMaterial: Display: Missing cached shader map for material M_TextureTableau2, compiling. 
+[2018.09.28-23.33.08:272][476]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2, compiling. 
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.28-23.33.12:177][476]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.28-23.33.12:178][476]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.28-23.33.12:182][476]TextureStreamingBuild: Display: Compiling optional shaders took 3.968 seconds.
+[2018.09.28-23.33.13:769][526]LogMaterialEditor: Saving and Compiling material M_TextureTableau2
+[2018.09.28-23.33.17:878][526]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2E4F0CD1D41DC42D04537849295214D21.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2.uasset'
+[2018.09.28-23.33.17:891][526]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.09.28-23.33.17:892][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.09.28-23.33.17:892][526]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.28-23.33.17:892][526]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.28-23.33.17:892][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.28-23.33.17:892][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.28-23.33.18:776][570]LogSlate: Window 'M_TextureTableau2' being destroyed
+[2018.09.28-23.33.26:158][901]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.33.26:235][901]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_Inst1F828C6634B34B59E9C62A6B314A373EA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst1.uasset'
+[2018.09.28-23.35.06:431][492]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Donovan/Desktop/SM_Tableau_3_Cube.FBX)
+[2018.09.28-23.35.06:449][492]LogFbx: Loading FBX Scene from ../../../../../../Users/Donovan/Desktop/SM_Tableau_3_Cube.FBX
+[2018.09.28-23.35.06:459][492]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.35.07:728][492]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.28-23.35.07:788][492]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.35.07:907][492]LogStaticMesh: Building static mesh SM_Tableau_3_Cube...
+[2018.09.28-23.35.07:909][492]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Mesh/Tableau/SM_Tableau_3_Cube.SM_Tableau_3_Cube
+[2018.09.28-23.35.09:623][569]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_3_Cube.SM_Tableau_3_Cube
+[2018.09.28-23.35.13:090][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.35.13:607][698]LogSlate: Window 'SM_Tableau_3_Cube*' being destroyed
+[2018.09.28-23.35.17:347][793]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.28-23.35.30:614][880]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Donovan/Desktop/SM_Tableau_3_Cube.FBX)
+[2018.09.28-23.35.30:631][880]LogFbx: Loading FBX Scene from ../../../../../../Users/Donovan/Desktop/SM_Tableau_3_Cube.FBX
+[2018.09.28-23.35.30:644][880]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.28-23.35.31:943][880]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.28-23.35.32:076][880]LogFbx: Warning: Triangulating static mesh Cube
+[2018.09.28-23.35.32:089][880]LogFbx: Warning: Triangulating static mesh Object001
+[2018.09.28-23.35.32:155][880]LogStaticMesh: Building static mesh SM_Tableau_3_Cube...
+[2018.09.28-23.35.32:168][880]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Mesh/Tableau/SM_Tableau_3_Cube.SM_Tableau_3_Cube
+[2018.09.28-23.35.33:881][950]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Tableau/SM_Tableau_3_Cube.SM_Tableau_3_Cube
+[2018.09.28-23.35.35:814][991]LogSlate: Window 'SM_Tableau_3_Cube*' being destroyed
+[2018.09.28-23.35.43:072][225]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Mesh/Tableau/M_TextureTableau2_Inst1.M_TextureTableau2_Inst1
+[2018.09.28-23.35.48:001][362]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.35.48:116][362]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2_Inst1, compiling. 
+[2018.09.28-23.35.48:918][362]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.35.48:921][362]TextureStreamingBuild: Display: Compiling optional shaders took 0.813 seconds.
+[2018.09.28-23.35.49:064][362]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_Inst136EFE8594B99CD4C3D9F1E995A387FD6.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst1.uasset'
+[2018.09.28-23.35.49:123][362]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/SM_Tableau_3_CubeE17421254ADD0EE62F7F13AC6368D343.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/SM_Tableau_3_Cube.uasset'
+[2018.09.28-23.37.10:767][674]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/Desktop/Clein_Doeil.png)
+[2018.09.28-23.37.10:877][674]LogTexture: Display: Building textures: Clein_Doeil (AutoDXT, 716X436)
+[2018.09.28-23.37.27:518][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.37.31:860][517]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2_Inst1, compiling. 
+[2018.09.28-23.37.32:606][517]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.37.32:608][517]TextureStreamingBuild: Display: Compiling optional shaders took 0.753 seconds.
+[2018.09.28-23.37.32:717][517]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_Inst18CEBB238470B955166BF8BA0F8654700.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst1.uasset'
+[2018.09.28-23.37.36:088][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.14:183][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.27:079][827]LogEditorTransaction: Undo Edit Size
+[2018.09.28-23.38.36:937][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.37:124][172]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TextureTableau2_Inst1, compiling. 
+[2018.09.28-23.38.37:738][172]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.28-23.38.37:740][172]TextureStreamingBuild: Display: Compiling optional shaders took 0.623 seconds.
+[2018.09.28-23.38.37:848][172]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_TextureTableau2_Inst170096CE349955FE383C6D8B66C3B2111.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/M_TextureTableau2_Inst1.uasset'
+[2018.09.28-23.38.38:494][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.38:570][200]LogSlate: Window 'M_TextureTableau2_Inst1' being destroyed
+[2018.09.28-23.38.39:791][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.44:370][494]LogActorFactory: Actor Factory created SM_Tableau_3_Cube
+[2018.09.28-23.38.45:295][524]LogActorFactory: Actor Factory created SM_Tableau_3_Cube
+[2018.09.28-23.38.46:162][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.28-23.38.59:697][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_2_Cube2)
+[2018.09.28-23.39.00:756][179]Cmd: DELETE
+[2018.09.28-23.39.00:756][179]Cmd: ACTOR DELETE
+[2018.09.28-23.39.00:800][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.28-23.39.00:846][179]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2018.09.28-23.39.01:374][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tableau_3_Cube)
+[2018.09.28-23.39.33:758][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.28-23.39.36:303][801]LogSlate: Window 'Save Content' being destroyed
+[2018.09.28-23.39.36:377][801]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Clein_DoeilD3223FCB4C007D033E9638BC92593BD4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/Mesh/Tableau/Clein_Doeil.uasset'
+[2018.09.28-23.39.38:655][801]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital4D9DE2D2492D49625A06FE98FBE3E8C3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.28-23.39.38:757][801]LogFileHelpers: Saving map 'Hospital' took 2.370
+[2018.09.28-23.43.05:400][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
