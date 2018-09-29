@@ -3367,3 +3367,737 @@ LogInit: Object subsystem initialized
 [2018.09.29-14.55.34:156][595]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
 [2018.09.29-14.55.44:831][ 18]LogSlate: Window 'Delete Assets' being destroyed
 [2018.09.29-14.55.50:435][ 18]LogSlate: Window 'AnimBpMutant9' being destroyed
+[2018.09.29-14.57.25:088][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.25:684][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.26:093][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.26:680][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.27:077][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.27:722][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.28:130][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.28:698][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.29:123][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_173:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.29:752][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_173:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.30:147][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.31:154][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.31:738][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.32:523][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.33:099][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.33:784][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.34:331][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.35:281][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.35:711][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.37:047][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.38:294][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.38:891][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.39:371][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-14.57.40:013][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-14.57.41:132][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-14.57.41:460][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-14.58.21:585][253]BlueprintLog: New page: Compile AnimBpMutant8
+[2018.09.29-14.58.21:621][253]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_116:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.21:622][253]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:103][255]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:130][256]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:158][257]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:187][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:213][259]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:239][260]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:265][261]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:291][262]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:317][263]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:342][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:369][265]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:397][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:425][267]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:451][268]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:477][269]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_194:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant8_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-14.58.22:746][270]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant82C263C5B4417690A516BE2B79D5D9ADA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant8.uasset'
+[2018.09.29-14.58.24:695][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-14.58.57:506][446]BlueprintLog: New page: Compile AnimBpMutant7
+[2018.09.29-14.58.57:543][446]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_115:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.57:544][446]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:016][448]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:042][449]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:069][450]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:095][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:121][452]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:147][453]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:172][454]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:198][455]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:223][456]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:249][457]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:273][458]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:299][459]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:511][460]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant7E8D4DE3D45B933BF053444B2D4873029.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant7.uasset'
+[2018.09.29-14.58.58:528][460]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:558][461]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.58.58:589][462]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_191:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant7_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-14.59.00:470][504]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-14.59.32:098][628]BlueprintLog: New page: Compile AnimBpMutant6
+[2018.09.29-14.59.32:134][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_111:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:135][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:652][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:676][631]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:702][632]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:726][633]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:752][634]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:777][635]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:803][636]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:828][637]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:854][638]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:877][639]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:902][640]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.32:927][641]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.33:190][642]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant6EA235CC6427A2238AF46DE86BA5C83ED.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant6.uasset'
+[2018.09.29-14.59.33:251][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.33:278][645]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.33:303][646]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_188:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant6_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-14.59.35:032][683]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.00.07:369][871]BlueprintLog: New page: Compile AnimBpMutant5
+[2018.09.29-15.00.07:406][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_110:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:407][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:892][873]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:917][874]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:944][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:969][876]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.07:994][877]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:021][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:046][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:068][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:092][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:116][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:143][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:167][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:192][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:218][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:243][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_185:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant5_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.00.08:743][897]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant572728DD04C058AE2E2518C92E5EAFD1A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant5.uasset'
+[2018.09.29-15.00.10:454][938]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.00.49:529][398]BlueprintLog: New page: Compile AnimBpMutant4
+[2018.09.29-15.00.49:565][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_109:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.49:565][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:019][400]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:042][401]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:068][402]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:096][403]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:118][404]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:144][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:170][406]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:195][407]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:219][408]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:244][409]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:267][410]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:291][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:315][412]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:340][413]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.50:364][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_182:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant4_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.00.51:392][446]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant4182994C44CDA19A8721D81B07545409B.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant4.uasset'
+[2018.09.29-15.00.52:890][476]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.01.30:081][878]BlueprintLog: New page: Compile AnimBpMutant3
+[2018.09.29-15.01.30:119][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_108:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:120][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:603][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:627][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:654][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:678][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:704][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:728][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:754][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:779][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:804][888]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:829][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:853][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:887][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:916][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:940][893]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.30:964][894]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_179:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant3_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.01.31:361][899]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant35664C08B44D00DB9FDC877917D929207.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant3.uasset'
+[2018.09.29-15.01.33:255][942]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.02.17:140][595]BlueprintLog: New page: Compile AnimBpMutant2
+[2018.09.29-15.02.17:179][595]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_107:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:180][595]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:639][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:661][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:685][599]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:708][600]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:732][601]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:757][602]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:781][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:806][604]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:828][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:855][606]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:880][607]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:904][608]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:925][609]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:949][610]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.17:974][611]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant2_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.02.18:473][622]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant2DED89080458A2073D7A0749698D50ADC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant2.uasset'
+[2018.09.29-15.02.19:854][648]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.02.58:850][183]BlueprintLog: New page: Compile AnimBpMutant11
+[2018.09.29-15.02.58:887][183]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant11_C /Engine/Transient.World_119:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant11_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant11.AnimBpMutant11_C:ExecuteUbergraph_AnimBpMutant11:00FE
+[2018.09.29-15.02.59:853][193]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant11BB43344F43B8E05EE0BC8D807EB69516.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant11.uasset'
+[2018.09.29-15.03.01:409][227]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.03.31:536][395]BlueprintLog: New page: Compile AnimBpMutant10
+[2018.09.29-15.03.31:577][395]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_118:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.31:578][395]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:094][397]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:118][398]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:142][399]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:166][400]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:189][401]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:214][402]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:240][403]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:267][404]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:294][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:317][406]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:342][407]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:766][408]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant1090FCE22E4B25B30E73BCAF98F5BA61B5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant10.uasset'
+[2018.09.29-15.03.32:826][410]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:851][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:874][412]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.32:898][413]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_170:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant10_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.03.36:340][523]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.04.06:167][685]BlueprintLog: New page: Compile AnimBpMutant1
+[2018.09.29-15.04.06:209][685]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:210][685]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:711][687]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:734][688]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:755][689]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:778][690]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:802][691]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:828][692]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:853][693]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:877][694]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:901][695]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:925][696]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:949][697]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:974][698]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.06:997][699]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.07:021][700]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.07:346][701]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant1427B0362483BF4E6AEA5BE9604CA9B73.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant1.uasset'
+[2018.09.29-15.04.07:399][703]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_167:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant1_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.04.08:836][734]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.04.44:056][133]BlueprintLog: New page: Compile AnimBpMutant9
+[2018.09.29-15.04.44:097][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_117:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:097][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:566][135]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:588][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:607][137]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:632][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:656][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:682][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:707][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:729][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:754][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:779][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:802][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.44:827][146]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.45:106][147]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant9095BEAA9495434A50F70B99ACC97EE1B.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant9.uasset'
+[2018.09.29-15.04.45:153][149]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.45:177][150]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.45:196][151]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_161:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant9_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.04.45:445][161]LogSlate: Window 'AnimBpMutant9' being destroyed
+[2018.09.29-15.04.58:612][869]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1
+[2018.09.29-15.04.58:634][869]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_197:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.29-15.04.59:256][869]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_197:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.29-15.04.59:931][869]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.29-15.05.06:277][193]LogSlate: Window 'AnimBpMutant1' being destroyed
+[2018.09.29-15.05.48:076][604]BlueprintLog: New page: Compile AnimBpMutant
+[2018.09.29-15.05.48:121][604]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:124][604]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_105:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:553][606]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:569][607]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:584][608]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:601][609]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:617][610]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:634][611]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:650][612]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:667][613]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:684][614]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:701][615]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:717][616]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:734][617]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:750][618]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:767][619]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.48:784][620]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_164:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AnimBpMutant_C_1
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.05.49:221][634]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutantA7DE506C496F883510A18CB3E23ADC05.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant.uasset'
+[2018.09.29-15.06.45:045][836]BlueprintLog: New page: Compile AnimBpMutant1
+[2018.09.29-15.06.45:080][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant1_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.06.46:298][853]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AnimBpMutant116F5CB5743D6ED4D665D1DAF6955AE78.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Mutant/Anim/AnimBpMutant1.uasset'
+[2018.09.29-15.07.12:070][703]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.07.17:698][888]BlueprintLog: New page: Compile AI2_BP9
+[2018.09.29-15.07.18:365][888]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant9_C /Engine/Transient.World_117:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant9_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant9.AnimBpMutant9_C:ExecuteUbergraph_AnimBpMutant9:00FE
+[2018.09.29-15.07.19:531][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP9" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP9.uasset" SILENT=true
+[2018.09.29-15.07.19:784][903]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP9A373616C4DE7E0494FF100AAA2FFDCFC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP9.uasset'
+[2018.09.29-15.07.23:807][ 19]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.07.26:127][ 90]BlueprintLog: New page: Compile AI2_BP8
+[2018.09.29-15.07.26:797][ 90]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant8_C /Engine/Transient.World_116:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant8_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant8.AnimBpMutant8_C:ExecuteUbergraph_AnimBpMutant8:00FE
+[2018.09.29-15.07.27:828][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP8" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP8.uasset" SILENT=true
+[2018.09.29-15.07.28:056][102]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP87ACA0F094685DC5AA6E0AF88A7E8B6B7.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP8.uasset'
+[2018.09.29-15.07.28:882][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.07.32:432][229]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.07.35:758][336]BlueprintLog: New page: Compile AI2_BP7
+[2018.09.29-15.07.36:423][336]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant7_C /Engine/Transient.World_115:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant7_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant7.AnimBpMutant7_C:ExecuteUbergraph_AnimBpMutant7:00FE
+[2018.09.29-15.07.37:264][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP7" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP7.uasset" SILENT=true
+[2018.09.29-15.07.37:463][341]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP72A32B94543720F9B3CF6BDB4A5658584.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP7.uasset'
+[2018.09.29-15.07.38:446][376]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.07.41:127][445]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.07.43:319][512]BlueprintLog: New page: Compile AI2_BP6
+[2018.09.29-15.07.43:987][512]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant6_C /Engine/Transient.World_111:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant6_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant6.AnimBpMutant6_C:ExecuteUbergraph_AnimBpMutant6:00FE
+[2018.09.29-15.07.45:014][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP6" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP6.uasset" SILENT=true
+[2018.09.29-15.07.45:278][524]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP6D79FF565461B71E77E7885A614343778.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP6.uasset'
+[2018.09.29-15.07.46:385][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.07.48:961][630]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.07.58:761][954]BlueprintLog: New page: Compile AI2_BP5
+[2018.09.29-15.07.59:427][954]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant5_C /Engine/Transient.World_110:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant5_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant5.AnimBpMutant5_C:ExecuteUbergraph_AnimBpMutant5:00FE
+[2018.09.29-15.08.00:538][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP5" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP5.uasset" SILENT=true
+[2018.09.29-15.08.00:763][969]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP550931BE143F17A49CDFC82A55F8D8A71.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP5.uasset'
+[2018.09.29-15.08.01:797][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.06:214][135]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.10:984][294]BlueprintLog: New page: Compile AI2_BP4
+[2018.09.29-15.08.11:653][294]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant4_C /Engine/Transient.World_109:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant4_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant4.AnimBpMutant4_C:ExecuteUbergraph_AnimBpMutant4:00FE
+[2018.09.29-15.08.12:699][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP4" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP4.uasset" SILENT=true
+[2018.09.29-15.08.12:901][307]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP41F3789EB4DC5CB06C5AD0DA159366DE4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP4.uasset'
+[2018.09.29-15.08.13:883][343]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.16:254][404]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.18:731][483]BlueprintLog: New page: Compile AI2_BP3
+[2018.09.29-15.08.19:397][483]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant3_C /Engine/Transient.World_108:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant3_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant3.AnimBpMutant3_C:ExecuteUbergraph_AnimBpMutant3:00FE
+[2018.09.29-15.08.20:292][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP3" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP3.uasset" SILENT=true
+[2018.09.29-15.08.20:502][490]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP3F6AD1F1A4BE2C9725E042C9A86F8C2A5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP3.uasset'
+[2018.09.29-15.08.21:368][522]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.24:364][604]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.28:719][748]BlueprintLog: New page: Compile AI2_BP2
+[2018.09.29-15.08.29:392][748]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant2_C /Engine/Transient.World_107:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant2_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant2.AnimBpMutant2_C:ExecuteUbergraph_AnimBpMutant2:00FE
+[2018.09.29-15.08.30:294][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP2" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP2.uasset" SILENT=true
+[2018.09.29-15.08.30:482][756]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP296EF439046ED6E1D687B718EDCD589FC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP2.uasset'
+[2018.09.29-15.08.31:093][778]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.33:197][830]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.35:993][920]BlueprintLog: New page: Compile AI2_BP11
+[2018.09.29-15.08.36:665][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant11_C /Engine/Transient.World_119:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant11_C_3
+	Function /Game/AI/Mutant/Anim/AnimBpMutant11.AnimBpMutant11_C:ExecuteUbergraph_AnimBpMutant11:00FE
+[2018.09.29-15.08.37:716][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP11" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP11.uasset" SILENT=true
+[2018.09.29-15.08.37:982][934]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP11A2C7ED68444D5DC98709B5A98F7D6741.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP11.uasset'
+[2018.09.29-15.08.38:588][957]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.42:509][ 74]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.49:313][310]BlueprintLog: New page: Compile AI2_BP1
+[2018.09.29-15.08.49:977][310]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant1_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant1_C_3
+	Function /Game/AI/Mutant/Anim/AnimBpMutant1.AnimBpMutant1_C:ExecuteUbergraph_AnimBpMutant1:00FE
+[2018.09.29-15.08.50:998][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP1.uasset" SILENT=true
+[2018.09.29-15.08.51:223][323]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP1FDD7B2BF48643E334DEA90A17509CC15.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP1.uasset'
+[2018.09.29-15.08.51:644][338]LogSlate: Window 'AI2_BP1' being destroyed
+[2018.09.29-15.08.51:651][338]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.08.55:017][507]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.08.57:193][626]BlueprintLog: New page: Compile AI2_BP10
+[2018.09.29-15.08.57:857][626]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant10_C /Engine/Transient.World_118:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant10_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant10.AnimBpMutant10_C:ExecuteUbergraph_AnimBpMutant10:00FE
+[2018.09.29-15.08.58:797][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP10" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP10.uasset" SILENT=true
+[2018.09.29-15.08.59:021][647]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP102A7371924B83F76C5F41A1AEFF39C3BD.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP10.uasset'
+[2018.09.29-15.09.00:124][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.09.03:047][833]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.29-15.09.07:219][ 49]BlueprintLog: New page: Compile AI2_BP
+[2018.09.29-15.09.07:946][ 49]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AnimBpMutant_C /Engine/Transient.World_105:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBpMutant_C_2
+	Function /Game/AI/Mutant/Anim/AnimBpMutant.AnimBpMutant_C:ExecuteUbergraph_AnimBpMutant:00FE
+[2018.09.29-15.09.08:886][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Blueprint/AI2/AI2_BP" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP.uasset" SILENT=true
+[2018.09.29-15.09.09:082][ 70]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/AI2_BP459F563B47332D22FA112DA066D28B3A.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/AI/Blueprint/AI2/AI2_BP.uasset'
+[2018.09.29-15.09.09:623][101]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-15.09.12:029][156]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-15.09.14:586][156]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/HospitalCF2BFFF1400AF9A44594A8B3664106DB.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.29-15.09.14:753][156]LogFileHelpers: Saving map 'Hospital' took 2.697
