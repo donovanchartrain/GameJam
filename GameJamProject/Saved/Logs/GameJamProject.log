@@ -4101,3 +4101,159 @@ LogInit: Object subsystem initialized
 [2018.09.29-15.09.12:029][156]LogSlate: Window 'Save Content' being destroyed
 [2018.09.29-15.09.14:586][156]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/HospitalCF2BFFF1400AF9A44594A8B3664106DB.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
 [2018.09.29-15.09.14:753][156]LogFileHelpers: Saving map 'Hospital' took 2.697
+[2018.09.29-16.16.40:309][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-16.16.40:545][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-16.16.40:552][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-16.16.40:590][831]PIE: New page: PIE session: Hospital (29 sept. 2018 20:16:40)
+[2018.09.29-16.16.40:591][831]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hospital
+[2018.09.29-16.16.41:634][831]LogPlayLevel: PIE: StaticDuplicateObject took: (1.032502s)
+[2018.09.29-16.16.41:657][831]LogAIModule: Creating AISystem for world Hospital
+[2018.09.29-16.16.41:677][831]LogPlayLevel: PIE: World Init took: (0.042817s)
+[2018.09.29-16.16.41:694][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hospital.Hospital to /Game/Maps/UEDPIE_0_Hospital.Hospital (1.102758s)
+[2018.09.29-16.16.41:865][831]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-16.16.42:146][831]LogInit: FAudioDevice initialized.
+[2018.09.29-16.16.42:156][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.16.42:210][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-16.16.43:418][831]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.29-18.16.43
+[2018.09.29-16.16.43:724][831]LogWorld: Bringing up level for play took: 1.512639
+[2018.09.29-16.16.43:993][831]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hospital 3,965
+[2018.09.29-16.16.44:007][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-16.16.45:390][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:406][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:472][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:494][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:607][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:630][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:648][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:665][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:682][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:699][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:719][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:739][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:759][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:778][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:799][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:868][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:884][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:902][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:918][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:937][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:956][885]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:982][886]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.45:999][887]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:017][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:036][889]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:057][890]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:079][891]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:098][892]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:118][893]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:137][894]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:156][895]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:176][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:193][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:213][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:229][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:249][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:271][901]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:291][902]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:310][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:327][904]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:345][905]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:364][906]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:381][907]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:399][908]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:418][909]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:437][910]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:456][911]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:475][912]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:493][913]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:510][914]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:528][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:548][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:570][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:589][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:607][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:625][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:643][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:661][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:680][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:699][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:718][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:736][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:754][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:770][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:788][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:806][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:823][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:839][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:856][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:872][934]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:888][935]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:906][936]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:922][937]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:938][938]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:956][939]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:975][940]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.46:999][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:023][942]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:042][943]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:059][944]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:078][945]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:097][946]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:116][947]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:135][948]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:153][949]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:171][950]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:189][951]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:207][952]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:224][953]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:242][954]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:259][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:276][956]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:292][957]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:309][958]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:326][959]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:343][960]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:360][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:377][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:393][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:412][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:430][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:446][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:465][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:481][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:498][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:516][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:535][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:553][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:570][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:590][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:610][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:627][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:644][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:660][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:677][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:694][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:711][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:728][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:746][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:762][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:790][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:807][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:823][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.47:840][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-16.16.49:123][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-16.16.49:124][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.16.49:193][ 63]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-16.16.49:291][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-16.16.49:292][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-16.16.49:427][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_215
+[2018.09.29-16.16.53:388][231]LogEditorViewport: Clicking on Actor (LMB): AI_BP10_C (AI_BP13)
+[2018.09.29-16.16.57:258][259]Cmd: DELETE
+[2018.09.29-16.16.57:258][259]Cmd: ACTOR DELETE
+[2018.09.29-16.16.57:372][259]LogEditorActor: Deleted Actor: AI_BP10_C
+[2018.09.29-16.16.57:516][259]LogEditorActor: Deleted 1 Actors (0.239 secs)
+[2018.09.29-16.16.59:148][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-16.17.00:764][352]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-16.17.15:075][352]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Hospital6B63972F43E7095D98AE47A1125E67F2.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap'
+[2018.09.29-16.17.15:210][352]LogFileHelpers: Saving map 'Hospital' took 14.418
