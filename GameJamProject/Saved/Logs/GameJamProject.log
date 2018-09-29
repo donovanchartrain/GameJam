@@ -2311,3 +2311,1395 @@ LogInit: Object subsystem initialized
 [2018.09.29-01.55.26:131][217]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2018.09.29-01.55.26:131][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
 [2018.09.29-01.55.26:258][218]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.29-01.56.19:491][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-01.57.45:099][773]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/WB_MenuGameOver.WB_MenuGameOver
+[2018.09.29-01.57.56:662][414]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/WB_MenuPause.WB_MenuPause
+[2018.09.29-01.58.04:276][820]LogSlate: Took 0.075137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.29-02.00.45:495][379]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.00.46:163][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.00.46:260][399]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause75FC0BF54B296A9CB142C0AED68AF59F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.04.59:136][496]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Control_H.png)
+[2018.09.29-02.04.59:176][496]LogTexture: Display: Building textures: Control_H (BGRA8, 600X250)
+[2018.09.29-02.04.59:209][496]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Control_N.png)
+[2018.09.29-02.04.59:230][496]LogTexture: Display: Building textures: Control_N (BGRA8, 600X250)
+[2018.09.29-02.04.59:257][496]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Control_P.png)
+[2018.09.29-02.04.59:265][496]LogTexture: Display: Building textures: Control_P (BGRA8, 600X250)
+[2018.09.29-02.05.01:657][580]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-02.05.01:712][580]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Control_HFF6F48804035698B691BF9B34D563EDF.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Control_H.uasset'
+[2018.09.29-02.05.01:749][580]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Control_N5517BA284EC6108884AC9BB854C13607.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Control_N.uasset'
+[2018.09.29-02.05.01:785][580]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Control_P2EF133644FD631F669FC23A0F0A474C1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Control_P.uasset'
+[2018.09.29-02.07.06:336][974]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.07.07:031][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.07.07:131][995]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause40DCAA8F4BE5DED86604DBAA053D9FB7.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.07.28:473][266]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.07.29:165][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.07.29:252][288]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPauseE04DD2BA490A20D3400BB5BC7A7C99F2.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.08.20:783][339]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.29-02.08.27:106][715]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.29-02.09.12:970][441]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.09.13:521][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.09.13:609][461]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause6D707029424FD27C1CEE2C91ADE5038D.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.09.20:288][861]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.09.20:996][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.09.21:083][891]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPauseF48F30C6415680D5601802B63BE1C8B2.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.09.28:220][252]LogSlate: Took 0.025821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-02.10.00:983][176]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.10.01:560][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.10.01:653][197]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause0649EC394D585B548023BEB953DA2580.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.10.07:164][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.10.07:257][523]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPauseFF299C2B4A0877ED92325890A983FB71.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.12.52:091][330]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.12.52:158][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.12.52:187][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.12.52:187][330]PIE: New page: PIE session: Start (29 sept. 2018 06:12:52)
+[2018.09.29-02.12.52:188][330]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.29-02.12.52:209][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021333s)
+[2018.09.29-02.12.52:210][330]LogAIModule: Creating AISystem for world Start
+[2018.09.29-02.12.52:210][330]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2018.09.29-02.12.52:211][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.022943s)
+[2018.09.29-02.12.52:258][330]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.12.52:281][330]LogInit: FAudioDevice initialized.
+[2018.09.29-02.12.52:288][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.12.52:328][330]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-02.12.52:342][330]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.29-04.12.52
+[2018.09.29-02.12.52:344][330]LogWorld: Bringing up level for play took: 0.014212
+[2018.09.29-02.12.52:367][330]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start 0,207
+[2018.09.29-02.12.52:368][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.12.52:922][355]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.52:937][356]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.52:955][357]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.52:972][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.52:989][359]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:006][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:024][361]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:041][362]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:057][363]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:074][364]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:092][365]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:108][366]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:125][367]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:142][368]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:159][369]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:177][370]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:194][371]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:210][372]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:227][373]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:244][374]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:261][375]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:277][376]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:293][377]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:309][378]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.12.53:326][379]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.13.09:752][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.13.09:752][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.13.09:814][360]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.13.09:851][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.13.09:851][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.13.09:977][361]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.29-02.36.48:700][998]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Ctrl_Image.png)
+[2018.09.29-02.36.48:759][998]LogTexture: Display: Building textures: Ctrl_Image (AutoDXT, 1500X1024)
+[2018.09.29-02.36.51:486][ 73]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-02.36.51:664][ 73]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Ctrl_Image6116604042BAC1F12211E1A1AD4A91B3.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Ctrl_Image.uasset'
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuStart1.SKEL_WB_MenuStart1_C:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuStart1.SKEL_WB_MenuStart1_C:WidgetTree.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_24.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:WidgetTree.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_7.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuPause_148:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_4.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_57:WidgetTree.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuPause_147:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuPause_C_63:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_1.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_5.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_27.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_49:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_43:SettingBox
+[2018.09.29-02.37.51:687][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_43:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_49:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuPause_149:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_47:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_47:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_60:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuPause.WB_MenuPause_C:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_60:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause_C:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_11.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuPause_150:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_28.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_12.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_15.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_26.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_13.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_25.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuPause_C_62:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_55:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuPause_C_55:WidgetTree.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuPause_C_61:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_18.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuPause_C_57:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuPause_C_64:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuPause_151:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_29.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuPause_C_65:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuPause.SKEL_WB_MenuPause_C:SettingBox
+[2018.09.29-02.37.51:688][574]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_7:WB_MenuPause_C_30.WidgetTree_0.SettingBox
+[2018.09.29-02.37.51:688][574]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox.VerticalBoxSlot_3) from referencer (Button /Engine/UMG/Editor/Transient.Button_Return).  Import failed...
+[2018.09.29-02.37.51:689][574]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"SettingBox.VerticalBoxSlot_3"''
+[2018.09.29-02.39.21:417][861]LogEditorTransaction: Undo Move Widget
+[2018.09.29-02.41.06:925][117]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.41.07:554][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.41.07:659][141]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPauseDE3BFD584B6D0356B73F66A6F59A5E5F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.41.50:002][585]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.41.50:726][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.41.50:822][608]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause3C617F98492F4B06183AEE87C96F7BC1.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.43.00:152][697]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.43.00:758][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.43.00:861][721]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause3AEEA188445E149976489DB887AC0184.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.43.40:050][ 42]BlueprintLog: New page: Compile WB_MenuPause
+[2018.09.29-02.43.40:771][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuPause" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset" SILENT=true
+[2018.09.29-02.43.40:875][ 72]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuPause4761ACBB467053BBBFD3EFB4188FD329.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuPause.uasset'
+[2018.09.29-02.43.41:721][121]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.43.41:812][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.43.41:813][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.43.41:813][121]PIE: New page: PIE session: Start (29 sept. 2018 06:43:41)
+[2018.09.29-02.43.41:813][121]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Start
+[2018.09.29-02.43.41:836][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023078s)
+[2018.09.29-02.43.41:838][121]LogAIModule: Creating AISystem for world Start
+[2018.09.29-02.43.41:839][121]LogPlayLevel: PIE: World Init took: (0.002725s)
+[2018.09.29-02.43.41:839][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Start.Start to /Game/Level/UEDPIE_0_Start.Start (0.026060s)
+[2018.09.29-02.43.41:888][121]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.43.41:916][121]LogInit: FAudioDevice initialized.
+[2018.09.29-02.43.41:923][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.43.41:963][121]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-02.43.41:981][121]LogWorld: Bringing World /Game/Level/UEDPIE_0_Start.Start up for play (max tick rate 60) at 2018.09.29-04.43.41
+[2018.09.29-02.43.41:984][121]LogWorld: Bringing up level for play took: 0.019508
+[2018.09.29-02.43.42:015][121]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Start -0,146
+[2018.09.29-02.43.42:016][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.43.42:637][144]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:656][145]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:675][146]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:694][147]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:712][148]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:731][149]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:751][150]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:769][151]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:791][152]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:812][153]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:830][154]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:850][155]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:870][156]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:887][157]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:909][158]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:928][159]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:948][160]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:967][161]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.42:985][162]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:004][163]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:023][164]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:041][165]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:060][166]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:079][167]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:099][168]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:118][169]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:137][170]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:157][171]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:175][172]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:195][173]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:214][174]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:232][175]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:250][176]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:269][177]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:288][178]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:308][179]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:328][180]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:347][181]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:365][182]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:384][183]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:403][184]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:423][185]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:441][186]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:458][187]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:477][188]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:494][189]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:513][190]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.43:531][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.45:001][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.45:018][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.45:036][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.45:053][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.45:071][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.43.46:474][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.43.46:474][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.43.46:534][351]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.43.46:578][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.43.46:579][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Level/Start.Start_C' with ClassGeneratedBy '/Game/Level/Start.Start:PersistentLevel.Start'
+[2018.09.29-02.43.46:688][352]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.29-02.43.58:091][757]LogStaticMesh: Building static mesh Basic_Wall2Mat_Angle...
+[2018.09.29-02.43.58:171][757]LogStaticMesh: Built static mesh [0.13s] /Game/World/Architecture/Basic_Wall2Mat_Angle.Basic_Wall2Mat_Angle
+[2018.09.29-02.44.01:204][757]LogStaticMesh: Building static mesh Trousseau_de_clef_Anneau1...
+[2018.09.29-02.44.02:802][757]LogStaticMesh: Built static mesh [1.61s] /Game/World/Mesh/Trousseau_de_clef_Anneau1.Trousseau_de_clef_Anneau1
+[2018.09.29-02.44.05:323][757]LogStaticMesh: Building static mesh SM_Magasine...
+[2018.09.29-02.44.05:495][757]LogStaticMesh: Built static mesh [0.19s] /Game/World/Mesh/SM_Magasine.SM_Magasine
+[2018.09.29-02.44.06:354][757]LogStaticMesh: Building static mesh SM_Tableau_2_Cube...
+[2018.09.29-02.44.06:434][757]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/Mesh/Tableau/SM_Tableau_2_Cube.SM_Tableau_2_Cube
+[2018.09.29-02.44.06:458][757]LogStaticMesh: Building static mesh SM_Tableau_3_Cube...
+[2018.09.29-02.44.06:522][757]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Mesh/Tableau/SM_Tableau_3_Cube.SM_Tableau_3_Cube
+[2018.09.29-02.44.06:576][757]LogStaticMesh: Building static mesh SM_Tableau_Cube...
+[2018.09.29-02.44.06:642][757]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Mesh/Tableau/SM_Tableau_Cube.SM_Tableau_Cube
+[2018.09.29-02.44.09:361][757]LogAIModule: Creating AISystem for world Hospital
+[2018.09.29-02.44.09:543][757]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2018.09.29-02.44.09:629][757]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-02.44.09:629][757]LightingResults: New page: Lighting Build
+[2018.09.29-02.44.09:636][757]LoadErrors: New page: Loading map: Hospital.umap
+[2018.09.29-02.44.09:643][757]MapCheck: New page: Map Check
+[2018.09.29-02.44.09:643][757]LightingResults: New page: Lighting Build
+[2018.09.29-02.44.09:941][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-02.44.10:209][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-02.44.10:489][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 281,332ms to complete.
+[2018.09.29-02.44.10:493][757]LogFileHelpers: Loading map 'Hospital' took 0.866
+[2018.09.29-02.44.18:777][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.44.18:873][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.44.18:937][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.44.18:937][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.44.18:937][158]PIE: New page: PIE session: Hospital (29 sept. 2018 06:44:18)
+[2018.09.29-02.44.18:937][158]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hospital
+[2018.09.29-02.44.19:041][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103870s)
+[2018.09.29-02.44.19:043][158]LogAIModule: Creating AISystem for world Hospital
+[2018.09.29-02.44.19:044][158]LogPlayLevel: PIE: World Init took: (0.002136s)
+[2018.09.29-02.44.19:044][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hospital.Hospital to /Game/Maps/UEDPIE_0_Hospital.Hospital (0.106623s)
+[2018.09.29-02.44.19:090][158]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.44.19:110][158]LogInit: FAudioDevice initialized.
+[2018.09.29-02.44.19:116][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.44.19:159][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-02.44.19:234][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.29-04.44.19
+[2018.09.29-02.44.19:595][158]LogWorld: Bringing up level for play took: 0.435115
+[2018.09.29-02.44.19:623][158]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hospital 1,462
+[2018.09.29-02.44.19:624][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.44.20:258][177]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:272][178]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:289][179]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:306][180]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:322][181]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:339][182]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:356][183]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:373][184]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:389][185]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:407][186]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:424][187]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:440][188]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:457][189]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:473][190]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:490][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:507][192]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:523][193]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:540][194]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:557][195]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:574][196]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:590][197]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:607][198]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:625][199]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:641][200]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:657][201]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:675][202]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:692][203]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:708][204]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:725][205]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:742][206]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:759][207]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:775][208]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:791][209]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:808][210]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:825][211]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:841][212]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:858][213]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:874][214]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:890][215]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:907][216]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:925][217]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:941][218]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:957][219]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:975][220]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.20:991][221]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:008][222]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:024][223]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:040][224]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:058][225]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:075][226]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:091][227]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:108][228]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:125][229]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:141][230]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:158][231]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:175][232]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:192][233]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:209][234]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:225][235]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:242][236]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:258][237]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:275][238]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:291][239]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:307][240]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:323][241]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:340][242]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:357][243]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:373][244]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:390][245]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:407][246]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:424][247]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:440][248]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:457][249]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:474][250]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:491][251]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:507][252]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:525][253]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:541][254]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:557][255]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:573][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:590][257]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:607][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:623][259]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:640][260]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:657][261]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:673][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:690][263]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:707][264]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:724][265]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:741][266]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:757][267]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:774][268]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:790][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:807][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:824][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:841][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:858][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:874][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:891][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:908][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:924][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:941][278]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:958][279]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:974][280]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.21:991][281]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:008][282]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:024][283]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:041][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:058][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:074][286]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:091][287]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:108][288]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:124][289]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:141][290]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:158][291]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:175][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:192][293]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:208][294]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:225][295]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:241][296]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:257][297]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:274][298]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:290][299]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:307][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:324][301]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:340][302]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:357][303]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:374][304]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:390][305]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:407][306]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:424][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:441][308]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:458][309]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:474][310]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:491][311]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:508][312]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:525][313]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:542][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:559][315]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:575][316]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:593][317]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:609][318]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:625][319]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:641][320]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:658][321]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:674][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:691][323]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:708][324]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:724][325]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:741][326]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:758][327]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:775][328]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:791][329]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:808][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:825][331]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:841][332]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:858][333]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:874][334]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:891][335]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:908][336]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:925][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:941][338]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:958][339]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:975][340]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.22:991][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:008][342]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:024][343]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:041][344]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:058][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:075][346]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:091][347]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:108][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:124][349]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:141][350]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:158][351]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:175][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:192][353]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:209][354]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:225][355]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:241][356]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:258][357]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:275][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:291][359]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:307][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:324][361]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:341][362]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:358][363]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:374][364]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:391][365]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:408][366]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:425][367]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:441][368]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:458][369]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:475][370]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:492][371]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:508][372]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:525][373]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:541][374]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:558][375]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:574][376]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:591][377]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:608][378]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:624][379]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.23:641][380]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.44.26:754][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.44.31:300][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.44.31:301][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.44.31:372][829]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.44.31:447][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.44.31:448][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.44.31:582][830]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.29-02.46.45:558][595]LogEditorFactories: Performing atomic reimport of [C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Ctrl_Image.png]
+[2018.09.29-02.46.45:561][595]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Donovan/UE4_Project/GameJamProject/GameJam/Asset/TextMenu/Ctrl_Image.png)
+[2018.09.29-02.46.45:653][595]LogTexture: Display: Building textures: Ctrl_Image (AutoDXT, 1500X1024)
+[2018.09.29-02.46.46:162][595]LogEditorFactories: -- imported successfully
+[2018.09.29-02.46.48:090][652]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-02.46.48:266][652]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Ctrl_ImageD68D1FA74CFCD241F4AA1C9E1902D9AC.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/TextureButton/Ctrl_Image.uasset'
+[2018.09.29-02.46.51:037][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.46.51:098][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.46.51:099][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.46.51:099][795]PIE: New page: PIE session: Hospital (29 sept. 2018 06:46:51)
+[2018.09.29-02.46.51:099][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hospital
+[2018.09.29-02.46.51:208][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108350s)
+[2018.09.29-02.46.51:209][795]LogAIModule: Creating AISystem for world Hospital
+[2018.09.29-02.46.51:209][795]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2018.09.29-02.46.51:210][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hospital.Hospital to /Game/Maps/UEDPIE_0_Hospital.Hospital (0.110388s)
+[2018.09.29-02.46.51:257][795]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.46.51:278][795]LogInit: FAudioDevice initialized.
+[2018.09.29-02.46.51:284][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.46.51:321][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-02.46.51:411][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 60) at 2018.09.29-04.46.51
+[2018.09.29-02.46.51:416][795]LogWorld: Bringing up level for play took: 0.093005
+[2018.09.29-02.46.51:444][795]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hospital 1,283
+[2018.09.29-02.46.51:445][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.46.51:775][807]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:789][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:805][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:822][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:842][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:860][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:878][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:894][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:911][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:928][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:945][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:962][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:978][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.51:995][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:011][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:027][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:044][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:061][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:077][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:095][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:114][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:131][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:148][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:163][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:180][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:197][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:213][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:230][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:246][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:263][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:281][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:299][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:315][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:333][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:349][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:366][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:383][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:399][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:416][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:432][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:449][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:465][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:482][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:499][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:515][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:532][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:549][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:566][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:583][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:600][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:616][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:633][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:649][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:666][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:683][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:699][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.52:715][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.46.55:101][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.47.06:060][663]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:074][664]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:091][665]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:108][666]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:124][667]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:141][668]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:158][669]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:175][670]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:191][671]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:208][672]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:225][673]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:241][674]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:258][675]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:274][676]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:291][677]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:308][678]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:324][679]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:341][680]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:357][681]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:373][682]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:390][683]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:407][684]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:423][685]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:440][686]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:457][687]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:473][688]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:490][689]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:507][690]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:524][691]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:541][692]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:557][693]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:574][694]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:591][695]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:607][696]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:623][697]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:640][698]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:656][699]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:673][700]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:690][701]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:707][702]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:724][703]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:741][704]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:757][705]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:774][706]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:791][707]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:808][708]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:824][709]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:842][710]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:858][711]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:875][712]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:892][713]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:908][714]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:925][715]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:941][716]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:958][717]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:975][718]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.06:991][719]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:008][720]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:025][721]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:042][722]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:058][723]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:075][724]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:092][725]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:109][726]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:125][727]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:143][728]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:159][729]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:177][730]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:194][731]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:210][732]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:226][733]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:243][734]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:260][735]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:276][736]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:294][737]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:310][738]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:327][739]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:343][740]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:360][741]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:377][742]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:393][743]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:409][744]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:426][745]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:443][746]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:460][747]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:476][748]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:493][749]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:510][750]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:526][751]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:543][752]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:560][753]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:577][754]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:593][755]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:610][756]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:626][757]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:644][758]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:660][759]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:676][760]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:693][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:710][762]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:727][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:743][764]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:760][765]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:777][766]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:793][767]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:810][768]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:826][769]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:843][770]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:859][771]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:876][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:892][773]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:909][774]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:926][775]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:943][776]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:959][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:975][778]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.07:992][779]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:008][780]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:025][781]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:042][782]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:059][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:075][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:092][785]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:108][786]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:125][787]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:141][788]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:158][789]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:175][790]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:192][791]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:208][792]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:225][793]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:242][794]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:258][795]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:275][796]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:292][797]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:308][798]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:325][799]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:342][800]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:358][801]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:375][802]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:392][803]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:408][804]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:426][805]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:442][806]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:459][807]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:476][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:493][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:509][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:526][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:543][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:559][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:576][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:593][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:609][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:626][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:642][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:659][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:676][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:693][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:709][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:726][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:742][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:759][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:775][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:792][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:809][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:825][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:842][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:859][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:875][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:892][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:909][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:925][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:942][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:959][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:976][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.08:992][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:009][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:026][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:042][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:059][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:076][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:092][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:109][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:126][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:142][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:159][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:176][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:192][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:209][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:226][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:242][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:259][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:276][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:293][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:310][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:326][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:343][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:360][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:377][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:393][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:410][864]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:427][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:443][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:459][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:476][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:493][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:509][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:526][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:542][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:559][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:576][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:591][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:608][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:625][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:642][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:658][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:676][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:692][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:709][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:725][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:742][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:759][885]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:775][886]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:792][887]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:808][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:825][889]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:842][890]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:859][891]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:875][892]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:892][893]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:908][894]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:925][895]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:942][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:958][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:975][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.09:992][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:008][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:025][901]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:042][902]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:058][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:076][904]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:093][905]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:109][906]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:126][907]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:142][908]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:159][909]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:175][910]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:192][911]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:209][912]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:225][913]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:242][914]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:259][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:275][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:292][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:309][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:325][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:343][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:360][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:377][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:393][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:410][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:426][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:443][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:460][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:476][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:493][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:509][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:526][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:542][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:559][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:576][934]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:592][935]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:609][936]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:626][937]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:643][938]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:659][939]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:676][940]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:693][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:709][942]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:726][943]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:743][944]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:759][945]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:776][946]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:793][947]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:809][948]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:826][949]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:843][950]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:859][951]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:876][952]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:893][953]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:910][954]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:926][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:943][956]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:959][957]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:976][958]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.10:993][959]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:009][960]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:026][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:043][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:059][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:076][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:093][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:109][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:126][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:143][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:159][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:176][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:193][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:209][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:225][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:242][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:259][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:275][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:292][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:309][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:325][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:342][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:359][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:375][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:392][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:408][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:425][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:442][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:459][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:475][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:492][989]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:509][990]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:525][991]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:542][992]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:559][993]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:575][994]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:592][995]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:609][996]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:625][997]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:642][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:659][999]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:675][  0]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:692][  1]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:709][  2]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:726][  3]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:742][  4]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:759][  5]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:776][  6]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:792][  7]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:809][  8]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:826][  9]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:842][ 10]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:860][ 11]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:876][ 12]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:892][ 13]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:909][ 14]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:926][ 15]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:943][ 16]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:959][ 17]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:977][ 18]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.11:993][ 19]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:010][ 20]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:026][ 21]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:043][ 22]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:059][ 23]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:076][ 24]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:093][ 25]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:110][ 26]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:126][ 27]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:143][ 28]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:159][ 29]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:176][ 30]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:193][ 31]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:210][ 32]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:227][ 33]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:243][ 34]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:260][ 35]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:276][ 36]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:294][ 37]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:310][ 38]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:327][ 39]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:344][ 40]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:360][ 41]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:376][ 42]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:393][ 43]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-02.47.12:826][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.47.12:827][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.47.12:887][ 69]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.47.12:949][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.47.12:949][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hospital.Hospital:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital' with GeneratedClass '/Game/Maps/Hospital.Hospital_C' with ClassGeneratedBy '/Game/Maps/Hospital.Hospital:PersistentLevel.Hospital'
+[2018.09.29-02.47.13:076][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.29-02.47.15:808][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.47.20:822][445]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/WB_MenuStart1.WB_MenuStart1
+[2018.09.29-02.48.48:192][605]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.48.48:884][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.48.48:976][626]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart13EC36B0A4F17134C8A6EB1AEA6B90C84.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.50.14:583][675]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.50.15:270][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.50.15:354][696]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart184907E3146B2761E3F50A09B9DD2F886.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.50.32:173][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/DamageEffect/WB_Blood.WB_Blood:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:173][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/Ui_Hud.Ui_Hud:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:173][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuGameOver.WB_MenuGameOver:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:173][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/DamageEffect/WB_Blood.SKEL_WB_Blood_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuGameOver.SKEL_WB_MenuGameOver_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/Text/DoorLock.DoorLock_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/DamageEffect/WB_Blood.WB_Blood_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuGameOver.WB_MenuGameOver_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WB_MenuStart1_C_91:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_5.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/Ui_Hud.Ui_Hud_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_8.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_4.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UMG/WB_MenuPause.WB_MenuPause_C:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_WB_MenuStart1_C_87:WidgetTree.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_1.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_7.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Text/DoorLock.DoorLock:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:WB_MenuStart1_C_6.WidgetTree_0.CanvasPanel_0
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.REINST_WB_MenuStart1_C_91:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_5.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_4.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_8.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.REINST_WB_MenuStart1_C_87:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_7.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:174][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_9:WB_MenuStart1_C_6.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:175][692]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Game/UMG/WB_MenuPause.WB_MenuPause_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2018.09.29-02.50.32:175][692]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextSetting).  Import failed...
+[2018.09.29-02.50.32:175][692]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_4"''
+[2018.09.29-02.50.59:860][328]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.51.00:503][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.51.00:679][354]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart15371FC114DC83B697AE9A7AFFA0A4169.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuStart1.WB_MenuStart1:WidgetTree.SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuStart1_C_99:SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuStart1_C_87:SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_9.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_4.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuStart1_194:SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_11.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuStart1_C_97:WidgetTree.SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuStart1_192:SettingBox
+[2018.09.29-02.51.40:478][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuStart1.WB_MenuStart1_C:WidgetTree.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuStart1_C_97:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuStart1_190:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.TRASHCLASS_WB_MenuStart1_193:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuStart1_C_87:WidgetTree.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_5.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_15.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuStart1_C_100:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuPause.WB_MenuPause_C:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_10.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuStart1.SKEL_WB_MenuStart1_C:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause_C:WidgetTree.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_WB_MenuStart1_C_91:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.REINST_WB_MenuStart1_C_91:WidgetTree.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Engine/Transient.REINST_SKEL_WB_MenuStart1_C_98:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_14.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_16.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_1.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or ObjectProperty /Game/UMG/WB_MenuPause.SKEL_WB_MenuPause_C:SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_13.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox or VerticalBox /Engine/Transient.World_9:WB_MenuStart1_C_12.WidgetTree_0.SettingBox
+[2018.09.29-02.51.40:479][714]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/UMG/WB_MenuPause.WB_MenuPause:WidgetTree.SettingBox.VerticalBoxSlot_3) from referencer (Button /Engine/UMG/Editor/Transient.Button_Return).  Import failed...
+[2018.09.29-02.51.40:479][714]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"SettingBox.VerticalBoxSlot_3"''
+[2018.09.29-02.52.30:621][658]LogEditorTransaction: Undo Move Widget
+[2018.09.29-02.52.32:304][753]LogEditorTransaction: Undo Move Widget
+[2018.09.29-02.53.00:057][390]LogSlate: Took 0.000696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-02.53.00:059][390]LogSlate: Took 0.000680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-02.53.00:068][390]LogSlate: Took 0.000826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-02.53.00:069][390]LogSlate: Took 0.000499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-02.53.00:072][390]LogSlate: Took 0.000688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-02.53.25:114][885]LogSlate: Took 0.002976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.29-02.54.03:073][113]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.54.03:701][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.54.03:816][135]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart165C0B65C4C3CE07C231E57AC92A5B593.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.54.30:797][737]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.54.31:658][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.54.31:758][777]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart15774FC704956277AA5CCDABA20CA6D23.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.54.32:618][820]LogSlate: Took 0.000647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-02.55.14:975][327]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.55.15:680][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.55.15:774][358]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart12D5B2D194DBCDE3532B61FAB72F5D6E4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.55.56:040][743]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.55.56:859][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.55.56:958][780]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart1B03E0EB748E4CB71463B84BE4B4448F4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.55.57:662][820]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-02.56.02:940][128]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.29-02.56.02:955][128]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map_Demarage.Map_Demarage
+[2018.09.29-02.56.03:001][128]Cmd: MAP LOAD FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-02.56.03:002][128]LightingResults: New page: Lighting Build
+[2018.09.29-02.56.03:004][128]LoadErrors: New page: Loading map: Map_Demarage.umap
+[2018.09.29-02.56.03:029][128]MapCheck: New page: Map Check
+[2018.09.29-02.56.03:029][128]LightingResults: New page: Lighting Build
+[2018.09.29-02.56.03:096][128]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-02.56.03:283][128]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-02.56.03:565][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 281,783ms to complete.
+[2018.09.29-02.56.03:567][128]LogFileHelpers: Loading map 'Map_Demarage' took 0.566
+[2018.09.29-02.56.05:296][225]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.56.05:369][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.05:369][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.56.05:370][225]PIE: New page: PIE session: Map_Demarage (29 sept. 2018 06:56:05)
+[2018.09.29-02.56.05:370][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.29-02.56.05:387][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017010s)
+[2018.09.29-02.56.05:389][225]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.29-02.56.05:389][225]LogPlayLevel: PIE: World Init took: (0.002305s)
+[2018.09.29-02.56.05:389][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.019550s)
+[2018.09.29-02.56.05:433][225]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.56.05:455][225]LogInit: FAudioDevice initialized.
+[2018.09.29-02.56.05:461][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.56.05:502][225]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.29-02.56.05:507][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.29-04.56.05
+[2018.09.29-02.56.05:508][225]LogWorld: Bringing up level for play took: 0.004898
+[2018.09.29-02.56.05:522][225]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-02.56.05:588][225]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.56.05:604][225]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.56.05:604][225]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.56.05:745][225]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.56.05:747][225]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage -0,414
+[2018.09.29-02.56.05:748][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.18:160][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.56.18:243][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.56.18:243][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.18:391][955]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.56.18:432][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.56.18:432][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.18:507][955]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane_2.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.56.18:507][955]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane2_5.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.56.18:532][956]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.29-02.56.37:119][ 56]BlueprintLog: New page: Compile WB_MenuStart1
+[2018.09.29-02.56.37:756][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/WB_MenuStart1" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset" SILENT=true
+[2018.09.29-02.56.37:854][ 73]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/WB_MenuStart1415801B541A3EC987AD53A988A39352F.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/UMG/WB_MenuStart1.uasset'
+[2018.09.29-02.56.38:393][105]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.56.38:476][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.38:476][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.56.38:476][105]PIE: New page: PIE session: Map_Demarage (29 sept. 2018 06:56:38)
+[2018.09.29-02.56.38:476][105]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.29-02.56.38:484][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008192s)
+[2018.09.29-02.56.38:485][105]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.29-02.56.38:486][105]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2018.09.29-02.56.38:486][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.009627s)
+[2018.09.29-02.56.38:530][105]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.56.38:550][105]LogInit: FAudioDevice initialized.
+[2018.09.29-02.56.38:556][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.56.38:597][105]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.29-02.56.38:604][105]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.29-04.56.38
+[2018.09.29-02.56.38:604][105]LogWorld: Bringing up level for play took: 0.005983
+[2018.09.29-02.56.38:617][105]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-02.56.38:618][105]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.56.38:618][105]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.56.38:618][105]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.56.38:620][105]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.56.38:625][105]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,463
+[2018.09.29-02.56.38:626][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.49:069][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.56.49:170][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.56.49:170][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.49:269][687]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.56.49:307][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.56.49:307][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.56.49:377][687]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane_2.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.56.49:377][687]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane2_5.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.56.49:392][688]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.29-02.56.52:705][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Plane)
+[2018.09.29-02.57.00:694][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.57.01:047][255]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/GamePlay/M_Blood_Inst.M_Blood_Inst
+[2018.09.29-02.57.02:910][255]LogRenderer: Reallocating scene render targets to support 952x744 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-02.57.04:215][332]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/GamePlay/M_Blood.M_Blood
+[2018.09.29-02.57.04:274][332]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.29-02.57.04:827][332]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.29-02.57.04:934][332]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-02.57.04:934][332]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-02.57.04:934][332]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-02.57.04:945][332]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2018.09.29-02.57.05:018][332]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-02.57.08:467][437]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-02.57.08:486][438]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-02.57.08:735][453]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-02.57.09:212][480]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-02.57.09:268][483]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-02.57.09:414][491]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-02.57.10:059][527]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-02.57.10:090][529]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-02.57.10:520][553]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-02.57.10:754][566]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-02.57.11:136][587]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-02.57.11:313][597]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-02.57.11:564][611]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-02.57.11:920][631]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-02.57.12:046][638]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-02.57.12:311][653]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-02.57.12:372][655]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/GamePlay/T_Blood_Droplest.T_Blood_Droplest
+[2018.09.29-02.57.12:451][655]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.29-02.57.13:586][655]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.29-02.57.13:944][657]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.29-02.57.14:141][667]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-02.57.14:250][672]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-02.57.14:923][703]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-02.57.15:220][717]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-02.57.15:431][727]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-02.57.15:894][749]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-02.57.16:042][756]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-02.57.16:258][766]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-02.57.16:837][793]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-02.57.17:108][806]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-02.57.17:152][808]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-02.57.17:806][839]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-02.57.19:044][896]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-02.57.19:323][910]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-02.57.19:360][912]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-02.57.20:578][973]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-02.57.20:813][985]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-02.57.21:472][ 19]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-02.57.22:616][ 75]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-02.57.22:712][ 80]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-02.57.22:731][ 81]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-02.57.23:506][117]LogTexture: Error: Texture2D /Game/Assets/GamePlay/T_Blood_Droplest.T_Blood_Droplest is unknown [raw type 0] which is not supported.
+[2018.09.29-02.57.23:966][138]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-02.57.24:374][157]LogTexture: Error: Texture2D /Game/Assets/GamePlay/T_Blood_Droplest.T_Blood_Droplest is unknown [raw type 0] which is not supported.
+[2018.09.29-02.57.24:481][162]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-02.57.24:831][178]LogTexture: Error: Texture2D /Game/Assets/GamePlay/T_Blood_Droplest.T_Blood_Droplest is unknown [raw type 0] which is not supported.
+[2018.09.29-02.57.24:861][179]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-02.57.25:823][224]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-02.57.26:130][238]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-02.57.26:468][255]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-02.57.27:828][319]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-02.57.28:343][337]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-02.57.28:343][337]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-02.57.29:445][385]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-02.57.29:465][386]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-02.57.30:128][414]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-02.57.30:959][451]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-02.57.31:812][488]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.57.32:055][493]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.29-02.57.32:055][493]MaterialEditorStats: Base pass shader with Surface Lightmap: 132 instructions
+[2018.09.29-02.57.32:055][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.09.29-02.57.32:055][493]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.09.29-02.57.32:055][493]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-02.57.32:056][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.29-02.57.32:056][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-02.57.33:443][553]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/T_Blood_Droplest989320EF4AADE782971DE6A66B0033F5.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/T_Blood_Droplest.uasset'
+[2018.09.29-02.57.35:264][640]LogSlate: Window 'T_Blood_Droplest' being destroyed
+[2018.09.29-02.57.36:867][728]LogMaterialEditor: Saving and Compiling material M_Blood
+[2018.09.29-02.57.36:906][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/GamePlay/M_Blood" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset" SILENT=true
+[2018.09.29-02.57.37:019][728]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_BloodEBB1B8704A8F272D68AC85B26E8E25C4.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset'
+[2018.09.29-02.57.48:651][351]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/GamePlay/M_Blood_Inst.M_Blood_Inst
+[2018.09.29-02.57.51:382][492]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/GamePlay/M_Blood.M_Blood
+[2018.09.29-02.57.51:423][492]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.29-02.57.51:656][492]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.29-02.57.51:710][492]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.29-02.57.51:756][492]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-02.57.51:756][492]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-02.57.51:756][492]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-02.57.51:783][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-02.57.52:193][494]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-02.57.52:207][495]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-02.57.52:789][529]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-02.57.52:943][538]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-02.57.53:491][570]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-02.57.53:508][571]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-02.57.53:994][600]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-02.57.54:090][606]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-02.57.54:514][631]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-02.57.54:755][642]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-02.57.54:755][642]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-02.57.55:095][658]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-02.57.55:513][679]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-02.57.55:513][679]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.29-02.57.55:959][705]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.29-02.57.56:310][726]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.29-02.57.56:324][727]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.29-02.57.56:582][742]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.29-02.57.56:850][758]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.29-02.57.57:106][773]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.29-02.57.57:407][791]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.29-02.57.57:585][792]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-02.57.57:585][792]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-02.57.57:906][811]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-02.57.57:922][812]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-02.57.58:152][825]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-02.57.58:441][842]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-02.57.58:458][843]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-02.57.58:640][854]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-02.57.58:810][864]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-02.57.58:924][870]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-02.57.58:974][873]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-02.57.59:502][902]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-02.57.59:975][928]LogMaterialEditor: Saving and Compiling material M_Blood
+[2018.09.29-02.58.00:000][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/GamePlay/M_Blood" FILE="../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset" SILENT=true
+[2018.09.29-02.58.00:067][928]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_Blood7F03822E417DD6689C8F0BA917C04DD8.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood.uasset'
+[2018.09.29-02.58.00:789][969]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-02.58.00:804][970]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-02.58.00:804][970]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-02.58.01:623][  2]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-02.58.02:111][ 31]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-02.58.02:194][ 36]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-02.58.02:765][ 70]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-02.58.02:819][ 70]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-02.58.03:134][ 86]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-02.58.03:930][133]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-02.58.04:030][139]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-02.58.04:098][143]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-02.58.04:633][174]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-02.58.04:735][180]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-02.58.04:837][186]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-02.58.05:492][224]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-02.58.05:852][244]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-02.58.06:038][256]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-02.58.06:589][275]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Blood_Inst, compiling. 
+[2018.09.29-02.58.07:560][275]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-02.58.07:560][275]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-02.58.07:560][275]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-02.58.07:560][275]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.58.07:571][275]TextureStreamingBuild: Display: Compiling optional shaders took 1.044 seconds.
+[2018.09.29-02.58.07:738][275]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/M_Blood_Inst07A3231041C5A48F05B7D28056D98B55.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Assets/GamePlay/M_Blood_Inst.uasset'
+[2018.09.29-02.58.18:491][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.58.18:561][846]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.29-02.58.18:625][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.58.18:625][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-02.58.18:626][846]PIE: New page: PIE session: Map_Demarage (29 sept. 2018 06:58:18)
+[2018.09.29-02.58.18:626][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Demarage
+[2018.09.29-02.58.18:635][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008766s)
+[2018.09.29-02.58.18:635][846]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.29-02.58.18:636][846]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.09.29-02.58.18:636][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Demarage.Map_Demarage to /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage (0.010101s)
+[2018.09.29-02.58.18:683][846]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-02.58.18:703][846]LogInit: FAudioDevice initialized.
+[2018.09.29-02.58.18:710][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.58.18:755][846]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.29-02.58.18:761][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Demarage.Map_Demarage up for play (max tick rate 60) at 2018.09.29-04.58.18
+[2018.09.29-02.58.18:761][846]LogWorld: Bringing up level for play took: 0.004863
+[2018.09.29-02.58.18:775][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.58.18:775][846]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-02.58.18:775][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.58.18:777][846]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-02.58.18:785][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_Demarage 0,624
+[2018.09.29-02.58.18:785][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.58.28:395][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.58.28:479][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-02.58.28:479][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.58.28:550][416]LogSlate: Window 'GameJamProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.29-02.58.28:585][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-02.58.28:585][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage' with GeneratedClass '/Game/Maps/Map_Demarage.Map_Demarage_C' with ClassGeneratedBy '/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Map_Demarage'
+[2018.09.29-02.58.28:659][416]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane_2.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.58.28:659][416]LogActorComponent: ReregisterComponent: (/Game/Maps/Map_Demarage.Map_Demarage:PersistentLevel.Plane2_5.MediaSound.AudioComponent_1) Not currently registered. Aborting.
+[2018.09.29-02.58.28:718][417]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.29-02.58.32:193][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Plane)
+[2018.09.29-02.58.37:018][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-02.58.38:922][917]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-02.58.39:740][917]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage440C9CA540B47291FA156581E8E8A551.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.29-02.58.39:860][917]LogFileHelpers: Saving map 'Map_Demarage' took 0.912
+[2018.09.29-02.58.43:025][ 85]MapCheck: New page: Map Check
+[2018.09.29-02.58.43:123][ 85]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.29-02.58.43:127][ 85]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.29-02.58.43:369][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_10, compiling. 
+[2018.09.29-02.58.43:379][ 85]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.58.43:379][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal, compiling. 
+[2018.09.29-02.58.43:405][ 85]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.58.43:405][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Wall_2, compiling. 
+[2018.09.29-02.58.43:506][ 85]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.58.43:506][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalLamp, compiling. 
+[2018.09.29-02.58.43:532][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightEmis_Inst, compiling. 
+[2018.09.29-02.58.43:559][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_30, compiling. 
+[2018.09.29-02.58.43:583][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_24, compiling. 
+[2018.09.29-02.58.43:595][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_12, compiling. 
+[2018.09.29-02.58.43:629][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Mat_13, compiling. 
+[2018.09.29-02.58.43:643][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radiateur, compiling. 
+[2018.09.29-02.58.43:655][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Blood_Inst, compiling. 
+[2018.09.29-02.58.43:711][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.29-02.58.43:744][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy UnrealIntroMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-02.58.43:786][ 85]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy StartMovieMediaPlayer_Video_Mat, compiling. 
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-02.58.46:012][ 85]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-02.58.46:012][ 85]TextureStreamingBuild: Display: Compiling optional shaders took 2.649 seconds.
+[2018.09.29-02.58.46:081][ 85]LogLevel: Display: Export Material TexCoord Scales took 0.069 seconds.
+[2018.09.29-02.58.46:142][ 85]TextureStreamingBuild: Display: Build Texture Streaming took 0.044 seconds.
+[2018.09.29-02.58.46:215][ 85]LightingResults: New page: Lighting Build - 29 sept. 2018 06:58:46
+[2018.09.29-02.58.47:260][ 85]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.29-02.58.48:062][ 85]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.29-02.58.48:757][ 85]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.29-02.58.52:287][ 85]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.29-02.58.52:288][ 85]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10208
+[2018.09.29-02.59.06:468][ 85]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.29-02.59.06:468][ 85]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.29-02.59.06:468][ 85]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.29-02.59.06:468][ 85]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.29-02.59.06:468][ 85]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.29-02.59.08:487][ 85]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.29-02.59.08:487][ 85]MapCheck: New page: Map_Demarage - 29 sept. 2018 06:59:08
+[2018.09.29-02.59.08:498][ 85]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.09.29-02.59.08:833][ 85]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 346,01ms to complete.
+[2018.09.29-02.59.08:882][ 85]LogEditorBuildUtils: Build time 0:25
+[2018.09.29-02.59.38:325][236]Job is a success!
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2018.09.29-02.59.39:020][237]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2018.09.29-02.59.39:735][237]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.09.29-02.59.39:735][237]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.09.29-02.59.40:066][237]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2018.09.29-02.59.40:906][237]Lightmass on PC_DONO: 26.1 sec total, 494 ms importing, 41 ms setup, 1.11 sec photons, 24.2 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 1:36 min total, 54.1 sec processing.
+[2018.09.29-02.59.41:019][237]LogStaticLightingSystem: Illumination: 54.2 sec (570 ms encoding lightmaps, 329 ms encoding shadowmaps)
+[2018.09.29-02.59.41:019][237]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.29-02.59.41:019][237]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.09.29-02.59.41:471][237]DumpUnbuiltLightIteractions
+[2018.09.29-02.59.41:471][237]Lights with unbuilt interactions: 0
+[2018.09.29-02.59.41:471][237]
+[2018.09.29-02.59.41:471][237]Primitives with unbuilt interactions: 0
+[2018.09.29-02.59.41:542][238]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.29-02.59.41:542][238]MapCheck: New page: Map_Demarage - 29 sept. 2018 06:59:41
+[2018.09.29-02.59.41:832][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 291,144ms to complete.
+[2018.09.29-02.59.47:313][483]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-02.59.48:055][483]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage00BF10E04B3C45D15D6496A9206D1B97.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage.umap'
+[2018.09.29-02.59.48:166][483]LogFileHelpers: Saving map 'Map_Demarage' took 0.827
+[2018.09.29-02.59.48:333][483]LogSavePackage: Moving '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Saved/Map_Demarage_BuiltDataB659748547BF2E2F6FF9458DE722AFFA.tmp' to '../../../../../../Users/Donovan/UE4_Project/GameJamProject/GameJam/GameJamProject/Content/Maps/Map_Demarage_BuiltData.uasset'
