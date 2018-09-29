@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 09/29/18 14:08:03
+=======
+﻿Log file open, 09/29/18 12:21:53
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GameJamProject
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.178177
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.501919
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +102,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.071s to configure plugins.
+=======
+LogStreaming: Display: Took  0.119s to configure plugins.
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -114,17 +127,26 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.20-CL-4369336
-LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
 LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+=======
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
 LogInit: Command Line:  /Game/Maps/Map_Demarage -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+<<<<<<< HEAD
 LogInit: Base Directory: F:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -147,6 +169,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.004s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -8744,3 +8767,1602 @@ LogInit: Object subsystem initialized
 [2018.09.29-12.12.17:556][747]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.09.29-12.12.17:583][747]LogExit: Exiting.
 [2018.09.29-12.12.17:594][747]Log file closed, 09/29/18 14:12:17
+=======
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-10.21.54:483][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-10.21.54:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-10.21.54:494][  0]LogHAL: Display: Platform has ~ 8 GB [8467304448 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.29-10.21.54:494][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.29-10.21.54:494][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.29-10.21.54:497][  0]LogInit: Computer: LAPTOP-PE489EAU
+[2018.09.29-10.21.54:497][  0]LogInit: User: Tempo
+[2018.09.29-10.21.54:497][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.29-10.21.54:497][  0]LogInit: High frequency timer resolution =1.757813 MHz
+[2018.09.29-10.21.54:497][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.29-10.21.54:497][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-10.21.54:497][  0]LogMemory: Process Physical Memory: 101.67 MB used, 101.67 MB peak
+[2018.09.29-10.21.54:497][  0]LogMemory: Process Virtual Memory: 97.32 MB used, 97.32 MB peak
+[2018.09.29-10.21.54:497][  0]LogMemory: Physical Memory: 5799.12 MB used,  2275.93 MB free, 8075.05 MB total
+[2018.09.29-10.21.54:497][  0]LogMemory: Virtual Memory: 4646.60 MB used,  2275.93 MB free, 134217728.00 MB total
+[2018.09.29-10.21.54:798][  0]LogInit: Using OS detected language (en-US).
+[2018.09.29-10.21.54:798][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.29-10.21.54:799][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.29-10.21.55:723][  0]LogStreaming: Display: Took  0.924s to InitEngineTextLocalization.
+[2018.09.29-10.21.55:931][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.29-10.21.55:931][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.29-10.21.55:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-10.21.55:942][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-10.21.56:000][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.09.29-10.21.56:000][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.29-10.21.56:004][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-10.21.56:004][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-10.21.56:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-10.21.56:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-10.21.56:010][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-10.21.56:010][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-10.21.56:010][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.09.29-10.21.56:010][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.29-10.21.56:010][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.09.29-10.21.56:010][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.29-10.21.56:010][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.09.29-10.21.56:010][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2018.09.29-10.21.56:010][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2018.09.29-10.21.56:010][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2018.09.29-10.21.56:048][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-10.21.56:065][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.09.29-10.21.56:066][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/Intermediate/Shaders/WorkingDirectory/10276/).
+[2018.09.29-10.21.56:066][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tempo/AppData/Local/Temp/UnrealShaderWorkingDir/F89319FF40184F2101A8FABE98FD9FCA/'.
+[2018.09.29-10.21.56:886][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-10.21.56:908][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-10.21.56:938][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-10.21.56:960][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-10.21.56:960][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-10.21.57:404][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.29-10.21.57:404][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.29-10.21.57:404][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-10.21.59:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-10.22.00:169][  0]LogDerivedDataCache: Loaded boot cache 0.35s 71MB C:/Users/Tempo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.29-10.22.00:169][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tempo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.29-10.22.00:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-10.22.00:169][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-10.22.00:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Tempo/Documents/GitHub/GameJam/GameJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-10.22.00:170][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-10.22.00:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-10.22.00:258][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tempo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-10.22.00:258][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.29-10.22.00:258][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.29-10.22.00:282][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-10.22.00:284][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.29-10.22.00:315][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-10.22.02:102][  0]LogInit: Using OS detected language (en-US).
+[2018.09.29-10.22.02:102][  0]LogInit: Using OS detected locale (en-GB).
+[2018.09.29-10.22.02:102][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.09.29-10.22.02:102][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2018.09.29-10.22.02:526][  0]LogStreaming: Display: Took  0.424s to InitGameTextLocalization.
+[2018.09.29-10.22.02:534][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2018.09.29-10.22.02:742][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.021877 seconds
+[2018.09.29-10.22.02:840][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-10.22.03:665][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-10.22.03:753][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-10.22.03:753][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.29-10.22.03:753][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-10.22.03:753][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-10.22.03:813][  0]LogNetVersion: GameJamProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804558789)
+[2018.09.29-10.22.06:344][  0]LogMoviePlayer: Initializing movie player
+[2018.09.29-10.22.06:774][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-10.22.06:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-10.22.07:069][  0]SourceControl: Source control is disabled
+[2018.09.29-10.22.07:069][  0]SourceControl: Source control is disabled
+[2018.09.29-10.22.07:087][  0]SourceControl: Source control is disabled
+[2018.09.29-10.22.07:622][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-10.22.07:821][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-10.22.07:838][  0]LogUObjectArray: 42168 objects as part of root set at end of initial load.
+[2018.09.29-10.22.07:838][  0]LogUObjectAllocator: 7432344 out of 0 bytes used by permanent object pool.
+[2018.09.29-10.22.07:838][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-10.22.08:114][  0]LogEngine: Initializing Engine...
+[2018.09.29-10.22.08:115][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-10.22.08:128][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.29-10.22.08:128][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-10.22.08:128][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.29-10.22.08:128][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-10.22.08:636][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.29-10.22.08:649][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-10.22.08:718][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-10.22.08:733][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.29-10.22.08:748][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-10.22.09:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-10.22.09:672][  0]LogInit: Display: Game Engine Initialized.
+[2018.09.29-10.22.09:672][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-10.22.09:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.29-10.22.09:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-10.22.09:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.29-10.22.09:672][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-10.22.09:764][  0]LogInit: Display: Starting Game.
+[2018.09.29-10.22.09:765][  0]LogNet: Browse: /Game/Maps/Map_Demarage?Name=Player
+[2018.09.29-10.22.09:765][  0]LogLoad: LoadMap: /Game/Maps/Map_Demarage?Name=Player
+[2018.09.29-10.22.10:432][  0]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_4 has an invalid curve.  Please fix!
+[2018.09.29-10.22.11:866][  0]LogTexture: Display: Building textures: SpecularMap (BGRA8, 707X707)
+[2018.09.29-10.22.11:866][  0]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.22.11:866][  0]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/SpecularMap.SpecularMap
+[2018.09.29-10.22.11:866][  0]LogTexture: Error: Texture2D /Game/World/Texture/SpecularMap.SpecularMap is unknown [raw type 0] which is not supported.
+[2018.09.29-10.22.11:878][  0]LogTexture: Display: Building textures: arroway_de_concrete-19_b005 (DXT1, 600X600)
+[2018.09.29-10.22.11:878][  0]LogTextureCompressor: Warning: Source image 600x600 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.22.11:878][  0]LogTexture: Warning: Failed to build DXT1 derived data for /Game/World/Texture/arroway_de_concrete-19_b005.arroway_de_concrete-19_b005
+[2018.09.29-10.22.11:878][  0]LogTexture: Error: Texture2D /Game/World/Texture/arroway_de_concrete-19_b005.arroway_de_concrete-19_b005 is unknown [raw type 0] which is not supported.
+[2018.09.29-10.22.11:888][  0]LogTexture: Display: Building textures: DisplacementMap (BGRA8, 707X707)
+[2018.09.29-10.22.11:888][  0]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.22.11:888][  0]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/DisplacementMap.DisplacementMap
+[2018.09.29-10.22.11:888][  0]LogTexture: Error: Texture2D /Game/World/Texture/DisplacementMap.DisplacementMap is unknown [raw type 0] which is not supported.
+[2018.09.29-10.22.11:902][  0]LogTexture: Display: Building textures: arroway_de_tiles-48_d100 (BGRA8, 707X707)
+[2018.09.29-10.22.11:903][  0]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.22.11:903][  0]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/arroway_de_tiles-48_d100.arroway_de_tiles-48_d100
+[2018.09.29-10.22.11:903][  0]LogTexture: Error: Texture2D /Game/World/Texture/arroway_de_tiles-48_d100.arroway_de_tiles-48_d100 is unknown [raw type 0] which is not supported.
+[2018.09.29-10.22.12:077][  0]LogAIModule: Creating AISystem for world Map_Demarage
+[2018.09.29-10.22.12:077][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2018.09.29-10.22.12:082][  0]LogWorld: Bringing World /Game/Maps/Map_Demarage.Map_Demarage up for play (max tick rate 0) at 2018.09.29-12.22.12
+[2018.09.29-10.22.12:082][  0]LogWorld: Bringing up level for play took: 0.004318
+[2018.09.29-10.22.12:083][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.29-10.22.12:085][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-10.22.12:085][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.29-10.22.12:085][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-10.22.12:088][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.29-10.22.12:088][  0]LogLoad: Took 2.322773 seconds to LoadMap(/Game/Maps/Map_Demarage)
+[2018.09.29-10.22.12:264][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.09.29-10.22.12:264][  0]LogLoad: (Engine Initialization) Total time: 53.23 seconds
+[2018.09.29-10.22.12:265][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-10.22.12:680][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.29-10.43.39:291][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-10.44.33:084][470]LogPackageName: SearchForPackageOnDisk took   4.645s to resolve Hospital.umap.
+[2018.09.29-10.44.33:085][471]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.09.29-10.44.33:085][471]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.09.29-10.44.33:221][471]LogPackageName: SearchForPackageOnDisk took   0.134s to resolve Hospital.umap.
+[2018.09.29-10.44.33:221][471]LogNet: Browse: /Game/Maps/Hospital
+[2018.09.29-10.44.33:222][471]LogLoad: LoadMap: /Game/Maps/Hospital
+[2018.09.29-10.44.34:193][471]LogBlueprint: Warning: Timeline OpenClosed Track NewTrack_0 in /Engine/Transient.REINST_BP_Doors_C_43 has an invalid curve.  Please fix!
+[2018.09.29-10.44.35:683][471]LogTexture: Display: Building textures: arroway_de_tiles-48_d100 (BGRA8, 707X707)
+[2018.09.29-10.44.35:683][471]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.44.35:683][471]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/arroway_de_tiles-48_d100.arroway_de_tiles-48_d100
+[2018.09.29-10.44.35:684][471]LogTexture: Error: Texture2D /Game/World/Texture/arroway_de_tiles-48_d100.arroway_de_tiles-48_d100 is unknown [raw type 0] which is not supported.
+[2018.09.29-10.44.35:695][471]LogTexture: Display: Building textures: SpecularMap (BGRA8, 707X707)
+[2018.09.29-10.44.35:695][471]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.44.35:695][471]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/SpecularMap.SpecularMap
+[2018.09.29-10.44.35:695][471]LogTexture: Error: Texture2D /Game/World/Texture/SpecularMap.SpecularMap is unknown [raw type 0] which is not supported.
+[2018.09.29-10.44.35:697][471]LogTexture: Display: Building textures: DisplacementMap (BGRA8, 707X707)
+[2018.09.29-10.44.35:697][471]LogTextureCompressor: Warning: Source image 707x707 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2018.09.29-10.44.35:697][471]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/World/Texture/DisplacementMap.DisplacementMap
+[2018.09.29-10.44.35:697][471]LogTexture: Error: Texture2D /Game/World/Texture/DisplacementMap.DisplacementMap is unknown [raw type 0] which is not supported.
+[2018.09.29-10.44.37:313][471]LogAIModule: Creating AISystem for world Hospital
+[2018.09.29-10.44.37:313][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.29-10.44.37:430][471]LogWorld: Bringing World /Game/Maps/Hospital.Hospital up for play (max tick rate 0) at 2018.09.29-12.44.37
+[2018.09.29-10.44.37:431][471]LogWorld: Bringing up level for play took: 0.117685
+[2018.09.29-10.44.37:444][471]LogLoad: Took 4.222209 seconds to LoadMap(/Game/Maps/Hospital)
+[2018.09.29-10.45.05:890][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.05:958][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:003][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:048][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:094][901]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:172][902]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:219][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:300][904]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:352][905]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:422][906]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:474][907]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:538][908]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:598][909]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:676][910]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:722][911]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:800][912]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:844][913]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:900][914]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.06:947][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:016][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:070][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:144][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:191][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:257][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:302][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:363][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:411][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:472][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:529][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:601][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:656][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:713][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:768][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:837][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:903][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.07:961][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:011][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:068][934]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:118][935]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:179][936]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:237][937]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:296][938]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:366][939]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:430][940]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:484][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:543][942]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:592][943]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:657][944]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:701][945]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:762][946]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:820][947]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:880][948]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:931][949]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.08:990][950]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:036][951]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:093][952]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:145][953]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:201][954]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:267][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:324][956]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:613][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:661][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:720][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:773][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:836][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:892][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.09:957][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:009][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:079][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:134][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:198][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:248][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:312][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:365][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:431][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:493][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:571][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:626][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:698][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:761][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:805][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:880][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.10:928][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:003][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:060][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:135][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:180][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:249][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:304][989]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:385][990]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:436][991]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:501][992]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:555][993]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:614][994]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:664][995]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:739][996]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:789][997]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:855][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:899][999]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.11:961][  0]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:006][  1]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:058][  2]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:119][  3]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:165][  4]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:232][  5]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:285][  6]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:349][  7]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:405][  8]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:466][  9]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:518][ 10]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:594][ 11]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:641][ 12]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:722][ 13]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:766][ 14]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:813][ 15]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:859][ 16]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:902][ 17]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:948][ 18]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.12:995][ 19]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:043][ 20]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:104][ 21]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:150][ 22]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:196][ 23]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:256][ 24]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:310][ 25]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:370][ 26]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:415][ 27]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:462][ 28]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:516][ 29]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:561][ 30]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:608][ 31]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:655][ 32]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:722][ 33]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:774][ 34]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:820][ 35]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:865][ 36]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:913][ 37]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.13:964][ 38]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:012][ 39]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:063][ 40]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:119][ 41]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:169][ 42]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:220][ 43]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:268][ 44]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:327][ 45]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:374][ 46]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:436][ 47]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:490][ 48]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:540][ 49]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:582][ 50]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:628][ 51]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:675][ 52]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:719][ 53]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:769][ 54]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:816][ 55]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:863][ 56]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:905][ 57]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:950][ 58]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.14:994][ 59]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:042][ 60]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:138][ 61]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:176][ 62]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:233][ 63]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:287][ 64]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:338][ 65]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:383][ 66]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:415][ 67]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:460][ 68]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:508][ 69]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:570][ 70]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:615][ 71]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:693][ 72]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:738][ 73]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:789][ 74]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:835][ 75]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:892][ 76]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:937][ 77]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.15:993][ 78]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:035][ 79]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:085][ 80]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:167][ 81]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:212][ 82]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:276][ 83]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:339][ 84]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:389][ 85]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:432][ 86]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:478][ 87]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:544][ 88]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:583][ 89]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:665][ 90]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:711][ 91]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:758][ 92]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:805][ 93]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:862][ 94]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:906][ 95]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.16:970][ 96]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:016][ 97]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:084][ 98]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:130][ 99]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:200][100]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:246][101]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:302][102]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:352][103]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:412][104]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:451][105]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:514][106]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:559][107]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:638][108]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:675][109]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:729][110]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:780][111]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:837][112]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:885][113]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:929][114]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.17:972][115]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:027][116]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:072][117]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:118][118]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:168][119]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:225][120]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:270][121]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:320][122]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:365][123]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:434][124]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:479][125]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:544][126]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:589][127]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:647][128]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:703][129]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:745][130]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:787][131]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:847][132]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:891][133]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:945][134]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.18:991][135]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:037][136]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:082][137]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:137][138]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:177][139]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:241][140]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:287][141]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:339][142]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:384][143]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:452][144]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:496][145]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:560][146]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:605][147]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:662][148]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:709][149]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:759][150]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:801][151]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:861][152]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:906][153]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.19:960][154]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.20:006][155]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.20:824][173]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.20:869][174]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.20:915][175]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.20:961][176]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:010][177]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:052][178]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:097][179]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:142][180]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:188][181]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:235][182]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:281][183]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:328][184]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:383][185]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:442][186]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:496][187]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:563][188]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:619][189]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:674][190]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:734][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:794][192]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:848][193]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:906][194]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.21:960][195]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:003][196]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:059][197]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:117][198]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:181][199]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:242][200]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:302][201]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:390][202]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:437][203]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:480][204]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:528][205]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:580][206]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:622][207]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:671][208]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:716][209]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:770][210]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:814][211]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:881][212]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:925][213]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.22:984][214]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:032][215]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:086][216]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:140][217]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:183][218]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:235][219]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:303][220]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:351][221]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:403][222]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:471][223]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:524][224]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:590][225]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:646][226]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:702][227]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:743][228]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:797][229]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:841][230]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:906][231]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.23:952][232]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:015][233]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:059][234]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:116][235]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:159][236]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:225][237]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:272][238]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:329][239]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:368][240]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:432][241]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:475][242]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:546][243]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:589][244]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:653][245]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:700][246]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:756][247]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:796][248]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:853][249]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:897][250]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.24:965][251]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:016][252]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:054][253]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:104][254]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:166][255]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:214][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:272][257]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:321][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:360][259]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:422][260]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:483][261]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:534][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:602][263]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:647][264]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:711][265]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:757][266]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:825][267]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:869][268]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:933][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.25:976][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:033][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:081][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:175][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:210][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:278][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:324][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:395][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:439][278]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:514][279]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:561][280]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:632][281]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:678][282]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:743][283]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:786][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:835][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:880][286]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.26:965][287]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:013][288]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:084][289]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:130][290]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:203][291]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:243][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:291][293]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:336][294]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:390][295]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:438][296]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:511][297]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:556][298]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:620][299]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:666][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:723][301]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:758][302]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:802][303]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:849][304]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:926][305]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.27:973][306]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:020][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:066][308]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:112][309]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:156][310]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:202][311]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:248][312]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:307][313]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:352][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:427][315]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:469][316]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:534][317]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:577][318]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:649][319]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:694][320]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:751][321]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:798][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:843][323]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:890][324]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:944][325]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.28:989][326]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:038][327]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:085][328]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:130][329]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:176][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:228][331]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:273][332]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:329][333]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:377][334]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:437][335]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:480][336]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:536][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:581][338]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:645][339]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:689][340]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:735][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:780][342]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:825][343]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:871][344]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:923][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.29:969][346]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:020][347]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:071][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:116][349]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:164][350]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:219][351]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:263][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:325][353]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:364][354]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:429][355]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:474][356]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:538][357]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:587][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:649][359]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:702][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:753][361]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:798][362]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:855][363]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:894][364]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.30:966][365]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:014][366]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:070][367]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:116][368]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:178][369]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:232][370]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:300][371]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:356][372]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:420][373]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:474][374]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:540][375]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:595][376]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:665][377]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:717][378]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:784][379]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:840][380]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:923][381]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.31:973][382]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:042][383]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:097][384]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:168][385]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:220][386]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:290][387]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:341][388]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:399][389]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:447][390]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:526][391]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:567][392]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:650][393]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:679][394]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:743][395]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:791][396]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:847][397]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:891][398]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:944][399]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.32:991][400]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:058][401]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:103][402]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:153][403]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:200][404]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:252][405]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:293][406]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:357][407]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:411][408]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:483][409]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:530][410]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:573][411]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:622][412]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:677][413]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:722][414]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:777][415]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:822][416]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:870][417]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:918][418]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.33:983][419]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:030][420]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:091][421]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:130][422]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:179][423]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:238][424]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:291][425]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:356][426]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:406][427]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:473][428]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:525][429]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:595][430]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:638][431]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:714][432]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:752][433]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:821][434]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:860][435]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:928][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.34:976][437]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:052][438]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:094][439]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:155][440]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:200][441]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:278][442]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:320][443]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:399][444]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:450][445]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:538][446]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:591][447]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:659][448]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:712][449]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:777][450]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:820][451]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:880][452]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:939][453]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.35:993][454]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:053][455]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:122][456]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:160][457]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:249][458]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:290][459]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:413][460]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:419][461]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:495][462]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:548][463]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:628][464]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:674][465]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:745][466]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:804][467]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:881][468]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.36:929][469]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:003][470]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:057][471]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:132][472]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:181][473]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:257][474]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:300][475]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:383][476]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:424][477]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:508][478]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:554][479]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:633][480]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:687][481]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:752][482]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:798][483]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:857][484]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:886][485]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:934][486]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.37:984][487]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:041][488]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:087][489]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:146][490]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:191][491]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:245][492]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:300][493]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:361][494]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:426][495]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:480][496]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:541][497]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:589][498]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:654][499]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:705][500]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:764][501]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:809][502]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:873][503]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:922][504]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.38:980][505]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.39:025][506]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.39:082][507]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.39:130][508]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.40:812][509]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:224][518]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:267][519]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:336][520]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:391][521]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:432][522]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:482][523]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:529][524]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:591][525]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:648][526]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:705][527]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:759][528]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:816][529]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:874][530]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:943][531]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.41:987][532]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:038][533]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:134][534]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:173][535]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:241][536]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:287][537]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:340][538]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:402][539]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:460][540]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:508][541]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:598][542]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:634][543]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:695][544]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:741][545]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:788][546]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:835][547]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:875][548]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:927][549]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.42:986][550]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:026][551]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:087][552]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:138][553]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:194][554]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:257][555]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:304][556]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:397][557]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:445][558]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:513][559]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:557][560]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:616][561]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:679][562]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:749][563]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:794][564]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:851][565]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:897][566]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.43:961][567]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:009][568]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:063][569]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:108][570]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:159][571]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:198][572]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:255][573]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:305][574]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:360][575]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:414][576]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:477][577]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:527][578]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:582][579]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:632][580]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:678][581]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:728][582]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:784][583]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:821][584]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:876][585]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.44:927][586]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:006][587]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:053][588]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:114][589]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:160][590]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:211][591]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:256][592]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:325][593]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:374][594]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:455][595]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:505][596]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:570][597]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:621][598]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:696][599]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.45:728][600]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:213][609]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:258][610]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:305][611]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:349][612]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:439][613]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:475][614]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:535][615]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:581][616]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:672][617]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:714][618]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:773][619]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:819][620]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:892][621]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.46:939][622]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:013][623]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:069][624]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:156][625]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:200][626]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:279][627]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:323][628]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:378][629]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:420][630]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:494][631]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:546][632]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:608][633]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:673][634]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:730][635]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:779][636]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:845][637]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:890][638]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.47:945][639]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:015][640]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:060][641]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:121][642]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:166][643]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:224][644]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:281][645]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:349][646]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:415][647]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:470][648]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:539][649]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:590][650]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:660][651]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:708][652]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:772][653]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:825][654]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:891][655]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.48:937][656]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:016][657]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:059][658]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:123][659]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:168][660]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:234][661]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:286][662]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:349][663]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:408][664]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:479][665]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:526][666]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:602][667]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:648][668]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:720][669]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:765][670]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:824][671]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:871][672]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:932][673]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.49:978][674]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:047][675]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:092][676]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:156][677]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:208][678]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:265][679]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:309][680]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:377][681]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:430][682]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:503][683]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:550][684]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:616][685]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:666][686]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:732][687]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:777][688]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:840][689]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:888][690]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.50:960][691]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:007][692]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:070][693]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:113][694]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:200][695]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:240][696]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:324][697]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:367][698]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:459][699]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:503][700]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:598][701]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:641][702]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:742][703]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:787][704]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:851][705]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.51:897][706]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:023][707]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:081][708]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:173][709]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:221][710]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:303][711]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:349][712]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:444][713]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:490][714]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:586][715]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:634][716]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:715][717]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:760][718]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:838][719]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:887][720]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.52:962][721]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:001][722]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:076][723]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:112][724]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:184][725]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:232][726]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:288][727]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:334][728]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:413][729]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:460][730]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:537][731]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:588][732]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:652][733]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:707][734]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:794][735]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:815][736]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:879][737]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:921][738]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.53:979][739]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:027][740]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:091][741]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:138][742]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:198][743]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:247][744]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:303][745]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:353][746]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:434][747]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:480][748]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:556][749]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:604][750]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:652][751]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:700][752]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:741][753]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:800][754]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:841][755]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:889][756]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:934][757]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.54:987][758]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:044][759]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:102][760]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:149][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:200][762]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:246][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:296][764]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:348][765]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:414][766]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:469][767]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:543][768]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:601][769]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:653][770]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:712][771]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:769][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:824][773]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:885][774]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:927][775]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.55:985][776]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:033][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:100][778]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:159][779]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:231][780]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:280][781]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:349][782]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:473][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:479][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:540][785]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:598][786]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:660][787]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:707][788]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:770][789]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:822][790]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:889][791]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.56:942][792]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:019][793]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:077][794]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:151][795]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:197][796]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:271][797]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:331][798]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:404][799]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:451][800]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:522][801]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:572][802]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:633][803]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:677][804]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:749][805]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:790][806]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:846][807]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:890][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.57:959][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:003][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:071][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:116][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:197][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:241][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:300][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:352][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:478][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:486][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:589][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:632][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:704][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:750][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:824][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:870][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:940][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.58:990][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:063][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:104][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:172][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:215][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:277][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:320][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:384][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:428][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:519][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:557][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:638][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:682][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:735][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:790][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:839][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:885][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:928][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.45.59:985][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:033][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:088][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:123][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:167][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:220][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:315][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:356][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:426][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:470][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:548][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:593][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:663][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:708][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:754][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:798][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:844][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:890][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:942][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.00:995][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:047][864]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:114][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:172][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:233][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:288][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:355][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:420][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:477][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:544][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:614][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:669][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:742][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:793][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:856][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:908][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.01:976][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:031][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:088][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:147][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:211][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:321][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:368][885]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:456][886]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:499][887]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:561][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:619][889]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:683][890]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:732][891]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:798][892]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:844][893]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:921][894]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.02:951][895]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:008][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:056][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:124][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:170][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:230][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:274][901]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:334][902]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:383][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:468][904]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:511][905]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:590][906]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:630][907]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:698][908]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:741][909]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:813][910]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:858][911]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:919][912]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.03:965][913]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:033][914]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:088][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:140][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:187][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:257][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:302][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:361][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:404][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:485][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:530][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:576][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:632][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:682][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:728][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:801][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:843][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:912][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:968][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.04:996][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.05:043][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.13:662][100]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.13:703][101]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.13:747][102]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:754][126]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:793][127]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:833][128]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:871][129]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:913][130]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:952][131]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.14:992][132]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:032][133]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:070][134]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:110][135]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:153][136]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:189][137]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:232][138]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:270][139]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:308][140]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:351][141]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:411][142]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:460][143]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:508][144]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:605][145]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:656][146]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:706][147]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:742][148]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:782][149]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:812][150]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:853][151]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:909][152]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.15:967][153]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:031][154]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:068][155]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:136][156]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:174][157]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:261][158]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:304][159]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:384][160]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:425][161]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:517][162]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:557][163]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:647][164]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:681][165]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:736][166]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:778][167]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:853][168]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:902][169]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.16:976][170]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:007][171]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:088][172]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:127][173]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:172][174]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:225][175]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:283][176]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:369][177]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:410][178]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:484][179]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:530][180]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:599][181]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:649][182]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:723][183]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:773][184]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:835][185]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:875][186]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:933][187]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.17:973][188]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:035][189]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:074][190]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:115][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:159][192]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:224][193]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:262][194]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:316][195]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:355][196]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:406][197]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:446][198]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:536][199]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:559][200]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:627][201]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:663][202]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:712][203]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:754][204]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:794][205]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:837][206]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:873][207]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:914][208]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:954][209]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.18:995][210]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:039][211]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:102][212]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:133][213]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:178][214]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:228][215]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:272][216]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:325][217]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:363][218]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:418][219]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:473][220]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:526][221]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:567][222]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:658][223]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:698][224]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:748][225]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:785][226]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:840][227]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:882][228]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:944][229]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.19:986][230]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:063][231]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:103][232]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:168][233]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:212][234]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:273][235]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:312][236]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:361][237]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:412][238]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:468][239]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:510][240]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:595][241]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:633][242]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:718][243]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:756][244]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:799][245]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:846][246]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:918][247]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.20:962][248]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:029][249]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:070][250]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:150][251]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:200][252]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:293][253]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:339][254]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:441][255]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:480][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:569][257]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:610][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:706][259]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:749][260]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:831][261]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:872][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:945][263]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.21:987][264]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:070][265]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:115][266]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:211][267]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:253][268]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:327][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:368][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:433][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:475][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:558][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:600][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:667][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:709][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:798][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:844][278]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:930][279]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.22:962][280]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:038][281]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:081][282]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:149][283]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:191][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:279][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:314][286]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:406][287]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:447][288]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:522][289]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:560][290]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:625][291]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:669][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:726][293]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:776][294]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:814][295]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:854][296]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:898][297]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:944][298]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.23:981][299]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:031][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:088][301]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:120][302]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:184][303]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:226][304]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:289][305]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:332][306]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:377][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:414][308]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:460][309]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:498][310]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:539][311]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:590][312]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:624][313]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:665][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:718][315]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:745][316]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:790][317]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:827][318]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:879][319]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:921][320]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.24:965][321]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:002][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:049][323]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:096][324]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:128][325]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:166][326]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:213][327]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:256][328]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:296][329]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:340][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:402][331]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:462][332]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:523][333]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:565][334]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:625][335]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:680][336]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:728][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:783][338]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:840][339]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:890][340]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:943][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.25:998][342]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:053][343]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:113][344]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:180][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:242][346]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:310][347]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:370][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.09.29-10.46.26:966][357]LogSlate: Window 'GameJamProject (64-bit Development PCD3D_SM5) ' being destroyed
+[2018.09.29-10.46.26:970][357]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-10.46.27:001][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-10.46.27:001][357]LogEngine: All Windows Closed
+[2018.09.29-10.46.27:001][357]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.09.29-10.46.28:059][358]LogExit: Preparing to exit.
+[2018.09.29-10.46.28:059][358]LogMoviePlayer: Shutting down movie player
+[2018.09.29-10.46.28:977][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-10.46.29:014][358]LogExit: Game engine shut down
+[2018.09.29-10.46.29:266][358]LogExit: Object subsystem successfully closed.
+[2018.09.29-10.46.29:292][358]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.29-10.46.29:300][358]LogD3D11RHI: Shutdown
+[2018.09.29-10.46.29:300][358]LogD3D11RHI: CleanupD3DDevice
+[2018.09.29-10.46.29:336][358]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (376)
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module SequenceRecorder (374)
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module AutomationController (372)
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module AutomationWorker (370)
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module Voice (368)
+[2018.09.29-10.46.29:344][358]LogModuleManager: Shutting down and abandoning module AIModule (366)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module GameplayDebugger (365)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module AITestSuite (363)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module NavigationSystem (361)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (358)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (356)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (354)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (352)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (350)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (348)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module CharacterAI (346)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module SessionServices (344)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (342)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (340)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MovieScene (338)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (336)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module PortalServices (334)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module PortalRpc (332)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module MessagingRpc (330)
+[2018.09.29-10.46.29:345][358]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2018.09.29-10.46.29:532][358]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2018.09.29-10.46.29:533][358]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2018.09.29-10.46.29:535][358]LogModuleManager: Shutting down and abandoning module DatasmithContent (278)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (246)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (244)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2018.09.29-10.46.29:536][358]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.09.29-10.46.29:637][358]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.09.29-10.46.29:737][358]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.09.29-10.46.29:742][358]LogModuleManager: Shutting down and abandoning module Media (213)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.09.29-10.46.29:749][358]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.09.29-10.46.29:750][358]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.09.29-10.46.29:750][358]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.09.29-10.46.29:750][358]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2018.09.29-10.46.29:751][358]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.09.29-10.46.29:817][358]LogDerivedDataCache: Shutdown
+[2018.09.29-10.46.29:817][358]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.29-10.46.29:818][358]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.29-10.46.29:819][358]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.29-10.46.29:819][358]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.29-10.46.29:855][358]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.29-10.46.29:888][358]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.29-10.46.29:890][358]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.29-10.46.29:891][358]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.29-10.46.29:891][358]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.29-10.46.29:891][358]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.29-10.46.29:891][358]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.29-10.46.29:891][358]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.29-10.46.29:891][358]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.29-10.46.29:892][358]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.29-10.46.29:898][358]LogExit: Exiting.
+[2018.09.29-10.46.29:913][358]Log file closed, 09/29/18 12:46:29
+>>>>>>> 00f329ee520dff04050fc98a180c8f41abc5be5b
